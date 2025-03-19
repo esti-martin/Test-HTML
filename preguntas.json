@@ -1,0 +1,2202 @@
+[
+    {
+        "question": "1.¿Que significa HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "Hyper Trainer Marking Language"
+            },
+            {
+                "key": "b",
+                "text": "Hyper Text Markup Language"
+            },
+            {
+                "key": "c",
+                "text": "Hyperlinks and Text Markup Language"
+            },
+            {
+                "key": "d",
+                "text": "None of the above"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "2.¿Cual es la utilidad de la etiqueta <br> en HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "Para añadir un titulo"
+            },
+            {
+                "key": "b",
+                "text": "Para insertar una imagen"
+            },
+            {
+                "key": "c",
+                "text": "Para crear una tabla"
+            },
+            {
+                "key": "d",
+                "text": "Para insertar un salto de linea"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "question": "3.¿Cual de las siguientes etiquetas es usada para insertar una imagen en HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<img>"
+            },
+            {
+                "key": "b",
+                "text": "<image>"
+            },
+            {
+                "key": "c",
+                "text": "<pic>"
+            },
+            {
+                "key": "d",
+                "text": "<picture>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "4.¿Como se crea un enlace en HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<a>http://www.ejemplo.com</a>"
+            },
+            {
+                "key": "b",
+                "text": "<a href=\"http://www.ejemplo.com\">Ejemplo</a>"
+            },
+            {
+                "key": "c",
+                "text": "<link>http://www.ejemplo.com</link>"
+            },
+            {
+                "key": "d",
+                "text": "<a url=\"http://www.ejemplo.com\">Ejemplo</a>"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "5.¿Que etiqueta se utiliza para definir una lista numerada en HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<ul>"
+            },
+            {
+                "key": "b",
+                "text": "<ol>"
+            },
+            {
+                "key": "c",
+                "text": "<li>"
+            },
+            {
+                "key": "d",
+                "text": "<dl>"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "6.¿Como se puede abrir un enlace en una nueva pestaña del navegador?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<a href=\"url\" new>"
+            },
+            {
+                "key": "b",
+                "text": "<a href=\"url\" target=\"_blank\">"
+            },
+            {
+                "key": "c",
+                "text": "<a href=\"url\" target=\"new\">"
+            },
+            {
+                "key": "d",
+                "text": "<a href=\"url\" open=\"new_tab\">"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "7.¿Que etiqueta HTML se utiliza para definir un parrafo?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<paragraph>"
+            },
+            {
+                "key": "b",
+                "text": "<pg>"
+            },
+            {
+                "key": "c",
+                "text": "<p>"
+            },
+            {
+                "key": "d",
+                "text": "<para>"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "question": "8.¿Cual es el proposito de la etiqueta <title> en HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "Definir el titulo de una columna en una tabla en HTML?"
+            },
+            {
+                "key": "b",
+                "text": "Crear un titulo grande en el cuerpo del documento"
+            },
+            {
+                "key": "c",
+                "text": "Especificar el título del documento, que se muestra en la barra de título que se muestra en la barra de título del navegador"
+            },
+            {
+                "key": "d",
+                "text": "Ninguno de los anteriores"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "question": "9.¿Como se comenta el codigo en HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<!-- Esto es un comentario -->"
+            },
+            {
+                "key": "b",
+                "text": "// Esto es un comentario"
+            },
+            {
+                "key": "c",
+                "text": "/* Esto es un comentario */"
+            },
+            {
+                "key": "d",
+                "text": "# Esto es un comentario"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "10.¿Que etiqueta se usa para definir el encabezado de una tabla en HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<thead>"
+            },
+            {
+                "key": "b",
+                "text": "<th>"
+            },
+            {
+                "key": "c",
+                "text": "<header>"
+            },
+            {
+                "key": "d",
+                "text": "<tfoot>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "11.¿Que etiqueta se utiliza para el título mas grande en HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<h6>"
+            },
+            {
+                "key": "b",
+                "text": "<heading>"
+            },
+            {
+                "key": "c",
+                "text": "<h1>"
+            },
+            {
+                "key": "d",
+                "text": "<head>"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "question": "12.¿Que atributo se utiliza para proporcionar informacion adicional sobre un elemento?",
+        "options": [
+            {
+                "key": "a",
+                "text": "tooltip"
+            },
+            {
+                "key": "b",
+                "text": "alt"
+            },
+            {
+                "key": "c",
+                "text": "title"
+            },
+            {
+                "key": "d",
+                "text": "description"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "question": "13.¿Cual de las siguientes etiquetas se usa para agregar un salto de línea?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<break>"
+            },
+            {
+                "key": "b",
+                "text": "<lb>"
+            },
+            {
+                "key": "c",
+                "text": "<br>"
+            },
+            {
+                "key": "d",
+                "text": "<linebreak>"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "question": "14.¿Como se define un comentario en HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "// Comentario"
+            },
+            {
+                "key": "b",
+                "text": "/* Comentario */"
+            },
+            {
+                "key": "c",
+                "text": "<!-- Comentario -->"
+            },
+            {
+                "key": "d",
+                "text": "# Comentario"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "question": "15.¿Que atributo se usa para especificar la URL en la etiqueta <a>?",
+        "options": [
+            {
+                "key": "a",
+                "text": "link"
+            },
+            {
+                "key": "b",
+                "text": "href"
+            },
+            {
+                "key": "c",
+                "text": "url"
+            },
+            {
+                "key": "d",
+                "text": "src"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "16.¿Que etiqueta HTML se usa para definir una lista desordenada?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<ul>"
+            },
+            {
+                "key": "b",
+                "text": "<ol>"
+            },
+            {
+                "key": "c",
+                "text": "<li>"
+            },
+            {
+                "key": "d",
+                "text": "<dl>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "17.¿Que etiqueta se utiliza para insertar una imagen?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<src>"
+            },
+            {
+                "key": "b",
+                "text": "<image>"
+            },
+            {
+                "key": "c",
+                "text": "<img>"
+            },
+            {
+                "key": "d",
+                "text": "<pic>"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "question": "18.¿Para que se utiliza la etiqueta <iframe>?",
+        "options": [
+            {
+                "key": "a",
+                "text": "Para insertar un archivo de audio"
+            },
+            {
+                "key": "b",
+                "text": "Para insertar un documento HTML dentro de otro"
+            },
+            {
+                "key": "c",
+                "text": "Para crear una seccion interactiva"
+            },
+            {
+                "key": "d",
+                "text": "Para definir un marco de imagenes"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "19.¿Que etiqueta se utiliza para definir el pie de pagina de un documento o sección?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<footer>"
+            },
+            {
+                "key": "b",
+                "text": "<bottom>"
+            },
+            {
+                "key": "c",
+                "text": "<foot>"
+            },
+            {
+                "key": "d",
+                "text": "<end>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "20.¿Que significa la etiqueta <em>?",
+        "options": [
+            {
+                "key": "a",
+                "text": "Insertar"
+            },
+            {
+                "key": "b",
+                "text": "enfasis"
+            },
+            {
+                "key": "c",
+                "text": "Ejemplo"
+            },
+            {
+                "key": "d",
+                "text": "Eliminar"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "21.¿Que atributo especifica el destino de un enlace en la etiqueta <a>?",
+        "options": [
+            {
+                "key": "a",
+                "text": "target"
+            },
+            {
+                "key": "b",
+                "text": "dest"
+            },
+            {
+                "key": "c",
+                "text": "href"
+            },
+            {
+                "key": "d",
+                "text": "link"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "22.¿Que etiqueta se utiliza para crear un formulario en HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<form>"
+            },
+            {
+                "key": "b",
+                "text": "<input>"
+            },
+            {
+                "key": "c",
+                "text": "<fieldset>"
+            },
+            {
+                "key": "d",
+                "text": "<formulary>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "23.¿Que atributo de la etiqueta <input> define el tipo de control a mostrar?",
+        "options": [
+            {
+                "key": "a",
+                "text": "type"
+            },
+            {
+                "key": "b",
+                "text": "control"
+            },
+            {
+                "key": "c",
+                "text": "inputType"
+            },
+            {
+                "key": "d",
+                "text": "display"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "24.¿Como se define un encabezado de seccion en HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<header>"
+            },
+            {
+                "key": "b",
+                "text": "<head>"
+            },
+            {
+                "key": "c",
+                "text": "<section>"
+            },
+            {
+                "key": "d",
+                "text": "<top>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "25.¿Que etiqueta HTML se utiliza para mostrar datos tabulares?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<table>"
+            },
+            {
+                "key": "b",
+                "text": "<data>"
+            },
+            {
+                "key": "c",
+                "text": "<td>"
+            },
+            {
+                "key": "d",
+                "text": "<tab>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "26.¿Que atributo de la etiqueta <meta> especifica la codificacion de caracteres de la página web?",
+        "options": [
+            {
+                "key": "a",
+                "text": "charset"
+            },
+            {
+                "key": "b",
+                "text": "encoding"
+            },
+            {
+                "key": "c",
+                "text": "lang"
+            },
+            {
+                "key": "d",
+                "text": "character"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "27.¿Que etiqueta se utiliza para definir un ítem en una lista?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<li>"
+            },
+            {
+                "key": "b",
+                "text": "<item>"
+            },
+            {
+                "key": "c",
+                "text": "<list>"
+            },
+            {
+                "key": "d",
+                "text": "<il>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "28.¿Que atributo se utiliza para definir el nombre de un elemento de formulario?",
+        "options": [
+            {
+                "key": "a",
+                "text": "name"
+            },
+            {
+                "key": "b",
+                "text": "formName"
+            },
+            {
+                "key": "c",
+                "text": "id"
+            },
+            {
+                "key": "d",
+                "text": "type"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "29.¿Que etiqueta se usa para agrupar columnas en una tabla?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<colgroup>"
+            },
+            {
+                "key": "b",
+                "text": "<col>"
+            },
+            {
+                "key": "c",
+                "text": "<column>"
+            },
+            {
+                "key": "d",
+                "text": "<group>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "30.¿Que etiqueta se utiliza para definir una seccion de un documento?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<section>"
+            },
+            {
+                "key": "b",
+                "text": "<div>"
+            },
+            {
+                "key": "c",
+                "text": "<part>"
+            },
+            {
+                "key": "d",
+                "text": "<segment>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "31.¿Cual es el proposito de la etiqueta <title> en HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "Cambiar el color de fondo de la pagina."
+            },
+            {
+                "key": "b",
+                "text": "Crear un titulo visible en el cuerpo de la pagina."
+            },
+            {
+                "key": "c",
+                "text": "Definir el titulo del documento, que se muestra en la pestaña del navegador."
+            },
+            {
+                "key": "d",
+                "text": "Insertar imagenes."
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "question": "32.¿Que atributo de la etiqueta <a> se utiliza para definir la URL del enlace?",
+        "options": [
+            {
+                "key": "a",
+                "text": "src"
+            },
+            {
+                "key": "b",
+                "text": "href"
+            },
+            {
+                "key": "c",
+                "text": "link"
+            },
+            {
+                "key": "d",
+                "text": "url"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "33.¿Cual de estas etiquetas HTML se utiliza para añadir una imagen a una página web?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<image>"
+            },
+            {
+                "key": "b",
+                "text": "<img>"
+            },
+            {
+                "key": "c",
+                "text": "<pic>"
+            },
+            {
+                "key": "d",
+                "text": "<src>"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "34.¿Como se puede comentar el codigo en HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<!-- Comentario -->"
+            },
+            {
+                "key": "b",
+                "text": "// Comentario"
+            },
+            {
+                "key": "c",
+                "text": "/* Comentario */"
+            },
+            {
+                "key": "d",
+                "text": "# Comentario"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "35.¿Que etiqueta HTML se utiliza para definir una lista ordenada?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<ul>"
+            },
+            {
+                "key": "b",
+                "text": "<li>"
+            },
+            {
+                "key": "c",
+                "text": "<ol>"
+            },
+            {
+                "key": "d",
+                "text": "<dl>"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "question": "36.¿Que atributo se utiliza para abrir un enlace en una nueva ventana del navegador?",
+        "options": [
+            {
+                "key": "a",
+                "text": "new=\"_blank\""
+            },
+            {
+                "key": "b",
+                "text": "target=\"_blank\""
+            },
+            {
+                "key": "c",
+                "text": "window=\"new\""
+            },
+            {
+                "key": "d",
+                "text": "open=\"newWindow\""
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "37.¿Que etiqueta se usa para definir el pie de pagina de un documento o sección?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<footer>"
+            },
+            {
+                "key": "b",
+                "text": "<bottom>"
+            },
+            {
+                "key": "c",
+                "text": "<foot>"
+            },
+            {
+                "key": "d",
+                "text": "<endpage>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "38.¿Que etiqueta se utiliza para representar la importancia de un texto en HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<strong>"
+            },
+            {
+                "key": "b",
+                "text": "<em>"
+            },
+            {
+                "key": "c",
+                "text": "<mark>"
+            },
+            {
+                "key": "d",
+                "text": "<important>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "39.¿Cual de estas etiquetas HTML se utiliza para insertar un vídeo en una página web?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<video>"
+            },
+            {
+                "key": "b",
+                "text": "<media>"
+            },
+            {
+                "key": "c",
+                "text": "<movie>"
+            },
+            {
+                "key": "d",
+                "text": "<mp4>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "40.¿Que etiqueta se utiliza para agregar un salto de linea en HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<br>"
+            },
+            {
+                "key": "b",
+                "text": "<lb>"
+            },
+            {
+                "key": "c",
+                "text": "<break>"
+            },
+            {
+                "key": "d",
+                "text": "<linebreak>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "41.¿Que etiqueta se utiliza para crear un enlace en HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<link>"
+            },
+            {
+                "key": "b",
+                "text": "<a>"
+            },
+            {
+                "key": "c",
+                "text": "<href>"
+            },
+            {
+                "key": "d",
+                "text": "<navigate>"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "42.¿Que atributo se usa con la etiqueta <img> para proporcionar texto alternativo para la imagen?",
+        "options": [
+            {
+                "key": "a",
+                "text": "alt"
+            },
+            {
+                "key": "b",
+                "text": "title"
+            },
+            {
+                "key": "c",
+                "text": "description"
+            },
+            {
+                "key": "d",
+                "text": "text"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "43.¿Cual de las siguientes etiquetas HTML se usa para definir un párrafo?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<paragraph>"
+            },
+            {
+                "key": "b",
+                "text": "<p>"
+            },
+            {
+                "key": "c",
+                "text": "<pg>"
+            },
+            {
+                "key": "d",
+                "text": "<para>"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "44.¿Que etiqueta se utiliza para definir una cabecera en un documento HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<header>"
+            },
+            {
+                "key": "b",
+                "text": "<head>"
+            },
+            {
+                "key": "c",
+                "text": "<top>"
+            },
+            {
+                "key": "d",
+                "text": "<heading>"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "45.¿Cual de estas etiquetas se usa para insertar un salto de página en HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<breakpage>"
+            },
+            {
+                "key": "b",
+                "text": "<pagebreak>"
+            },
+            {
+                "key": "c",
+                "text": "<newpage>"
+            },
+            {
+                "key": "d",
+                "text": "Ninguna de las anteriores"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "question": "46.¿Que etiqueta HTML se utiliza para definir una lista desordenada?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<ul>"
+            },
+            {
+                "key": "b",
+                "text": "<ol>"
+            },
+            {
+                "key": "c",
+                "text": "<li>"
+            },
+            {
+                "key": "d",
+                "text": "<dl>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "47.¿Que atributo de la etiqueta <meta> define la descripcion de la página?",
+        "options": [
+            {
+                "key": "a",
+                "text": "name=\"description\""
+            },
+            {
+                "key": "b",
+                "text": "content=\"description\""
+            },
+            {
+                "key": "c",
+                "text": "description"
+            },
+            {
+                "key": "d",
+                "text": "type=\"description\""
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "48.¿Como se establece el color de fondo de una pagina en HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "Usando la etiqueta <background>"
+            },
+            {
+                "key": "b",
+                "text": "Mediante el atributo bgcolor en la etiqueta <body>"
+            },
+            {
+                "key": "c",
+                "text": "Con la etiqueta <bg>"
+            },
+            {
+                "key": "d",
+                "text": "Ninguna de las anteriores"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "question": "49.¿Que etiqueta se usa para agregar meta informacion al head de un documento HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<meta>"
+            },
+            {
+                "key": "b",
+                "text": "<info>"
+            },
+            {
+                "key": "c",
+                "text": "<data>"
+            },
+            {
+                "key": "d",
+                "text": "<details>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "50.¿Cual de las siguientes etiquetas se usa para definir texto importante en HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<important>"
+            },
+            {
+                "key": "b",
+                "text": "<strong>"
+            },
+            {
+                "key": "c",
+                "text": "<em>"
+            },
+            {
+                "key": "d",
+                "text": "<mark>"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "51.¿Que etiqueta HTML se utiliza para insertar una tabla?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<table>"
+            },
+            {
+                "key": "b",
+                "text": "<tbl>"
+            },
+            {
+                "key": "c",
+                "text": "<tab>"
+            },
+            {
+                "key": "d",
+                "text": "<tables>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "52.¿Cual de las siguientes etiquetas es correcta para definir un encabezado de sección en HTML5?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<section>"
+            },
+            {
+                "key": "b",
+                "text": "<header>"
+            },
+            {
+                "key": "c",
+                "text": "<head>"
+            },
+            {
+                "key": "d",
+                "text": "<sectionhead>"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "53.¿Que etiqueta se utiliza para agregar un pie de pagina a un documento o sección en HTML5?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<footer>"
+            },
+            {
+                "key": "b",
+                "text": "<bottom>"
+            },
+            {
+                "key": "c",
+                "text": "<foot>"
+            },
+            {
+                "key": "d",
+                "text": "<end>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "54.¿Cual de las siguientes etiquetas define un texto que debe ser marcado o resaltado por su relevancia o importancia en HTML5?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<highlight>"
+            },
+            {
+                "key": "b",
+                "text": "<mark>"
+            },
+            {
+                "key": "c",
+                "text": "<important>"
+            },
+            {
+                "key": "d",
+                "text": "<em>"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "55.¿Que atributo de la etiqueta <a> especifica el medio utilizado para abrir el enlace?",
+        "options": [
+            {
+                "key": "a",
+                "text": "target"
+            },
+            {
+                "key": "b",
+                "text": "media"
+            },
+            {
+                "key": "c",
+                "text": "mode"
+            },
+            {
+                "key": "d",
+                "text": "method"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "56.¿Que etiqueta se utiliza para definir una cita larga en HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<quote>"
+            },
+            {
+                "key": "b",
+                "text": "<blockquote>"
+            },
+            {
+                "key": "c",
+                "text": "<q>"
+            },
+            {
+                "key": "d",
+                "text": "<cite>"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "57.¿Cual etiqueta HTML se utiliza para especificar un campo de entrada independiente?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<input>"
+            },
+            {
+                "key": "b",
+                "text": "<field>"
+            },
+            {
+                "key": "c",
+                "text": "<enter>"
+            },
+            {
+                "key": "d",
+                "text": "<text>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "58.¿Que etiqueta HTML se utiliza para representar un control de formulario para seleccionar entre múltiples opciones?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<select>"
+            },
+            {
+                "key": "b",
+                "text": "<option>"
+            },
+            {
+                "key": "c",
+                "text": "<dropdown>"
+            },
+            {
+                "key": "d",
+                "text": "<choose>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "59.¿Cual de las siguientes etiquetas HTML se utiliza para incluir un archivo JavaScript en una página web?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<javascript>"
+            },
+            {
+                "key": "b",
+                "text": "<script>"
+            },
+            {
+                "key": "c",
+                "text": "<js>"
+            },
+            {
+                "key": "d",
+                "text": "<java>"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "60.¿Que etiqueta se usa para especificar un encabezado de columna en una tabla HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<th>"
+            },
+            {
+                "key": "b",
+                "text": "<td>"
+            },
+            {
+                "key": "c",
+                "text": "<thead>"
+            },
+            {
+                "key": "d",
+                "text": "<column>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "61.¿Cual de estas declaraciones es correcta para declarar el documento como HTML5?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<!DOCTYPE HTML PUBLIC>"
+            },
+            {
+                "key": "b",
+                "text": "<!DOCTYPE HTML5>"
+            },
+            {
+                "key": "c",
+                "text": "<!DOCTYPE html>"
+            },
+            {
+                "key": "d",
+                "text": "<!HTML>"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "question": "62.¿Que elemento se utiliza para representar la navegacion en un documento HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<navigate>"
+            },
+            {
+                "key": "b",
+                "text": "<nav>"
+            },
+            {
+                "key": "c",
+                "text": "<navigation>"
+            },
+            {
+                "key": "d",
+                "text": "<dir>"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "63.¿Que etiqueta HTML se usa para definir un texto preformateado?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<pre>"
+            },
+            {
+                "key": "b",
+                "text": "<format>"
+            },
+            {
+                "key": "c",
+                "text": "<code>"
+            },
+            {
+                "key": "d",
+                "text": "<text>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "64.¿Que etiqueta se utiliza para definir un encabezado de nivel 3",
+        "options": [
+            {
+                "key": "a",
+                "text": "<h3>"
+            },
+            {
+                "key": "b",
+                "text": "<heading3>"
+            },
+            {
+                "key": "c",
+                "text": "<head3>"
+            },
+            {
+                "key": "d",
+                "text": "<h3rd>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "65.¿Cual de las siguientes etiquetas HTML se utiliza para crear un botón?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<button>"
+            },
+            {
+                "key": "b",
+                "text": "<btn>"
+            },
+            {
+                "key": "c",
+                "text": "<input type=\"button\">"
+            },
+            {
+                "key": "d",
+                "text": "A y C son correctas"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "question": "66.¿Que atributo se usa para especificar la direccion de correo en un campo de formulario que recopila direcciones de correo electrónico?",
+        "options": [
+            {
+                "key": "a",
+                "text": "type=\"email\""
+            },
+            {
+                "key": "b",
+                "text": "type=\"mail\""
+            },
+            {
+                "key": "c",
+                "text": "type=\"text\""
+            },
+            {
+                "key": "d",
+                "text": "type=\"e-mail\""
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "67.¿Como se especifica que un campo de entrada debe ser obligatoriamente llenado antes de enviar el formulario?",
+        "options": [
+            {
+                "key": "a",
+                "text": "necessary=\"true\""
+            },
+            {
+                "key": "b",
+                "text": "required=\"true\""
+            },
+            {
+                "key": "c",
+                "text": "must=\"true\""
+            },
+            {
+                "key": "d",
+                "text": "required"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "question": "68.¿Que etiqueta se utiliza para agrupar elementos en un formulario que se pueden manejar como un solo bloque?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<fieldset>"
+            },
+            {
+                "key": "b",
+                "text": "<group>"
+            },
+            {
+                "key": "c",
+                "text": "<formgroup>"
+            },
+            {
+                "key": "d",
+                "text": "<set>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "69.¿Que atributo de la etiqueta <meta> es utilizado para especificar la clave de caracteres de una página web?",
+        "options": [
+            {
+                "key": "a",
+                "text": "charset"
+            },
+            {
+                "key": "b",
+                "text": "encoding"
+            },
+            {
+                "key": "c",
+                "text": "character-set"
+            },
+            {
+                "key": "d",
+                "text": "setchar"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "70.¿Que etiqueta HTML se utiliza para incluir un archivo CSS externo?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<link rel=\"stylesheet\" type=\"text/css\" href=\"estilo.css\">"
+            },
+            {
+                "key": "b",
+                "text": "<css src=\"estilo.css\">"
+            },
+            {
+                "key": "c",
+                "text": "<stylesheet>estilo.css</stylesheet>"
+            },
+            {
+                "key": "d",
+                "text": "<style src=\"estilo.css\"></style>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "71.¿Que etiqueta se usa para definir el cuerpo de un documento HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<body>"
+            },
+            {
+                "key": "b",
+                "text": "<main>"
+            },
+            {
+                "key": "c",
+                "text": "<content>"
+            },
+            {
+                "key": "d",
+                "text": "<documentBody>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "72.¿Que atributo de la etiqueta <a> define la URL a la que el enlace apunta?",
+        "options": [
+            {
+                "key": "a",
+                "text": "link"
+            },
+            {
+                "key": "b",
+                "text": "href"
+            },
+            {
+                "key": "c",
+                "text": "src"
+            },
+            {
+                "key": "d",
+                "text": "url"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "73.¿Como se especifica que un script JavaScript se debe ejecutar de forma asíncrona?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<script async>"
+            },
+            {
+                "key": "b",
+                "text": "<script defer>"
+            },
+            {
+                "key": "c",
+                "text": "<script type=\"async\">"
+            },
+            {
+                "key": "d",
+                "text": "<script src=\"async\">"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "74.¿Cual de las siguientes etiquetas es correcta para hacer que el texto esté en negrita?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<bold>"
+            },
+            {
+                "key": "b",
+                "text": "<strong>"
+            },
+            {
+                "key": "c",
+                "text": "<b>"
+            },
+            {
+                "key": "d",
+                "text": "B y C son correctas"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "question": "75.¿Que etiqueta se utiliza para insertar un salto de linea en HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<lb>"
+            },
+            {
+                "key": "b",
+                "text": "<break>"
+            },
+            {
+                "key": "c",
+                "text": "<br>"
+            },
+            {
+                "key": "d",
+                "text": "<linebreak>"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "question": "76.¿Que atributo de la etiqueta <meta> especifica el nombre del autor del documento?",
+        "options": [
+            {
+                "key": "a",
+                "text": "name=\"author\""
+            },
+            {
+                "key": "b",
+                "text": "author=\"name\""
+            },
+            {
+                "key": "c",
+                "text": "content=\"author\""
+            },
+            {
+                "key": "d",
+                "text": "type=\"author\""
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "77.¿Cual de estas etiquetas HTML se usa para definir una lista ordenada alfabéticamente?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<ul>"
+            },
+            {
+                "key": "b",
+                "text": "<ol type=\"A\">"
+            },
+            {
+                "key": "c",
+                "text": "<ol>"
+            },
+            {
+                "key": "d",
+                "text": "<list type=\"alpha\">"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "78.¿Que etiqueta HTML se utiliza para especificar un pie de página para un documento o sección?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<footer>"
+            },
+            {
+                "key": "b",
+                "text": "<bottom>"
+            },
+            {
+                "key": "c",
+                "text": "<foot>"
+            },
+            {
+                "key": "d",
+                "text": "<end>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "79.¿Que atributo se utiliza para hacer que un campo de formulario no sea editable?",
+        "options": [
+            {
+                "key": "a",
+                "text": "immutable"
+            },
+            {
+                "key": "b",
+                "text": "fixed"
+            },
+            {
+                "key": "c",
+                "text": "readonly"
+            },
+            {
+                "key": "d",
+                "text": "locked"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "question": "80.¿Que etiqueta se usa para agregar informacion sobre la pagina en la cabecera del documento, como el conjunto de caracteres o las palabras clave?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<meta>"
+            },
+            {
+                "key": "b",
+                "text": "<info>"
+            },
+            {
+                "key": "c",
+                "text": "<data>"
+            },
+            {
+                "key": "d",
+                "text": "<headinfo>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "81.¿Que etiqueta HTML se utiliza para definir una seccion dentro de un documento?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<div>"
+            },
+            {
+                "key": "b",
+                "text": "<section>"
+            },
+            {
+                "key": "c",
+                "text": "<part>"
+            },
+            {
+                "key": "d",
+                "text": "<segment>"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "82.¿Cual es el proposito de la etiqueta <meta> en HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "Para definir el esquema de colores de una pagina."
+            },
+            {
+                "key": "b",
+                "text": "Para insertar imagenes en el documento."
+            },
+            {
+                "key": "c",
+                "text": "Para proporcionar metadatos como los caracteres y las descripciones de la página."
+            },
+            {
+                "key": "d",
+                "text": "Para añadir enlaces a las fuentes de JavaScript."
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "question": "83.¿Que atributo se utiliza con <img> para describir la imagen?",
+        "options": [
+            {
+                "key": "a",
+                "text": "src"
+            },
+            {
+                "key": "b",
+                "text": "alt"
+            },
+            {
+                "key": "c",
+                "text": "desc"
+            },
+            {
+                "key": "d",
+                "text": "title"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "84.¿Que etiqueta se utiliza para crear un enlace que abre el correo electrónico del usuario para enviar un nuevo mensaje?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<a href=\"mailto:ejemplo@correo.com\">"
+            },
+            {
+                "key": "b",
+                "text": "<email>"
+            },
+            {
+                "key": "c",
+                "text": "<mail>"
+            },
+            {
+                "key": "d",
+                "text": "<contact>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "85.¿Que etiqueta HTML se utiliza para reproducir un video?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<media>"
+            },
+            {
+                "key": "b",
+                "text": "<video>"
+            },
+            {
+                "key": "c",
+                "text": "<movie>"
+            },
+            {
+                "key": "d",
+                "text": "<mp4>"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "86.¿Como se puede aumentar el tamaño de un campo de texto en un formulario?",
+        "options": [
+            {
+                "key": "a",
+                "text": "Usando el atributo length."
+            },
+            {
+                "key": "b",
+                "text": "Ajustando el atributo size."
+            },
+            {
+                "key": "c",
+                "text": "Cambiando el estilo CSS width."
+            },
+            {
+                "key": "d",
+                "text": "B y C son correctas."
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "question": "87.¿Que etiqueta se usa para especificar independientemente un grupo de estilos en HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<styles>"
+            },
+            {
+                "key": "b",
+                "text": "<css>"
+            },
+            {
+                "key": "c",
+                "text": "<style>"
+            },
+            {
+                "key": "d",
+                "text": "<format>"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "question": "88.¿Cual de estas declaraciones sobre HTML es correcta?",
+        "options": [
+            {
+                "key": "a",
+                "text": "HTML utiliza etiquetas para cerrar."
+            },
+            {
+                "key": "b",
+                "text": "HTML es un lenguaje de programacion."
+            },
+            {
+                "key": "c",
+                "text": "HTML es case-sensitive."
+            },
+            {
+                "key": "d",
+                "text": "HTML es un lenguaje de marcado utilizado para crear documentos web."
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "question": "89.¿Que etiqueta se usa para agregar un pie de pagina a una sección o documento?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<footer>"
+            },
+            {
+                "key": "b",
+                "text": "<bottom>"
+            },
+            {
+                "key": "c",
+                "text": "<foot>"
+            },
+            {
+                "key": "d",
+                "text": "<end>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "90.¿Que atributo de la etiqueta <ol> cambia el tipo de numeracion de la lista?",
+        "options": [
+            {
+                "key": "a",
+                "text": "num"
+            },
+            {
+                "key": "b",
+                "text": "type"
+            },
+            {
+                "key": "c",
+                "text": "style"
+            },
+            {
+                "key": "d",
+                "text": "format"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "91.¿Que etiqueta se utiliza para definir el encabezamiento de un documento HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<head>"
+            },
+            {
+                "key": "b",
+                "text": "<header>"
+            },
+            {
+                "key": "c",
+                "text": "<heading>"
+            },
+            {
+                "key": "d",
+                "text": "<top>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "92.¿Que atributo de la etiqueta <link> se utiliza para relacionar una hoja de estilos CSS con un documento HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "src"
+            },
+            {
+                "key": "b",
+                "text": "rel"
+            },
+            {
+                "key": "c",
+                "text": "type"
+            },
+            {
+                "key": "d",
+                "text": "href"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "93.¿Cual es la funcion de la etiqueta <base> en HTML?",
+        "options": [
+            {
+                "key": "a",
+                "text": "Especificar una base para los enlaces."
+            },
+            {
+                "key": "b",
+                "text": "Definir una base de datos."
+            },
+            {
+                "key": "c",
+                "text": "Establecer el color base del documento."
+            },
+            {
+                "key": "d",
+                "text": "Crear una base para el JavaScript."
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "94.¿Que etiqueta HTML se usa para definir texto con un significado más fuerte?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<bold>"
+            },
+            {
+                "key": "b",
+                "text": "<strong>"
+            },
+            {
+                "key": "c",
+                "text": "<important>"
+            },
+            {
+                "key": "d",
+                "text": "<b>"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "question": "95.¿Que atributo de <input> crea un boton para limpiar el formulario?",
+        "options": [
+            {
+                "key": "a",
+                "text": "type=\"reset\""
+            },
+            {
+                "key": "b",
+                "text": "type=\"clear\""
+            },
+            {
+                "key": "c",
+                "text": "type=\"delete\""
+            },
+            {
+                "key": "d",
+                "text": "type=\"remove\""
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "96.¿Cual de las siguientes etiquetas se utiliza para representar un articulo en HTML5?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<article>"
+            },
+            {
+                "key": "b",
+                "text": "<item>"
+            },
+            {
+                "key": "c",
+                "text": "<section>"
+            },
+            {
+                "key": "d",
+                "text": "<content>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "97.¿Que etiqueta HTML se utiliza para definir datos con un valor y un nombre en una lista de descripciones?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<dd>"
+            },
+            {
+                "key": "b",
+                "text": "<dl>"
+            },
+            {
+                "key": "c",
+                "text": "<dt>"
+            },
+            {
+                "key": "d",
+                "text": "<list>"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "question": "98.¿Que elemento HTML5 se utiliza para especificar figuras independientes, como ilustraciones, diagramas, fotos, código, etc., con contenido opcional?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<figure>"
+            },
+            {
+                "key": "b",
+                "text": "<image>"
+            },
+            {
+                "key": "c",
+                "text": "<figcaption>"
+            },
+            {
+                "key": "d",
+                "text": "<photo>"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "99.¿Que atributo se utiliza en HTML para validar que el valor en el campo de entrada debe ser un número?",
+        "options": [
+            {
+                "key": "a",
+                "text": "type=\"number\""
+            },
+            {
+                "key": "b",
+                "text": "format=\"numeric\""
+            },
+            {
+                "key": "c",
+                "text": "value=\"number\""
+            },
+            {
+                "key": "d",
+                "text": "input=\"digit\""
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "question": "100.¿Que etiqueta HTML se utiliza para especificar un encabezado para un documento o sección?",
+        "options": [
+            {
+                "key": "a",
+                "text": "<header>"
+            },
+            {
+                "key": "b",
+                "text": "<head>"
+            },
+            {
+                "key": "c",
+                "text": "<top>"
+            },
+            {
+                "key": "d",
+                "text": "<section title>"
+            }
+        ],
+        "correct": "a"
+    }
+]
