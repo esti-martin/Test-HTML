@@ -5,13 +5,14 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="style.css" />
-  <title>Quizz HTML</title>
+  <title>Quiz HTML</title>
+  <script src="script.js" defer></script>
 </head>
 
 <body>
   <div class="quiz-container" id="quiz">
     <div class="quiz-header">
-      <h2 id="question">Quizz HTML</h2>
+      <h2 id="question">Quiz HTML</h2>
       <div class="progress-bar">
         <div class="progress-bar-fill" id="progress-bar-fill">0%</div>
       </div>
@@ -20,21 +21,17 @@
           <input type="radio" name="answer" id="a" class="answer">
           <label for="a" id="a_text">Question</label>
         </li>
-
         <li>
           <input type="radio" name="answer" id="b" class="answer">
           <label for="b" id="b_text">Question</label>
         </li>
-
         <li>
           <input type="radio" name="answer" id="c" class="answer">
           <label for="c" id="c_text">Question</label>
         </li>
-
         <li>
           <input type="radio" name="answer" id="d" class="answer">
           <label for="d" id="d_text">Question</label>
-        </li>
         </li>
       </ul>
     </div>
@@ -44,7 +41,20 @@
       <div id="incorrect" class="incorrect">ERROR!!</div>
     </div>
   </div>
-  <script src="script.js"></script>
+
+  <div id="resultados" style="display: none;">
+    <h2>Resultados</h2>
+    <p id="puntuacion"></p>
+    <div class="result-list">
+      <h3>Respuestas Correctas</h3>
+      <ul id="listaCorrectas"></ul>
+    </div>
+    <div class="result-list">
+      <h3>Respuestas Incorrectas</h3>
+      <ul id="listaIncorrectas"></ul>
+    </div>
+    <button class="reiniciar" onclick="reiniciarTest()">Reiniciar</button>
+  </div>
 </body>
 
 </html>

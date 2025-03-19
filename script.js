@@ -1,112 +1,118 @@
-let selectedQuestions; // Declarar selectedQuestions como variable global
-let numQuestions; // Declarar numQuestions como variable global
+document.addEventListener("DOMContentLoaded", function () {
+    let preguntas = []; // Variable para almacenar las preguntas
 
-fetch("preguntas.json")
-    .then(response => response.json())
-    .then(data => {
-        let quizData = data; // Aquí se almacenan las preguntas
-        iniciarQuiz(quizData);
-    })
-    .catch(error => {
-        console.error("Error al cargar el archivo JSON:", error);
-    });
+    fetch("preguntas.json") // Carga el JSON
+        .then((response) => {
+            if (!response.ok) {
+                throw new Error(`Error al cargar el archivo JSON: ${response.status} ${response.statusText}`);
+            }
+            return response.json();
+        })
+        .then((data) => {
+            preguntas = data;
+            console.log("Preguntas cargadas:", preguntas); // Mensaje de depuración
+            iniciarQuiz(); // Llamar a la función que inicia el test
+        })
+        .catch((error) => console.error("Error cargando JSON:", error));
 
-function iniciarQuiz(quizData) {
-    numQuestions = parseInt(prompt("¿Cuántas preguntas deseas responder? (Máximo 100)", "100"));
-    if (isNaN(numQuestions) || numQuestions < 1 || numQuestions > 100) {
-        alert("Por favor, ingresa un número entre 1 y 100.");
-        location.reload();
+    function iniciarQuiz() {
+        let preguntasRealizadas = JSON.parse(localStorage.getItem("preguntasRealizadas")) || [];
+
+        // Si no hay preguntas guardadas, seleccionar aleatoriamente 10
+        if (preguntasRealizadas.length === 0) {
+            preguntasRealizadas = seleccionarPreguntasAleatorias(preguntas, 10);
+            localStorage.setItem("preguntasRealizadas", JSON.stringify(preguntasRealizadas));
+        }
+
+        console.log("Preguntas realizadas al iniciar:", preguntasRealizadas); // Mensaje de depuración
+        mostrarPregunta(0);
+    }  // Fin de la función iniciarQuiz
+
+    function seleccionarPreguntasAleatorias(lista, cantidad) {
+        let preguntasSeleccionadas = lista.sort(() => Math.random() - 0.5).slice(0, cantidad);
+        return preguntasSeleccionadas;
     }
-    selectedQuestions = quizData.sort(() => 0.5 - Math.random()).slice(0, numQuestions);
-    //console.log(selectedQuestions); // Verificar que selectedQuestions se inicialice correctamente
-    loadQuiz();
-}
 
-const quiz = document.getElementById('quiz');
-const answerEls = document.querySelectorAll('.answer');
-const questionEl = document.getElementById('question');
-const a_text = document.getElementById('a_text');
-const b_text = document.getElementById('b_text');
-const c_text = document.getElementById('c_text');
-const d_text = document.getElementById('d_text');
-const submitBtn = document.getElementById('submit');
-const correctEl = document.getElementById('correct');
-const incorrectEl = document.getElementById('incorrect');
-const progressBarFill = document.getElementById('progress-bar-fill');
+    let indicePreguntaActual = 0;
+    let puntuacion = localStorage.getItem("puntuacion") ? parseInt(localStorage.getItem("puntuacion")) : 0;
 
-let currentQuiz = 0;
-let score = 0;
-let incorrectQuestions = [];
+    function mostrarPregunta(indice) {
+        let preguntasRealizadas = JSON.parse(localStorage.getItem("preguntasRealizadas")) || [];
+        console.log("Mostrando pregunta:", indice, preguntasRealizadas); // Mensaje de depuración
 
-function loadQuiz() {
-    deselectAnswers();
-
-    const currentQuizData = selectedQuestions[currentQuiz];
-
-    questionEl.innerText = currentQuizData.question;
-    a_text.innerText = currentQuizData.options.find(option => option.key === 'a').text;
-    b_text.innerText = currentQuizData.options.find(option => option.key === 'b').text;
-    c_text.innerText = currentQuizData.options.find(option => option.key === 'c').text;
-    d_text.innerText = currentQuizData.options.find(option => option.key === 'd').text;
-
-    //correctEl.innerText = `Correctas: ${score}`;
-    //incorrectEl.innerText = `Incorrectas: ${currentQuiz - score}`;
-
-    correctEl.style.display = 'none';
-    incorrectEl.style.display = 'none';
-
-    updateProgressBar();
-}
-
-function deselectAnswers() {
-    answerEls.forEach(answerEl => answerEl.checked = false);
-}
-
-function getSelected() {
-    let answer;
-
-    answerEls.forEach(answerEl => {
-        if (answerEl.checked) {
-            answer = answerEl.id;
+        if (indice >= preguntasRealizadas.length) {
+            mostrarResultados();
+            return;
         }
-    });
 
-    return answer;
-}
+        let pregunta = preguntasRealizadas[indice];
+        console.log("Pregunta actual:", pregunta); // Mensaje de depuración
 
-function updateProgressBar() {
-    const progress = ((currentQuiz + 1) / selectedQuestions.length) * 100;
-    progressBarFill.style.width = `${progress}%`;
-    progressBarFill.innerText = `${Math.round(progress)}%`;
-}
+        // Punto de interrupción para depuración
+        //debugger;
 
-submitBtn.addEventListener('click', () => {
-    const answer = getSelected();
+        let contenedor = document.getElementById("quiz");
 
-    if (answer) {
-        if (answer === selectedQuestions[currentQuiz].correct) {
-            score++;
-            correctEl.style.display = 'block';
-            incorrectEl.style.display = 'none';
-            setTimeout(() => {
-                currentQuiz++;
-                if (currentQuiz < selectedQuestions.length) {
-                    loadQuiz();
-                } else {
-                    quiz.innerHTML = `
-                        <h2>¡Felicidades! Respondiste correctamente ${score}/${selectedQuestions.length} preguntas.</h2>
-                        <button onclick="location.reload()">Reiniciar</button>
-                    `;
-                }
-            }, 1000);
+        if (!pregunta || !pregunta.opciones) {
+            console.error("Pregunta u opciones no definidas:", pregunta);
+            return;
+        }
+
+        contenedor.innerHTML = `
+    <h2>${pregunta.pregunta}</h2>
+    <ul>
+      ${pregunta.opciones.map((opcion, i) => `<li><button onclick="verificarRespuesta(${indice}, \`${opcion.replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;')}\`)">${opcion.replace(/</g, '&lt;').replace(/>/g, '&gt;')}</button></li>`).join("")}
+    </ul>
+  `;
+    }
+
+    function verificarRespuesta(indice, respuestaUsuario) {
+        let preguntasRealizadas = JSON.parse(localStorage.getItem("preguntasRealizadas")) || [];
+        let preguntaActual = preguntasRealizadas[indice];
+
+        if (respuestaUsuario === preguntaActual.respuestaCorrecta) {
+            puntuacion++;
+            let respuestasCorrectas = JSON.parse(localStorage.getItem("respuestasCorrectas")) || [];
+            respuestasCorrectas.push({ pregunta: preguntaActual.pregunta, respuestaUsuario });
+            localStorage.setItem("respuestasCorrectas", JSON.stringify(respuestasCorrectas));
         } else {
-            incorrectEl.style.display = 'block';
-            correctEl.style.display = 'none';
-            incorrectQuestions.push(selectedQuestions[currentQuiz]);
-            setTimeout(() => {
-                loadQuiz();
-            }, 1000);
+            let respuestasIncorrectas = JSON.parse(localStorage.getItem("respuestasIncorrectas")) || [];
+            respuestasIncorrectas.push({
+                pregunta: preguntaActual.pregunta,
+                respuestaUsuario,
+                correcta: preguntaActual.respuestaCorrecta
+            });
+            localStorage.setItem("respuestasIncorrectas", JSON.stringify(respuestasIncorrectas));
         }
 
+        localStorage.setItem("puntuacion", puntuacion);
+
+        console.log("Preguntas realizadas después de verificar respuesta:", preguntasRealizadas); // Mensaje de depuración
+        mostrarPregunta(indice + 1);
+    }
+
+    window.verificarRespuesta = verificarRespuesta; // Hacer que la función esté disponible globalmente
+
+    function mostrarResultados() {
+        let contenedorResultados = document.getElementById("resultados");
+        let puntuacionTexto = document.getElementById("puntuacion");
+        let listaCorrectas = document.getElementById("listaCorrectas");
+        let listaIncorrectas = document.getElementById("listaIncorrectas");
+
+        let respuestasCorrectas = JSON.parse(localStorage.getItem("respuestasCorrectas")) || [];
+        let respuestasIncorrectas = JSON.parse(localStorage.getItem("respuestasIncorrectas")) || [];
+
+        puntuacionTexto.innerHTML = `<strong>Puntuación Final:</strong> ${puntuacion}`;
+
+        listaCorrectas.innerHTML = respuestasCorrectas.map(resp => `<li><strong>${resp.pregunta}</strong>: ${resp.respuestaUsuario}</li>`).join("");
+        listaIncorrectas.innerHTML = respuestasIncorrectas.map(resp => `<li><strong>${resp.pregunta}</strong>: ${resp.respuestaUsuario} (Correcta: ${resp.correcta})</li>`).join("");
+
+        document.getElementById("quiz").style.display = "none"; // Ocultar el quiz
+        contenedorResultados.style.display = "block"; // Mostrar resultados
+    }
+
+    function reiniciarTest() {
+        localStorage.clear();
+        location.reload();
     }
 });
