@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="./css/style.css" />
+  <title>Test de CSS</title>
+  <script src="./js/script.js" type="module" defer></script>
+</head>
+
+<body>
+  <div class="quiz-container" id="quiz">
+    <div class="quiz-header">
+      <h2 id="question">question de CSS</h2>
+      <ul>
+        <li>
+          <input type="radio" name="answer" id="a" class="answer">
+          <label for="a" id="a_text">Opción A</label>
+        </li>
+        <li>
+          <input type="radio" name="answer" id="b" class="answer">
+          <label for="b" id="b_text">Opción B</label>
+        </li>
+        <li>
+          <input type="radio" name="answer" id="c" class="answer">
+          <label for="c" id="c_text">Opción C</label>
+        </li>
+        <li>
+          <input type="radio" name="answer" id="d" class="answer">
+          <label for="d" id="d_text">Opción D</label>
+        </li>
+      </ul>
+    </div>
+    <button id="submit">Enviar</button>
+    <div id="feedback">
+      <div id="correct" class="correct">CORRECTO!!</div>
+      <div id="incorrect" class="incorrect">ERROR!!</div>
+    </div>
+  </div>
+
+  <div id="resultados" style="display: none;">
+    <h2>Resultados</h2>
+    <p id="puntuacion"></p>
+    <div class="result-list">
+      <h3>Respuestas Correctas</h3>
+      <ul id="listaCorrectas"></ul>
+    </div>
+    <div class="result-list">
+      <h3>Respuestas Incorrectas</h3>
+      <ul id="listaIncorrectas"></ul>
+    </div>
+    <button class="reiniciar" id="reiniciar">Reiniciar</button>
+    <button class="reiniciar" id="otroTest">Realizar Otro Test</button> <!-- Nuevo botón -->
+  </div>
+</body>
+
+</html>

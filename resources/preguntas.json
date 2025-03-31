@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "¿Qué significa CSS?",
+    "answers": [
+      "Colorful Style Sheets",
+      "Computer Style Sheets",
+      "Creative Style Sheets",
+      "Cascading Style Sheets"
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "¿Qué sintaxis es correcta para hacer referencia a un archivo CSS externo?",
+    "answers": [
+      "<link href=\"estilo.css\" rel=\"stylesheet\">",
+      "<stylesheet>mystyle.css</stylesheet>",
+      "<style src=\"estilo.css\">",
+      "<css>estilo.css</css>"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se inserta un comentario en un archivo CSS?",
+    "answers": [
+      "// esto es un comentario",
+      "<!-- esto es un comentario -->",
+      "/* esto es un comentario */",
+      "# esto es un comentario"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Cuál es la forma correcta de definir que todos los elementos `<p>` deben tener color de texto rojo en CSS?",
+    "answers": [
+      "p {color: red;}",
+      "all.p {color: red;}",
+      "p.all {color: red;}",
+      "p.color {text: red;}"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad se utiliza para cambiar el color de fondo?",
+    "answers": [
+      "bgcolor",
+      "color",
+      "background-color",
+      "fondo"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Cómo se hace para que todos los elementos `<a>` aparezcan sin subrayado?",
+    "answers": [
+      "a {text-decoration: none;}",
+      "a {decoration: no-underline;}",
+      "a {underline: none;}",
+      "a {text-decoration: no-underline;}"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se selecciona un elemento con el id \"demo\"?",
+    "answers": [
+      ".demo",
+      "#demo",
+      "demo",
+      "%demo"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Qué propiedad se usa para cambiar el tipo de letra?",
+    "answers": [
+      "font-family",
+      "font-type",
+      "typeface",
+      "font-style"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se aplica un estilo a todos los elementos `<h>` solo cuando están dentro de elementos con la clase `.important`?",
+    "answers": [
+      "h.important {...}",
+      "important.h {...}",
+      ".important h {...}",
+      "h + .important {...}"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Cuál es la propiedad correcta para establecer el espaciado entre palabras?",
+    "answers": [
+      "word-spacing",
+      "spacing",
+      "letter-spacing",
+      "text-spacing"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se establece el margen izquierdo de un elemento?",
+    "answers": [
+      "margin-left",
+      "margin: left",
+      "padding-left",
+      "margin: 0 auto"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué unidad NO es una unidad de medida en CSS?",
+    "answers": [
+      "px",
+      "cm",
+      "mm",
+      "inches"
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "¿Cuál es la propiedad correcta para establecer el grosor de una fuente?",
+    "answers": [
+      "font-weight",
+      "font-style",
+      "font-size",
+      "font-thickness"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se hace que un elemento se muestre como bloque?",
+    "answers": [
+      "display: block;",
+      "display: inline;",
+      "display: inline-block;",
+      "display: none;"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cuál propiedad se utiliza para establecer la altura de un elemento?",
+    "answers": [
+      "width",
+      "height",
+      "length",
+      "size"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cómo se seleccionan todos los párrafos (`<p>`) que son directamente hijos de un `<div>`?",
+    "answers": [
+      "div > p",
+      "div + p",
+      "div p",
+      "p > div"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué función CSS se utiliza para crear transiciones entre estados de un elemento?",
+    "answers": [
+      "transition()",
+      "animate()",
+      "change()",
+      "transform()"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se define una variable CSS que almacena un color primario?",
+    "answers": [
+      "$primary-color: blue;",
+      "@primary-color: blue;",
+      "--primary-color: blue;",
+      "%primary-color: blue;"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Qué propiedad CSS se utiliza para hacer que el texto esté en mayúsculas?",
+    "answers": [
+      "text-transform: uppercase;",
+      "text-style: uppercase;",
+      "font-case: uppercase;",
+      "text-case: uppercase;"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se aplica un estilo CSS a todos los elementos excepto a aquellos con la clase `.exclude`?",
+    "answers": [
+      "*:not(.exclude) { ... }",
+      "*.exclude { ... }",
+      "! .exclude { ... }",
+      "none(.exclude) { ... }"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad se utiliza para establecer la opacidad de un elemento?",
+    "answers": [
+      "visibility",
+      "filter",
+      "transparency",
+      "opacity"
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "¿Cómo se puede hacer que un elemento no se muestre sin afectar el diseño de la página?",
+    "answers": [
+      "display: none;",
+      "visibility: hidden;",
+      "opacity: 0;",
+      "display: invisible;"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Qué selector se utiliza para apuntar a un elemento con un atributo específico?",
+    "answers": [
+      "[atributo]",
+      "{atributo}",
+      "(atributo)",
+      "@atributo"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cuál de las siguientes NO es una propiedad de flexbox?",
+    "answers": [
+      "flex-grow",
+      "flex-basis",
+      "flex-wrap",
+      "flex-color"
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "¿Cómo se establece el espaciado entre las líneas de texto?",
+    "answers": [
+      "text-height",
+      "line-spacing",
+      "line-height",
+      "text-spacing"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Qué propiedad se usa para crear sombras alrededor de un elemento?",
+    "answers": [
+      "box-shadow",
+      "text-shadow",
+      "shadow",
+      "border-shadow"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se puede cambiar el estilo del cursor?",
+    "answers": [
+      "cursor: pointer;",
+      "pointer: cursor;",
+      "cursor: hand;",
+      "hand: cursor;"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cuál es la propiedad correcta para hacer que los elementos `<a>` cambien el color al pasar el mouse sobre ellos?",
+    "answers": [
+      "a:hover {color: red;}",
+      "a:mouseover {color: red;}",
+      "a:hover {background-color: red;}",
+      "a:mouse {color: red;}"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad CSS se utiliza para controlar la posición de un elemento de fondo?",
+    "answers": [
+      "background-position",
+      "background-placement",
+      "background-location",
+      "background-spot"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se puede incluir un archivo CSS en HTML para impresión solamente?",
+    "answers": [
+      "<link href=\"print.css\" rel=\"stylesheet\" media=\"print\">",
+      "<link href=\"print.css\" rel=\"stylesheet\" media=\"screen\">",
+      "<link href=\"print.css\" rel=\"stylesheet\" type=\"print\">",
+      "<stylesheet>print.css</stylesheet>"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué selector CSS se usa para definir un estilo para elementos únicos?",
+    "answers": [
+      "ID selector (#id)",
+      "Clase selector (.class)",
+      "Tipo selector (element)",
+      "Universal selector (*)"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se representa un color RGB en CSS que tiene el máximo de rojo, ningún verde, y un poco de azul?",
+    "answers": [
+      "rgb(255, 0, 255)",
+      "rrgb(255, 0, 0)",
+      "rgb(0, 0, 255)",
+      "rgb(255, 0, 15)"
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "¿Qué propiedad CSS se utiliza para establecer el espaciado entre bordes de elementos adyacentes?",
+    "answers": [
+      "margin",
+      "border",
+      "padding",
+      "space"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad permite controlar el tamaño de la fuente?",
+    "answers": [
+      "text-size",
+      "font-weight",
+      "font-style",
+      "font-size"
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "¿Cómo se establece una imagen de fondo para un elemento?",
+    "answers": [
+      "background: url('imagen.jpg');",
+      "background-image: url('imagen.jpg');",
+      "background-content: url('imagen.jpg');",
+      "background-picture: url('imagen.jpg');"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Qué propiedad se usa para cambiar la dirección del texto?",
+    "answers": [
+      "text-align",
+      "text-direction",
+      "direction",
+      "text-flow"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Cómo se puede forzar a un elemento a tener un ancho mínimo de 200px y un ancho máximo de 400px?",
+    "answers": [
+      "width: min(200px, max(400px));",
+      "min-width: 200px; max-width: 400px;",
+      "width: 200px; max-width: 400px;",
+      "width: between(200px, 400px);"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cómo se aplica una hoja de estilo solo para pantallas con una anchura menor a 600px?",
+    "answers": [
+      "<link href=\"small.css\" rel=\"stylesheet\" media=\"max-width: 600px\">",
+      "<link href=\"small.css\" rel=\"stylesheet\" media=\"screen and (max-width: 600px)\">",
+      "<style media=\"screen and (max-width: 600px)\">@import \"small.css\";</style>",
+      "<link href=\"small.css\" rel=\"stylesheet\" type=\"text/css\" media=\"only screen and (max-width: 600px)\">"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cuál es la forma correcta de aplicar un gradiente como fondo en CSS?",
+    "answers": [
+      "background: gradient(linear, left top, right bottom, from(#ff0000), to(#0000ff));",
+      "background-image: linear-gradient(to bottom right, #ff0000, #0000ff);",
+      "background: linear-gradient(left top, #ff0000, #0000ff);",
+      "background-color: gradient(#ff0000, #0000ff);"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cómo se seleccionan todos los elementos `<input>` de tipo `text` en un formulario?",
+    "answers": [
+      "input[text]",
+      "input[type=\"text\"]",
+      "input.text",
+      "text[input]"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Qué propiedad se utiliza para establecer la posición de un fondo dentro de un elemento?",
+    "answers": [
+      "background-align",
+      "background-position",
+      "background-placement",
+      "background-location"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Qué propiedad CSS se utiliza para hacer que un elemento sea completamente invisible y no ocupe espacio en el diseño de la página?",
+    "answers": [
+      "visibility: hidden;",
+      "display: none;",
+      "opacity: 0;",
+      "hidden: true;"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cómo se crea una animación en CSS que dura 5 segundos?",
+    "answers": [
+      "animation: example 5s;",
+      "duration: 5s;",
+      "@keyframes animation {duration: 5s;}",
+      "@animation: 5s;"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué selector se usa para apuntar al primer párrafo dentro de cualquier elemento?",
+    "answers": [
+      "p:first-of-type",
+      "p:child",
+      "first:p",
+      "p:first"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se establece que un elemento HTML no se pueda seleccionar por el usuario?",
+    "answers": [
+      "user-select: none;",
+      "selectable: false;",
+      "user-selection: none;",
+      "none-select: user;"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad se utiliza para hacer que un texto se alinee al centro?",
+    "answers": [
+      "text-align: center;",
+      "text-center: true;",
+      "alignment: center;",
+      "font-align: center;"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se establece un borde redondeado en CSS?",
+    "answers": [
+      "border-curve: 5px;",
+      "border-radius: 5px;",
+      "radius: 5px;",
+      "border-round: 5px;"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Qué función de CSS se usa para aplicar un efecto de sombra a un texto?",
+    "answers": [
+      "text-shadow: 2px 2px 5px red;",
+      "font-shadow: 2px 2px red;",
+      "shadow-text: 5px 5px 5px black;",
+      "text-effect: shadow(2px 2px 5px red);"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cuál es el mejor sitio para incluir los enlaces al CSS?",
+    "answers": [
+      "head",
+      "body",
+      "al final del documento",
+      "No hay que ponerlo en HTML"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se aplica CSS específicamente a Internet Explorer 10?",
+    "answers": [
+      "@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { ... }",
+      "<!--[if IE 10]>CSS aquí<![endif]-->",
+      "@browser ie10 { ... }",
+      "@supports (-ms-ime-align: auto) { ... }"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cuál es la forma correcta de definir múltiples selectores CSS con las mismas propiedades de estilo?",
+    "answers": [
+      "h1 { ... }; h2 { ... }; h3 { ... };",
+      "h1, h2, h3 { ... }",
+      "h1 + h2 + h3 { ... }",
+      "h1 > h2 > h3 { ... }"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cómo se agrega una sombra interna a un elemento?",
+    "answers": [
+      "box-shadow: inset 0 0 10px #000;",
+      "inner-shadow: 10px 10px 5px #000;",
+      "shadow: inside 10px 10px 5px #000;",
+      "box-shadow: inside 0 0 10px #000;"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad se utiliza para establecer el tipo de lista en un elemento `<ul>` o `<ol>`?",
+    "answers": [
+      "list-style-type",
+      "list-type",
+      "bullet-type",
+      "type-list"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se define un keyframe llamado \"slide\" que mueve un elemento de izquierda a derecha?",
+    "answers": [
+      "@keyframes slide { from {left: 0;} to {left: 100%;} }",
+      "@animation slide { start {left: 0;} end {left: 100%;} }",
+      "@frames slide { 0% {left: 0;} 100% {left: 100%;} }",
+      "@key-slide { from {left: 0px;} to {left: 100px;} }"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad CSS se utiliza para especificar el espaciado entre las celdas de una tabla?",
+    "answers": [
+      "cell-spacing",
+      "table-spacing",
+      "border-spacing",
+      "spacing"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Cómo se establece un estilo para los enlaces visitados?",
+    "answers": [
+      "a:visited { color: purple; }",
+      "a { visited-color: purple; }",
+      "a.visited { color: purple; }",
+      "visited a { color: purple; }"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cuál es el valor predeterminado de la propiedad `position`?",
+    "answers": [
+      "absolute",
+      "fixed",
+      "relative",
+      "static"
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "¿Qué propiedad CSS permite el desplazamiento de elementos dentro de su caja si el contenido es más grande que la caja misma?",
+    "answers": [
+      "overflow",
+      "scroll",
+      "overflow-scroll",
+      "box-scroll"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se utiliza un selector de atributo para seleccionar elementos con un atributo específico cuyo valor comienza con \"https\"?",
+    "answers": [
+      "a[href^=\"https\"]",
+      "a[href$=\"https\"]",
+      "a[href*=\"https\"]",
+      "a[href=\"https\"]"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad CSS se utiliza para ocultar un elemento pero manteniendo el espacio que ocupaba en el diseño de la página?",
+    "answers": [
+      "visibility: hidden;",
+      "display: none;",
+      "opacity: 0;",
+      "hidden: true;"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad CSS se utiliza para cambiar el estilo del puntero del ratón?",
+    "answers": [
+      "cursor",
+      "pointer",
+      "mouse-style",
+      "pointer-style"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se aplica un estilo específico a elementos que están siendo apuntados por el ratón?",
+    "answers": [
+      "element:focus { ... }",
+      "element:active { ... }",
+      "element:hover { ... }",
+      "element:mouseover { ... }"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Qué propiedad CSS se utiliza para hacer que un elemento sea no seleccionable por el usuario?",
+    "answers": [
+      "-webkit-user-select: none;",
+      "-moz-user-select: none;",
+      "-ms-user-select: none;",
+      "Todas las anteriores"
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "¿Cómo se establece la fuente de un elemento para usar la primera fuente disponible en una lista de varias fuentes?",
+    "answers": [
+      "font-family: Arial, Helvetica, sans-serif;",
+      "font: Arial, Helvetica, sans-serif;",
+      "font-type: Arial, Helvetica, sans-serif;",
+      "typeface: Arial, Helvetica, sans-serif;"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad se utiliza para establecer el espaciado entre letras?",
+    "answers": [
+      "letter-spacing",
+      "character-spacing",
+      "spacing",
+      "text-spacing"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cuál es el propósito de la propiedad `z-index` en CSS?",
+    "answers": [
+      "Ajustar el espaciado entre elementos en el eje Z",
+      "Ajustar la rotación de elementos en el eje Z",
+      "Controlar el orden de apilamiento de elementos solapados",
+      "Definir la posición de un elemento en el eje Z sin solapamientos"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Cómo se hace para que un elemento se posicione fijo en la pantalla, incluso al hacer scroll?",
+    "answers": [
+      "position: static;",
+      "position: absolute;",
+      "position: fixed;",
+      "position: relative;"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Qué función de CSS se utiliza para realizar una transición suave entre colores de fondo en un hover?",
+    "answers": [
+      "color-transition()",
+      "background-transition()",
+      "transition()",
+      "gradient-transition()"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Cuál es la sintaxis correcta para importar una fuente de Google Fonts en CSS?",
+    "answers": [
+      "@import url('https://fonts.googleapis.com/css?family=Open+Sans');",
+      "@include font('https://fonts.googleapis.com/css?family=Open+Sans');",
+      "@font-face { font-family: 'Open Sans'; src: url('https://fonts.googleapis.com/css?family=Open+Sans'); }",
+      "import 'https://fonts.googleapis.com/css?family=Open+Sans';"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se establece el ancho de un borde sin afectar las dimensiones totales de un elemento?",
+    "answers": [
+      "Usando la propiedad border-width con box-sizing: border-box;",
+      "Aplicando border-width sin cambiar el box-sizing",
+      "Cambiando el box-sizing a content-box y ajustando border-width",
+      "Definiendo border-width y ajustando manualmente el ancho y alto del elemento"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad se utiliza para mostrar u ocultar el borde de las columnas?",
+    "answers": [
+      "column-rule",
+      "column-border",
+      "column-edge",
+      "column-line"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se crea un contorno alrededor de un elemento, que no afecta el layout?",
+    "answers": [
+      "border: 1px solid;",
+      "margin-outline: 1px solid;",
+      "outline: 1px solid;",
+      "edge: 1px solid;"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Cuál es la propiedad que define la alineación de los items dentro de un contenedor flex?",
+    "answers": [
+      "align-content",
+      "align-items",
+      "justify-content",
+      "flex-align"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Qué propiedad se utiliza para establecer la transparencia de un elemento?",
+    "answers": [
+      "alpha",
+      "opacity",
+      "transparent",
+      "clear"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cómo se especifica que un enlace no debe ser subrayado?",
+    "answers": [
+      "a {decoration: none;}",
+      "a {underline: none;}",
+      "a {text-decoration: none;}",
+      "a {no-underline: true;}"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Qué propiedad CSS se utiliza para hacer que un elemento se oculte, pero sin cambiar el layout del documento?",
+    "answers": [
+      "display: none;",
+      "visibility: hidden;",
+      "opacity: 0;",
+      "hide: true;"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cómo se puede forzar a un elemento a ocupar todo el ancho disponible de su contenedor?",
+    "answers": [
+      "width: 100%;",
+      "width: auto;",
+      "width: full;",
+      "width: container;"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué selector se utiliza para aplicar un estilo a todos los elementos pares dentro de un contenedor?",
+    "answers": [
+      ":nth-child(even)",
+      ":nth-of-type(odd)",
+      ":even",
+      ":odd"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se puede hacer que la imagen de fondo de un elemento no se repita?",
+    "answers": [
+      "background-repeat: no-repeat;",
+      "background-no-repeat: true;",
+      "background-repeat: false;",
+      "no-repeat-background: true;"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad se utiliza para añadir espacio dentro de los bordes de un elemento?",
+    "answers": [
+      "padding",
+      "margin",
+      "border",
+      "spacing"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad CSS se utiliza para cambiar el tipo de cursor que se muestra al pasar el ratón sobre un elemento?",
+    "answers": [
+      "cursor",
+      "pointer",
+      "mouse",
+      "hand"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se aplica un estilo a todos los elementos `<h>` que son descendientes directos de un `<div>`?",
+    "answers": [
+      "div > h { ... }",
+      "div + h { ... }",
+      "div h { ... }",
+      "h > div { ... }"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cuál es la propiedad que establece el número máximo de líneas de texto que un elemento puede tener antes de ser truncado?",
+    "answers": [
+      "text-max-lines",
+      "-webkit-line-clamp",
+      "max-lines",
+      "text-line-limit"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Qué propiedad se utiliza para hacer que un fondo sea fijo o se desplace con el contenido de la página?",
+    "answers": [
+      "background-attachment",
+      "background-fixed",
+      "background-scroll",
+      "background-position"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se establece el estilo de la lista para que no aparezcan viñetas en un `<ul>`?",
+    "answers": [
+      "list-style-type: none;",
+      "list-style: no-bullet;",
+      "list-bullet: none;",
+      "bullet-style: none;"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad CSS se usa para crear una nueva capa de apilamiento?",
+    "answers": [
+      "z-index",
+      "position: relative;",
+      "new-layer",
+      "position: absolute;"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cómo se seleccionan todos los elementos `<p>` que están inmediatamente precedidos por un `<div>`?",
+    "answers": [
+      "div + p { ... }",
+      "div ~ p { ... }",
+      "p ~ div { ... }",
+      "p + div { ... }"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad permite el desbordamiento de contenido en un eje específico?",
+    "answers": [
+      "overflow-x",
+      "overflow-y",
+      "overflow-direction",
+      "A y B son correctas"
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "¿Cómo se especifica que un estilo CSS solo se aplique cuando el dispositivo se encuentre en orientación horizontal?",
+    "answers": [
+      "@media (orientation: landscape) { ... }",
+      "@media (orientation: horizontal) { ... }",
+      "@media screen and (horizontal) { ... }",
+      "@orientation: landscape { ... }"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué función CSS se utiliza para mezclar colores basándose en su opacidad?",
+    "answers": [
+      "rgba()",
+      "alpha()",
+      "opacity()",
+      "blend()"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad CSS se utiliza para establecer el espaciado entre los caracteres de un texto?",
+    "answers": [
+      "letter-spacing",
+      "text-spacing",
+      "character-spacing",
+      "font-spacing"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se puede ocultar un elemento utilizando la propiedad `visibility`?",
+    "answers": [
+      "visibility: invisible;",
+      "visibility: none;",
+      "visibility: hidden;",
+      "visibility: 0;"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Cuál de las siguientes propiedades no es una propiedad válida de CSS para configurar el fondo de un elemento?",
+    "answers": [
+      "background-color",
+      "background-image",
+      "background-repeat",
+      "background-opacity"
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "¿Qué valor de la propiedad `display` hace que el elemento se comporte como un bloque en términos de layout pero permita establecer dimensiones como si fuera un elemento en línea?",
+    "answers": [
+      "display: block;",
+      "display: inline;",
+      "display: inline-block;",
+      "display: flex;"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Cómo se aplica un gradiente como fondo de un elemento en CSS?",
+    "answers": [
+      "background: gradient(linear, left top, right bottom, from(#FFBC), to(#FFFFFF));",
+      "background-image: linear-gradient(to right, #FFBC, #FFFFFF);",
+      "background-color: gradient(#FFBC, #FFFFFF);",
+      "background-style: linear-gradient(#FFBC to #FFFFFF);"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cómo se especifica un color de fondo solo para el contenido de un elemento, excluyendo el relleno (padding)?",
+    "answers": [
+      "background-color: content-box;",
+      "background-origin: content-box;",
+      "background-clip: content-box;",
+      "background-padding: content-box;"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Cuál propiedad se utiliza para hacer que un elemento HTML se visualice como una cuadrícula?",
+    "answers": [
+      "display: grid;",
+      "layout: grid;",
+      "format: grid;",
+      "style: grid;"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se alinean los elementos de una cuadrícula en el eje horizontal dentro de su contenedor?",
+    "answers": [
+      "align-items: horizontal;",
+      "justify-items: start;",
+      "grid-horizontal-align: center;",
+      "place-items: center;"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Qué función CSS se utiliza para incluir archivos CSS condicionales o recursos basados en ciertas condiciones?",
+    "answers": [
+      "@use",
+      "@import",
+      "@include",
+      "@media"
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "¿Qué propiedad CSS se utiliza para establecer el grosor del borde de un elemento?",
+    "answers": [
+      "border-size",
+      "border-width",
+      "border-thickness",
+      "border-style"
+    ],
+    "correctAnswer": "b"
+  }
+]
