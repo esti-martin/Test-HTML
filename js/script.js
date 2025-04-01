@@ -1,5 +1,12 @@
 import { calculateScore } from './utils.js';
 
+// Función para escapar caracteres especiales en HTML
+function escapeHTML(str) {
+    const div = document.createElement('div');
+    div.innerText = str;
+    return div.innerHTML;
+}
+
 document.addEventListener('DOMContentLoaded', () => {
     const questionContainer = document.getElementById('quiz');
     const questionElement = document.getElementById('question');
@@ -13,8 +20,21 @@ document.addEventListener('DOMContentLoaded', () => {
     const listaIncorrectas = document.getElementById('listaIncorrectas');
     const reiniciarButton = document.getElementById('reiniciar');
     const otroTestButton = document.getElementById('otroTest'); // Nuevo botón
+    const testTitle = document.getElementById('test-title');
 
-    reiniciarButton.addEventListener('click', reiniciarTest);
+    //Obtener el parámetro 'type' de la URL
+    const urlParams = new URLSearchParams(window.location.search);
+    const testType = urlParams.get('type'); // 'html', 'css', o 'form'
+
+    // Asegurarse de que testType tenga un valor válido
+    if (!testType) {
+        console.error('No se proporcionó un tipo de test válido en la URL.');
+        testTitle.innerText = 'Test no especificado';
+        return;
+    }
+
+    // Actualizar el título del test
+    testTitle.innerText = `Test de ${testType.toUpperCase()}`;
 
     // Evento para redirigir al usuario a la pantalla de selección de test
     otroTestButton.addEventListener('click', () => {
@@ -26,15 +46,19 @@ document.addEventListener('DOMContentLoaded', () => {
     let score = 0;
     let selectedQuestions = [];
 
-    // Obtener el parámetro 'type' de la URL
-    const urlParams = new URLSearchParams(window.location.search);
-    const testType = urlParams.get('type'); // 'html' o 'css'
-
     // Determinar el archivo JSON a cargar
-    let jsonFile = './resources/preguntas.json'; // Por defecto, CSS
+    let jsonFile = './resources/preguntas-CSS.json'; // Por defecto, CSS
     if (testType === 'html') {
         jsonFile = './resources/preguntas-HTML.json';
+    } else if (testType === 'form') {
+        jsonFile = './resources/preguntas-FORM.json';
+    } else {
+        console.error('Tipo de test no válido. Se cargará el test de CSS por defecto.');
     }
+
+    // Mostrar el tipo de test en la consola para depuración
+    console.log('Tipo de test:', testType);
+    console.log('Archivo JSON a cargar:', jsonFile);
 
     // Cargar el archivo JSON correspondiente
     fetch(jsonFile)
@@ -43,6 +67,9 @@ document.addEventListener('DOMContentLoaded', () => {
             questions = data;
             selectRandomQuestions();
             loadQuestion();
+        })
+        .catch(error => {
+            console.error('Error al cargar el archivo JSON:', error);
         });
 
     function selectRandomQuestions() {
@@ -51,12 +78,14 @@ document.addEventListener('DOMContentLoaded', () => {
         console.log('Preguntas seleccionadas:', selectedQuestions); // Depuración
     }
 
+
+    // Actualizar la función loadQuestion para usar escapeHTML
     function loadQuestion() {
         resetState();
         const currentQuestion = selectedQuestions[currentQuestionIndex];
-        questionElement.innerText = currentQuestion.question;
+        questionElement.innerText = escapeHTML(currentQuestion.question); // Escapar caracteres especiales en la pregunta
         answerElements.forEach((answerElement, index) => {
-            answerElement.nextElementSibling.innerText = currentQuestion.answers[index];
+            answerElement.nextElementSibling.innerHTML = escapeHTML(currentQuestion.answers[index]); // Escapar caracteres especiales en las respuestas
         });
     }
 
@@ -163,18 +192,18 @@ document.addEventListener('DOMContentLoaded', () => {
         selectedQuestions.forEach((question, index) => {
             const listItem = document.createElement('li');
             const correctIndex = letterToIndex[question.correctAnswer]; // Convertir letra a índice
-            const userAnswerText = question.answers[question.userAnswer] || 'Sin respuesta';
-            const correctAnswerText = question.answers[correctIndex];
+            const userAnswerText = escapeHTML(question.answers[question.userAnswer] || 'Sin respuesta');
+            const correctAnswerText = escapeHTML(question.answers[correctIndex]);
 
             // Agregar íconos y clases para estilos
             if (question.userAnswer === correctIndex) {
                 listItem.classList.add('correct'); // Clase para respuestas correctas
-                listItem.innerHTML = `<span class="icon">✔️</span> question ${index + 1}: ${question.question}<br>
+                listItem.innerHTML = `<span class="icon">✔️</span> Pregunta ${index + 1}: ${escapeHTML(question.question)}<br>
                 - Respuesta correcta: <strong>${correctAnswerText}</strong>`;
                 listaCorrectas.appendChild(listItem);
             } else {
                 listItem.classList.add('incorrect'); // Clase para respuestas incorrectas
-                listItem.innerHTML = `<span class="icon">❌</span> question ${index + 1}: ${question.question}<br>
+                listItem.innerHTML = `<span class="icon">❌</span> Pregunta ${index + 1}: ${escapeHTML(question.question)}<br>
                 - Tu respuesta: <strong>${userAnswerText}</strong><br>
                 - Respuesta correcta: <strong>${correctAnswerText}</strong>`;
                 listaIncorrectas.appendChild(listItem);
@@ -201,4 +230,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 alert('Hubo un problema al reiniciar el test. Por favor, inténtalo de nuevo.');
             });
     }
+    reiniciarButton.addEventListener('click', reiniciarTest);
+    testTitle.innerText = `Test de ${testType.toUpperCase()}`;
 });

@@ -15,19 +15,20 @@
         <div class="test-selection">
             <button id="htmlTest" class="test-button">Test de HTML</button>
             <button id="cssTest" class="test-button">Test de CSS</button>
+            <button id="formTest" class="test-button">Test de FORM</button>
         </div>
     </div>
 
     <script>
-        // Redirigir al test de HTML
-        document.getElementById('htmlTest').addEventListener('click', () => {
-            window.location.href = './html-test.html?type=html';
-        });
+        // Función para redirigir al test con el tipo seleccionado
+        function redirectToTest(type) {
+            window.location.href = `./test-template.html?type=${type}`;
+        }
 
-        // Redirigir al test de CSS
-        document.getElementById('cssTest').addEventListener('click', () => {
-            window.location.href = './css-test.html?type=css';
-        });
+        // Asignar eventos a los botones
+        document.getElementById('htmlTest').addEventListener('click', () => redirectToTest('html'));
+        document.getElementById('cssTest').addEventListener('click', () => redirectToTest('css'));
+        document.getElementById('formTest').addEventListener('click', () => redirectToTest('form'));
     </script>
 </body>
 

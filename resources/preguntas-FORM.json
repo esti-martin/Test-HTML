@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "¿Qué etiqueta se utiliza para crear un formulario en HTML?",
+    "answers": [
+      "<formulate>",
+      "<form>",
+      "<inputForm>",
+      "<createForm>"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Qué atributo especifica el método de envío de datos del formulario?",
+    "answers": [
+      "methodType",
+      "send",
+      "method",
+      "submitType"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Para crear un campo de texto, ¿qué valor de atributo type se usa en la etiqueta `<input>`?",
+    "answers": [
+      "textfield",
+      "text",
+      "textbox",
+      "string"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Qué atributo se usa para definir un botón de envío en un formulario?",
+    "answers": [
+      "type=\"submit\"",
+      "type=\"send\"",
+      "type=\"button\"",
+      "action=\"submit\""
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Para hacer un campo obligatorio, ¿qué atributo se debería añadir?",
+    "answers": [
+      "required",
+      "need",
+      "must",
+      "necessary"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué etiqueta se utiliza para agrupar elementos visualmente en un formulario?",
+    "answers": [
+      "<group>",
+      "<fieldset>",
+      "<section>",
+      "<div>"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cuál es el propósito del atributo `action` en un formulario HTML?",
+    "answers": [
+      "Define el tipo de acción a realizar.",
+      "Especifica una URL a la que se envían los datos del formulario.",
+      "Determina el método de acción.",
+      "Activa una función JavaScript al enviar el formulario."
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cómo se especifica un menú desplegable en HTML?",
+    "answers": [
+      "<input type=\"dropdown\">",
+      "<dropdown>",
+      "<select>",
+      "<list>"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Qué atributo de `<input>` define un control preseleccionado en un grupo de botones de radio?",
+    "answers": [
+      "select",
+      "default",
+      "checked",
+      "active"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Qué tipo de `<input>` se utiliza para cargar archivos?",
+    "answers": [
+      "file",
+      "upload",
+      "attach",
+      "document"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué atributo se utiliza para agrupar botones de radio que pertenecen a la misma categoría?",
+    "answers": [
+      "name",
+      "group",
+      "class",
+      "type"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se define un área de texto en un formulario HTML?",
+    "answers": [
+      "<input type=\"textarea\">",
+      "<textarea>",
+      "<input type=\"text\" area>",
+      "<text>"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Qué atributo de `<input>` se usa para crear un campo de contraseña?",
+    "answers": [
+      "type=\"password\"",
+      "type=\"hidden\"",
+      "password=\"true\"",
+      "type=\"pass\""
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué elemento se usa para definir una etiqueta para otro elemento del formulario?",
+    "answers": [
+      "<label>",
+      "<legend>",
+      "<tag>",
+      "<title>"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cuál es el propósito del elemento `<optgroup>` en un menú desplegable?",
+    "answers": [
+      "Crear un grupo de opciones deshabilitadas.",
+      "Agrupar opciones relacionadas bajo una etiqueta común.",
+      "Añadir una opción predeterminada al menú.",
+      "Organizar las opciones en orden alfabético."
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Qué atributo especifica el valor que será enviado de un campo de formulario?",
+    "answers": [
+      "send",
+      "submit",
+      "value",
+      "post"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Cómo se marca una opción como la opción predeterminada en un menú desplegable?",
+    "answers": [
+      "Añadiendo el atributo default a la etiqueta <option>.",
+      "Añadiendo el atributo selected a la etiqueta <option>.",
+      "Añadiendo el atributo checked a la etiqueta <option>.",
+      "Usando el atributo value en la etiqueta <select> para especificar la opción predeterminada."
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Qué tipo de input se utiliza para recoger una dirección de correo electrónico?",
+    "answers": [
+      "type=\"email\"",
+      "type=\"mail\"",
+      "type=\"text\"",
+      "type=\"useremail\""
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué elemento se utiliza para crear un botón que no sea de envío en un formulario?",
+    "answers": [
+      "<button type=\"button\">",
+      "<input type=\"button\">",
+      "Ambas A y B son correctas.",
+      "<btn>"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Cuál es el propósito del atributo `placeholder` en un campo de formulario?",
+    "answers": [
+      "Definir el valor predeterminado del campo.",
+      "Mostrar un texto de ayuda dentro del campo hasta que el usuario comience a escribir.",
+      "Especificar un nombre de clase para estilizar el campo.",
+      "Validar el dato ingresado por el usuario."
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cuál es el atributo de `<form>` que define el tipo de contenido que se utiliza al enviar el formulario al servidor?",
+    "answers": [
+      "enctype",
+      "method",
+      "action",
+      "type"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se agrega un campo para números en un formulario HTML?",
+    "answers": [
+      "<input type=\"number\">",
+      "<input type=\"num\">",
+      "<number>",
+      "<input type=\"integer\">"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué atributo se utiliza para deshabilitar un campo de formulario, impidiendo que el usuario interactúe con él?",
+    "answers": [
+      "disabled",
+      "inactive",
+      "readonly",
+      "nonactive"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cuál es la función del atributo `autocomplete` en un formulario HTML?",
+    "answers": [
+      "Completar automáticamente los campos basándose en valores predeterminados.",
+      "Permitir al navegador autocompletar los campos basándose en entradas anteriores del usuario.",
+      "Verificar automáticamente la validez de los campos del formulario.",
+      "Activar la función de búsqueda automática mientras el usuario escribe."
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Qué valor del atributo `type` se usa para crear un botón de opción (radio button)?",
+    "answers": [
+      "radio",
+      "option",
+      "select-one",
+      "checkbox"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se especifica que un campo de formulario puede aceptar múltiples valores, como en el caso de un campo de carga de archivos?",
+    "answers": [
+      "Usando el atributo multiple",
+      "Definiendo type=\"multi\"",
+      "Añadiendo accept=\"multiple\"",
+      "Especificando value=\"multiple\""
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Para qué se utiliza el elemento `<datalist>` en HTML?",
+    "answers": [
+      "Para definir un conjunto de opciones predefinidas para otros controles.",
+      "Para crear una lista desplegable de datos.",
+      "Para especificar una lista de datos tabulares.",
+      "Para listar enlaces de datos relevantes."
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cuál de los siguientes valores del atributo `type` NO es válido para el elemento `<input>`?",
+    "answers": [
+      "email",
+      "text",
+      "submit",
+      "paragraph"
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "¿Qué elemento se utiliza para incluir un control deslizante en un formulario HTML?",
+    "answers": [
+      "<input type=\"slider\">",
+      "<input type=\"range\">",
+      "<slider>",
+      "<range>"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Qué atributo de un formulario HTML especifica cómo codificar los datos del formulario al enviarlos al servidor?",
+    "answers": [
+      "method",
+      "encoding",
+      "enctype",
+      "contentType"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Qué atributo de `<input>` permite especificar un patrón contra el cual se valida el valor del campo?",
+    "answers": [
+      "pattern",
+      "match",
+      "regex",
+      "validation"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cuál es el propósito del elemento `<fieldset>` en un formulario?",
+    "answers": [
+      "Establecer una conexión segura.",
+      "Agrupar elementos relacionados dentro de un formulario.",
+      "Crear un conjunto de campos para enviar archivos.",
+      "Definir un campo de texto grande."
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cómo se especifica un campo en un formulario que no debe ser visible para el usuario, pero cuyo valor debe ser enviado con el formulario?",
+    "answers": [
+      "<input type=\"hidden\">",
+      "<input type=\"invisible\">",
+      "<input type=\"secret\">",
+      "<input type=\"private\">"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué atributo se usa para limitar la cantidad máxima de caracteres permitidos en un campo de texto?",
+    "answers": [
+      "maxlength",
+      "maxchars",
+      "limit",
+      "charsmax"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Para qué sirve el atributo `step` en un input de tipo `number` o `range`?",
+    "answers": [
+      "Define el número de pasos necesarios para completar el formulario.",
+      "Establece el valor mínimo que se puede ajustar.",
+      "Especifica el intervalo entre valores permitidos.",
+      "Determina la precisión del número introducido."
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Qué elemento se usa para crear un botón que resetea todos los campos de un formulario a sus valores por defecto?",
+    "answers": [
+      "<input type=\"reset\">",
+      "<button type=\"reset\">",
+      "Ambas A y B son correctas.",
+      "<reset>"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Cuál de los siguientes NO es un valor válido para el atributo `target` de un formulario?",
+    "answers": [
+      "_self",
+      "_blank",
+      "_top",
+      "_none"
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "¿Qué tipo de `<input>` se utiliza para recoger una fecha?",
+    "answers": [
+      "type=\"date\"",
+      "type=\"datetime\"",
+      "type=\"calendar\"",
+      "type=\"day\""
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se puede especificar que un campo de formulario es solo de lectura?",
+    "answers": [
+      "Añadiendo el atributo readonly",
+      "Añadiendo el atributo disabled",
+      "Usando el estilo CSS read-only",
+      "Definiendo el campo como type=\"readonly\""
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué atributo se utiliza para definir la dirección de correo electrónico que recibe la información del formulario cuando se envía?",
+    "answers": [
+      "receiver",
+      "sendto",
+      "mailto",
+      "No se define mediante un atributo en el formulario, sino que se especifica en el atributo action utilizando el protocolo mailto:"
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "¿Cuál es el atributo de `<input>` que define un valor inicial para el campo?",
+    "answers": [
+      "value",
+      "placeholder",
+      "default",
+      "init"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué elemento HTML se utiliza para incluir un botón que permite al usuario seleccionar una fecha y hora?",
+    "answers": [
+      "<input type=\"datetime-local\">",
+      "<datetime>",
+      "<input type=\"datetime\">",
+      "<timepicker>"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se crea un botón de radio que ya está seleccionado por defecto?",
+    "answers": [
+      "<input type=\"radio\" selected>",
+      "<input type=\"radio\" default>",
+      "<input type=\"radio\" checked>",
+      "<input type=\"radio\" active>"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Qué atributo de `<form>` se utiliza para especificar dónde responder después de enviar el formulario?",
+    "answers": [
+      "redirect",
+      "forward",
+      "action",
+      "return"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Qué tipo de `<input>` permite al usuario elegir entre un rango de valores deslizantes?",
+    "answers": [
+      "type=\"slide\"",
+      "type=\"range\"",
+      "type=\"scale\"",
+      "type=\"bar\""
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cuál es la función de `<label>` en relación con su elemento de formulario asociado?",
+    "answers": [
+      "Define un título para el elemento.",
+      "Crea una descripción detallada.",
+      "Asocia textualmente el elemento con una etiqueta clickeable.",
+      "Establece una categoría o grupo para el elemento."
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Qué atributo especifica que un campo de formulario debe ser verificado antes de enviar el formulario?",
+    "answers": [
+      "verify",
+      "required",
+      "check",
+      "validate"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cómo se puede especificar un campo de formulario que acepta direcciones de correo electrónico?",
+    "answers": [
+      "<input type=\"email\">",
+      "<input type=\"mail\">",
+      "<email>",
+      "<input type=\"text\" email>"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cuál es el uso de `step=\"any\"` en un `<input>` de tipo `number` o `range`?",
+    "answers": [
+      "Permite cualquier valor numérico, sin restricciones de paso.",
+      "Define un paso específico para incrementos numéricos.",
+      "Restringe el input a valores enteros solamente.",
+      "Es un valor no válido y no tiene efecto."
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué elemento HTML se utiliza para recoger firmas manuscritas en un formulario?",
+    "answers": [
+      "<input type=\"signature\">",
+      "<signature>",
+      "<input type=\"text\">",
+      "No existe un tipo específico de <input> para firmas; se suelen utilizar soluciones de terceros."
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "¿Qué valor de atributo `type` se utiliza en `<input>` para crear un botón de envío de formulario?",
+    "answers": [
+      "send",
+      "submit",
+      "button",
+      "go"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cuál de los siguientes elementos se utiliza para agregar una lista de opciones en un campo de entrada de texto, permitiendo autocompletado?",
+    "answers": [
+      "<select>",
+      "<option>",
+      "<datalist>",
+      "<autocomplete>"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Qué atributo de `<input>` se utiliza para controlar el número máximo de caracteres en un campo de tipo `text`?",
+    "answers": [
+      "length",
+      "maxlength",
+      "max",
+      "limit"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cómo se puede agrupar visualmente un conjunto de campos de formulario relacionados?",
+    "answers": [
+      "Usando el elemento <group>",
+      "Con el atributo group en cada <input>",
+      "Utilizando el elemento <fieldset>...",
+      "Con el elemento <div> y estilos CSS"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Qué atributo se debe usar para preseleccionar una opción en un grupo de botones de opción (radio buttons)?",
+    "answers": [
+      "selected",
+      "default",
+      "checked",
+      "active"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Para qué sirve el atributo `for` en la etiqueta `<label>`?",
+    "answers": [
+      "Para definir el formulario al que pertenece la etiqueta",
+      "Para especificar el ID del elemento de formulario al que está asociada la etiqueta",
+      "Para indicar el nombre del campo de formulario",
+      "Para asignar una clase CSS específica al elemento de etiqueta"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Qué tipo de `<input>` se utiliza para crear un control que permite a los usuarios seleccionar una hora?",
+    "answers": [
+      "type=\"datetime\"",
+      "type=\"time\"",
+      "type=\"hour\"",
+      "type=\"clock\""
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cuál es el propósito del atributo `autofocus` en un elemento de formulario?",
+    "answers": [
+      "Hacer que el campo sea el primer receptor del foco cuando se carga la página",
+      "Permitir la autocompletación de los datos del usuario",
+      "Resaltar visualmente el campo de formulario",
+      "Activar automáticamente la validación del campo"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué atributo de `<input>` permite definir un control como desactivado, impidiendo la interacción del usuario?",
+    "answers": [
+      "disabled",
+      "inactive",
+      "readonly",
+      "nonactive"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se define un botón en un formulario que no realiza la acción de enviar pero puede tener otras funcionalidades a través de JavaScript?",
+    "answers": [
+      "<input type=\"button\">",
+      "<button type=\"submit\">",
+      "<button>",
+      "<input type=\"submit\">"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué elemento se utiliza para proporcionar una opción que permite seleccionar varios archivos en un input de tipo `file`?",
+    "answers": [
+      "<input type=\"files\">",
+      "<input type=\"file\" multiple>",
+      "<files>",
+      "<input type=\"file\" multi>"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cuál de estos elementos se usa para crear un control deslizante para seleccionar un valor numérico?",
+    "answers": [
+      "<input type=\"slider\">",
+      "<input type=\"scroll\">",
+      "<input type=\"range\">",
+      "<slider>"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Qué atributo de `<input>` se usa para definir que un campo debe tener un valor antes de enviar el formulario?",
+    "answers": [
+      "necessary",
+      "mandatory",
+      "required",
+      "needed"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Cómo se especifica un valor predeterminado para un elemento `<input type=\"date\">`?",
+    "answers": [
+      "Usando el atributo value con la fecha en formato YYYY-MM-DD",
+      "A través del atributo default, en cualquier formato de fecha",
+      "Mediante CSS",
+      "Con JavaScript después de que la página se haya cargado"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué etiqueta se utiliza para crear una barra de navegación en un formulario?",
+    "answers": [
+      "<navigation>",
+      "<navbar>",
+      "<nav>",
+      "No hay una etiqueta HTML específica para barras de navegación en formularios; se suele utilizar <div> o <nav> con CSS."
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "¿Qué atributo de `<textarea>` especifica el número de filas visibles?",
+    "answers": [
+      "rows",
+      "lines",
+      "height",
+      "size"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Para qué se utiliza el atributo `formaction` en un elemento `<button>` o `<input type=\"submit\">`?",
+    "answers": [
+      "Para definir la acción por defecto del formulario",
+      "Para sobreescribir la acción del formulario para ese botón específico",
+      "Para especificar una URL de imagen como acción",
+      "No existe tal atributo en HTML"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Qué atributo se usa en `<input>` para limitar la selección a archivos de tipos específicos (p. ej., solo imágenes)?",
+    "answers": [
+      "filetype",
+      "accept",
+      "typefilter",
+      "mime"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cómo se puede hacer que un campo de formulario sea solo de lectura?",
+    "answers": [
+      "Usando el atributo readonly=\"true\"",
+      "Con el atributo readonly",
+      "Añadiendo disabled=\"true\"",
+      "Mediante CSS"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cuál es el propósito del atributo `size` en un `<input type=\"text\">`?",
+    "answers": [
+      "Especificar el tamaño máximo del texto que se puede ingresar",
+      "Definir el ancho del campo de texto en términos de caracteres visibles",
+      "Limitar el número de caracteres que el usuario puede introducir",
+      "Establecer el tamaño de la fuente del texto"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Qué atributo de `<input>` permite preseleccionar un botón de chequeo (checkbox)?",
+    "answers": [
+      "select",
+      "default",
+      "checked",
+      "active"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Cómo se crea un grupo de botones de opción (radio buttons) donde solo se puede seleccionar una opción?",
+    "answers": [
+      "Dándoles a todos el mismo atributo name",
+      "Dándoles a todos el mismo atributo id",
+      "Dándoles a todos el mismo atributo class",
+      "Dándoles a todos el mismo atributo value"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué atributo de `<form>` se utiliza para especificar que el formulario no debe validar los campos al enviar?",
+    "answers": [
+      "novalidate",
+      "validate=\"false\"",
+      "no-validation",
+      "disable-validation"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Para qué sirve el elemento `<legend>` dentro de un formulario?",
+    "answers": [
+      "Para definir un campo de entrada",
+      "Para proporcionar un título o leyenda a un grupo de campos agrupados por <fieldset>",
+      "Para agregar una descripción detallada a los elementos del formulario",
+      "Para crear una leyenda visual que aparezca al pasar el ratón sobre los campos del formulario"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Qué tipo de `<input>` se utiliza para crear un campo que permite escribir una URL?",
+    "answers": [
+      "type=\"link\"",
+      "type=\"web\"",
+      "type=\"url\"",
+      "type=\"uri\""
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Cómo se puede incrementar el tamaño de una caja de texto `<textarea>` solo horizontalmente?",
+    "answers": [
+      "Estableciendo el atributo rows a un número fijo y omitiendo el atributo cols",
+      "Estableciendo el atributo cols a un número mayor y usando CSS para ancho máximo",
+      "Usando solo el atributo width en CSS...",
+      "No es posible; siempre se incrementa tanto horizontal como verticalmente"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Qué atributo de `<input>` es útil para proporcionar una pista sobre el tipo de información que se espera en el campo?",
+    "answers": [
+      "placeholder",
+      "hint",
+      "type",
+      "title"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cuál es la diferencia principal entre los atributos `disabled` y `readonly` para un campo de formulario?",
+    "answers": [
+      "disabled no permite interactuar con el campo, mientras que readonly sí permite la interacción pero no la modificación",
+      "No hay diferencia; ambos hacen lo mismo",
+      "readonly oculta el campo en el formulario, disabled no",
+      "disabled envía el valor del campo con el formulario, readonly no"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué elemento se utiliza para especificar opciones en un `<datalist>`?",
+    "answers": [
+      "<select>",
+      "<option>",
+      "<item>",
+      "<choice>"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cómo se agrega una imagen como botón de envío en un formulario HTML?",
+    "answers": [
+      "<input type=\"submit\" src=\"image.jpg\">",
+      "<button type=\"submit\"><img src=\"image.jpg\"></button>",
+      "<input type=\"image\" src=\"image.jpg\">",
+      "<submit src=\"image.jpg\">"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Cuál de los siguientes elementos se utiliza para recoger una firma digital en un formulario HTML?",
+    "answers": [
+      "<input type=\"digital-signature\">",
+      "<signature>",
+      "<input type=\"signature\">",
+      "HTML no provee un tipo de input específico para firmas digitales; se suelen usar soluciones específicas de terceros."
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "¿Qué atributo se usa para especificar que un campo de entrada debe ser automáticamente completado por el navegador?",
+    "answers": [
+      "autocomplete=\"on\"",
+      "auto=\"true\"",
+      "autofill=\"enable\"",
+      "autoinput=\"yes\""
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se puede hacer un grupo de `<input type=\"checkbox\">` donde seleccionar uno automáticamente deseleccione cualquier otro seleccionado?",
+    "answers": [
+      "Asignándoles el mismo nombre mediante el atributo name.",
+      "Utilizando JavaScript para manejar el comportamiento.",
+      "Este comportamiento es automático para los checkboxes.",
+      "No es posible; los checkboxes no están diseñados para comportarse de esta manera."
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cuál es el propósito del atributo `form` en elementos `<input>`, `<select>`, `<textarea>`, y `<button>`?",
+    "answers": [
+      "Para especificar el formulario al que pertenecen, permitiendo que estén físicamente fuera del <form>.",
+      "Para definir el tipo de formulario al que se aplican.",
+      "Para identificar únicamente cada formulario en la página.",
+      "Para asociar un estilo CSS específico al formulario."
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué tipo de `<input>` crea un campo oculto que los usuarios no pueden ver ni interactuar?",
+    "answers": [
+      "type=\"invisible\"",
+      "type=\"hidden\"",
+      "type=\"secret\"",
+      "type=\"concealed\""
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cómo se especifica en HTML que un campo de texto debe ser editado solo con texto en mayúsculas?",
+    "answers": [
+      "Mediante el atributo text-transform: uppercase; en CSS.",
+      "Usando el atributo uppercase=\"true\" en el <input>.",
+      "No es posible hacerlo solo con HTML; se necesita CSS o JavaScript.",
+      "Añadiendo type=\"UPPERCASE\" en el <input>."
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Para qué se usa el atributo `multiple` en un `<select>`?",
+    "answers": [
+      "Para permitir la selección de múltiples opciones simultáneamente.",
+      "Para indicar que hay múltiples <select> en el formulario.",
+      "Para habilitar la adición de opciones múltiples por parte del usuario.",
+      "Para especificar que el <select> debería mostrar múltiples filas de opciones."
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cuál es la diferencia entre `<input type=\"button\">` y `<button>`?",
+    "answers": [
+      "<input type=\"button\"> no puede contener HTML dentro, mientras que <button> sí.",
+      "<button> es una característica obsoleta y no debe usarse.",
+      "No hay ninguna diferencia, son intercambiables.",
+      "<input type=\"button\"> es para formularios, mientras que <button> es para acciones generales fuera de formularios."
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué atributo de `<input>` especifica un mensaje de error personalizado que se muestra cuando la validación falla?",
+    "answers": [
+      "error=\"mensaje\"",
+      "validationMessage=\"mensaje\"",
+      "oninvalid=\"this.setCustomValidity('Tu mensaje')\"",
+      "message=\"Tu mensaje\""
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Qué elemento HTML se usa comúnmente para estructurar un grupo de campos relacionados en un formulario, proporcionando un encabezado para el grupo?",
+    "answers": [
+      "<fieldset>",
+      "<group>",
+      "<section>",
+      "<header>"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué atributo de `<input>` se utiliza para hacer que un campo sea no editable por el usuario pero aún así enviable con el formulario?",
+    "answers": [
+      "readonly",
+      "disabled",
+      "fixed",
+      "static"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué valor del atributo `type` en `<input>` se utiliza para controlar la entrada de una dirección de correo electrónico?",
+    "answers": [
+      "text",
+      "mail",
+      "email",
+      "e-mail"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Cuál es el propósito del atributo `method` en un formulario HTML?",
+    "answers": [
+      "Define el método de codificación de los datos del formulario.",
+      "Especifica el método HTTP utilizado para enviar el formulario.",
+      "Determina el método de validación de los campos del formulario.",
+      "Identifica el método de acción cuando el formulario se envía."
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cómo se puede incluir una casilla de verificación que ya esté marcada por defecto en HTML?",
+    "answers": [
+      "<input type=\"checkbox\" checked=\"checked\">",
+      "<input type=\"checkbox\" default=\"true\">",
+      "<input type=\"checkbox\" checked>",
+      "<input type=\"checkbox\" selected=\"selected\">"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Qué atributo de `<input>` se usa para agregar un límite inferior al valor que los usuarios pueden introducir en un campo de tipo `number`?",
+    "answers": [
+      "min",
+      "lower",
+      "minimum",
+      "bottom"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué elemento se usa para agregar un título a un `<fieldset>` dentro de un formulario HTML?",
+    "answers": [
+      "<legend>",
+      "<label>",
+      "<caption>",
+      "<title>"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué atributo se utiliza para organizar los campos de formulario en categorías que se pueden navegar mediante pestañas en la interfaz de usuario?",
+    "answers": [
+      "No existe tal funcionalidad directamente en HTML; se logra con JavaScript y CSS.",
+      "tabindex",
+      "category",
+      "group"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cómo se especifica un campo de formulario que acepta múltiples líneas de texto?",
+    "answers": [
+      "<input type=\"multiline\">",
+      "<input type=\"textarea\">",
+      "<textarea>",
+      "<input type=\"text\" multiline>"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Qué atributo de `<form>` indica a dónde enviar los datos del formulario para su procesamiento?",
+    "answers": [
+      "sendto",
+      "destination",
+      "action",
+      "target"
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Considerando las prácticas de seguridad en la web, ¿cuál es la mejor manera de manejar la información sensible en un formulario HTML antes de enviarla a un servidor?",
+    "answers": [
+      "Utilizar el atributo `method=\"get\"` para asegurar los datos mediante la URL.",
+      "Emplear el atributo `enctype=\"multipart/form-data\"` para encriptar los datos del formulario.",
+      "Asegurarse de que el formulario se envíe a través de una conexión HTTPS y utilizar el atributo `method=\"post\"`.",
+      "Codificar los valores de los campos del formulario en Base64 utilizando JavaScript antes de enviarlos."
+    ],
+    "correctAnswer": "c"
+  }
+]
