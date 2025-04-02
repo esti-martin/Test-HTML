@@ -21,10 +21,10 @@ export function createFireworks() {
                 fireworkContainer.appendChild(firework);
             }
 
-            // Eliminar los fuegos artificiales después de 2 segundos
+            /* Eliminar los fuegos artificiales después de 2 segundos
             setTimeout(() => {
                 fireworkContainer.remove();
-            }, 10000);
+            }, 10000);*/
         }
     }
 }
@@ -49,10 +49,10 @@ function createBalloons() {
         balloonContainer.appendChild(balloon);
     }
 
-    // Eliminar los globos después de 10 segundos
+    /* Eliminar los globos después de 10 segundos
     setTimeout(() => {
         balloonContainer.remove();
-    }, 10000);
+    }, 10000);*/
 }
 
 // Crear serpentinas
