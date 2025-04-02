@@ -115,3 +115,33 @@ button:hover {
   color: red;
   margin-right: 5px;
 }
+
+.puntuacion-azul {
+  color: blue;
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+/* Asegurar que el contenedor del título y el contador estén en línea */
+#test-title {
+  display: inline-block;
+  /* Asegura que el título y el contador estén en la misma línea */
+  margin-right: 10px;
+  /* Espacio entre el título y el contador */
+  font-size: 24px;
+  /* Tamaño del título */
+  color: #e6520d;
+  /* Color del título */
+}
+
+#question-counter {
+  display: inline-block;
+  font-size: 20px;
+  /* Tamaño del contador */
+  color: rgb(1, 16, 17);
+  /* Color del contador */
+  vertical-align: middle;
+  /* Alinea verticalmente con el título */
+  margin-left: 250px;
+
+}

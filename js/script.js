@@ -20,7 +20,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const listaIncorrectas = document.getElementById('listaIncorrectas');
     const reiniciarButton = document.getElementById('reiniciar');
     const otroTestButton = document.getElementById('otroTest'); // Nuevo botón
-    const testTitle = document.getElementById('test-title');
+    const testTitle = document.getElementById('test-title'); // Título del test
+    const questionCounter = document.getElementById('question-counter'); // Contador de preguntas
 
     //Obtener el parámetro 'type' de la URL
     const urlParams = new URLSearchParams(window.location.search);
@@ -82,10 +83,24 @@ document.addEventListener('DOMContentLoaded', () => {
     // Actualizar la función loadQuestion para usar escapeHTML
     function loadQuestion() {
         resetState();
+
         const currentQuestion = selectedQuestions[currentQuestionIndex];
-        questionElement.innerText = escapeHTML(currentQuestion.question); // Escapar caracteres especiales en la pregunta
+        if (!currentQuestion) {
+            console.error('La pregunta actual no está definida.');
+            return;
+        }
+
+        // Actualizar el título del test con el contador de preguntas
+        if (questionCounter) {
+            questionCounter.innerText = `(${currentQuestionIndex + 1}/${selectedQuestions.length})`;
+        } else {
+            console.warn('El elemento #question-counter no existe en el DOM.');
+        }
+
+        // Mostrar la pregunta y las respuestas
+        questionElement.innerText = escapeHTML(currentQuestion.question);
         answerElements.forEach((answerElement, index) => {
-            answerElement.nextElementSibling.innerHTML = escapeHTML(currentQuestion.answers[index]); // Escapar caracteres especiales en las respuestas
+            answerElement.nextElementSibling.innerHTML = escapeHTML(currentQuestion.answers[index]);
         });
     }
 
@@ -146,7 +161,8 @@ document.addEventListener('DOMContentLoaded', () => {
         // Calcular puntaje usando calculateScore
         score = calculateScore(userAnswers, correctAnswers);
 
-        puntuacionElement.innerText = `Puntuación: ${score} de ${selectedQuestions.length}`;
+        puntuacionElement.innerHTML = `<strong class="puntuacion-azul">${score} de ${selectedQuestions.length}</strong>`;
+
 
         // Guardar el resultado del test en localStorage
         const testResults = JSON.parse(localStorage.getItem('testResults')) || [];
@@ -195,17 +211,43 @@ document.addEventListener('DOMContentLoaded', () => {
             const userAnswerText = escapeHTML(question.answers[question.userAnswer] || 'Sin respuesta');
             const correctAnswerText = escapeHTML(question.answers[correctIndex]);
 
-            // Agregar íconos y clases para estilos
+            // Crear un contenedor para la pregunta
+            const questionTitle = document.createElement('span');
+            questionTitle.innerText = `Pregunta ${index + 1}: ${escapeHTML(question.question)}`;
+            questionTitle.style.cursor = 'pointer';
+            questionTitle.addEventListener('click', () => {
+                // Alternar la visibilidad de las respuestas
+                if (listItem.querySelector('.answers')) {
+                    const answersContainer = listItem.querySelector('.answers');
+                    answersContainer.style.display = answersContainer.style.display === 'none' ? 'block' : 'none';
+                }
+            });
+
+            // Crear un contenedor para las respuestas
+            const answersContainer = document.createElement('div');
+            answersContainer.classList.add('answers');
+            answersContainer.style.display = 'none'; // Ocultar por defecto
+
             if (question.userAnswer === correctIndex) {
+                answersContainer.innerHTML = `
+                    <span class="icon">✔️</span> Respuesta correcta: <strong>${correctAnswerText}</strong>`;
                 listItem.classList.add('correct'); // Clase para respuestas correctas
-                listItem.innerHTML = `<span class="icon">✔️</span> Pregunta ${index + 1}: ${escapeHTML(question.question)}<br>
-                - Respuesta correcta: <strong>${correctAnswerText}</strong>`;
+            } else {
+                answersContainer.innerHTML = `
+                    <span class="icon">❌</span> Tu respuesta: <strong>${userAnswerText}</strong><br>
+                    <span class="icon">✔️</span> <strong style="color: green;">Respuesta correcta: ${correctAnswerText}</strong>`; // Respuesta correcta en azul
+
+                listItem.classList.add('incorrect'); // Clase para respuestas incorrectas
+            }
+
+            // Agregar la pregunta y las respuestas al elemento de la lista
+            listItem.appendChild(questionTitle);
+            listItem.appendChild(answersContainer);
+
+            // Agregar el elemento de la lista a la lista correspondiente
+            if (question.userAnswer === correctIndex) {
                 listaCorrectas.appendChild(listItem);
             } else {
-                listItem.classList.add('incorrect'); // Clase para respuestas incorrectas
-                listItem.innerHTML = `<span class="icon">❌</span> Pregunta ${index + 1}: ${escapeHTML(question.question)}<br>
-                - Tu respuesta: <strong>${userAnswerText}</strong><br>
-                - Respuesta correcta: <strong>${correctAnswerText}</strong>`;
                 listaIncorrectas.appendChild(listItem);
             }
         });
