@@ -145,3 +145,45 @@ button:hover {
   margin-left: 250px;
 
 }
+
+/* Animación de confeti */
+@keyframes confetti {
+  0% {
+    background-color: #ffffff;
+  }
+
+  50% {
+    background-color: #90ee90;
+    /* Verde claro */
+  }
+
+  100% {
+    background-color: #ffffff;
+  }
+}
+
+.correct-animation {
+  animation: confetti 1s ease-in-out infinite;
+  /* Repetir la animación */
+}
+
+@keyframes firework-explode {
+  0% {
+    transform: scale(0);
+    opacity: 1;
+  }
+
+  100% {
+    transform: scale(1.5);
+    opacity: 0;
+  }
+}
+
+.firework {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  background-color: var(--color, yellow);
+  border-radius: 50%;
+  animation: firework-explode 1s ease-out forwards;
+}

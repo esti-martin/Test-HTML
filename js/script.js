@@ -1,4 +1,8 @@
 import { calculateScore } from './utils.js';
+import { startCelebration } from './animations.js';
+
+let score = 0; // Declarar en el ámbito global
+let selectedQuestions = []; // Declarar en el ámbito global
 
 // Función para escapar caracteres especiales en HTML
 function escapeHTML(str) {
@@ -44,8 +48,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let questions = [];
     let currentQuestionIndex = 0;
-    let score = 0;
-    let selectedQuestions = [];
+    //let score = 0;
+    //let selectedQuestions = [];
 
     // Determinar el archivo JSON a cargar
     let jsonFile = './resources/preguntas-CSS.json'; // Por defecto, CSS
@@ -163,6 +167,19 @@ document.addEventListener('DOMContentLoaded', () => {
 
         puntuacionElement.innerHTML = `<strong class="puntuacion-azul">${score} de ${selectedQuestions.length}</strong>`;
 
+        // Verificar si todas las respuestas son correctas
+        if (score === selectedQuestions.length) {
+            startCelebration(); // Llamar a la función de celebración
+        }
+        // Mostrar mensaje de felicitaciones o de ánimo     
+        const messageElement = document.createElement('p');
+        if (score === selectedQuestions.length) {
+            messageElement.innerText = '¡Felicidades! Has respondido todas las preguntas correctamente.';
+            messageElement.classList.add('correct-message'); // Clase para mensaje de éxito
+        } else {
+            messageElement.innerText = '¡Buen intento! Sigue practicando para mejorar.';
+            messageElement.classList.add('incorrect-message'); // Clase para mensaje de ánimo
+        }
 
         // Guardar el resultado del test en localStorage
         const testResults = JSON.parse(localStorage.getItem('testResults')) || [];
@@ -275,3 +292,5 @@ document.addEventListener('DOMContentLoaded', () => {
     reiniciarButton.addEventListener('click', reiniciarTest);
     testTitle.innerText = `Test de ${testType.toUpperCase()}`;
 });
+
+export { score, selectedQuestions };
