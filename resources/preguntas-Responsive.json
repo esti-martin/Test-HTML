@@ -1,0 +1,797 @@
+[
+  {
+    "question": "¿Qué es el viewport en diseño web responsive?",
+    "answers": [
+      "El área visible de una página web en un dispositivo",
+      "Un tipo de layout en CSS",
+      "Una propiedad de color en CSS",
+      "Un framework de JavaScript"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Para qué sirve la etiqueta <meta name=viewport>?",
+    "answers": [
+      "Para definir el título de la página",
+      "Para ajustar la escala y el tamaño de la página en dispositivos móviles",
+      "Para incluir archivos CSS",
+      "Para agregar scripts externos"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cuál es el valor recomendado para el atributo 'width' en la meta viewport?",
+    "answers": ["device-width", "100px", "screen-width", "auto"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace el atributo 'initial-scale=1.0' en la meta viewport?",
+    "answers": [
+      "Establece el zoom inicial al cargar la página",
+      "Define el color de fondo",
+      "Cambia el tamaño de las fuentes",
+      "Oculta elementos en móviles"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué es una media query en CSS?",
+    "answers": [
+      "Una función de JavaScript",
+      "Una regla para aplicar estilos según características del dispositivo",
+      "Un tipo de layout",
+      "Una etiqueta HTML"
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "¿Cuál es la sintaxis básica de una media query?",
+    "answers": [
+      "@media (max-width: 600px) { ... }",
+      "<media query='max-width:600px'>",
+      "media-query: 600px;",
+      "if (screen.width < 600) { ... }"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad se usa para detectar el ancho de la pantalla en una media query?",
+    "answers": ["width", "screen-width", "device-width", "max-width"],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "¿Qué unidad es absoluta en CSS?",
+    "answers": ["px", "%", "em", "rem"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cuál de las siguientes es una unidad relativa?",
+    "answers": ["cm", "mm", "em", "in"],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿A qué se refiere la unidad 'em'?",
+    "answers": [
+      "Al tamaño de la fuente del elemento actual",
+      "Al tamaño de la pantalla",
+      "A la raíz del documento",
+      "A la altura de la ventana"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué significa la unidad 'rem'?",
+    "answers": [
+      "Root em, relativo al tamaño de fuente del elemento raíz",
+      "Relative em, relativo al elemento padre",
+      "Responsive em, para layouts adaptables",
+      "Random em, valor aleatorio"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cuál es la diferencia entre 'em' y 'rem'?",
+    "answers": [
+      "'em' depende del elemento padre, 'rem' del elemento raíz",
+      "'em' es absoluta, 'rem' es relativa",
+      "'em' es para márgenes, 'rem' para padding",
+      "No hay diferencia"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Para qué se usa la unidad '%' en CSS?",
+    "answers": [
+      "Para definir tamaños relativos al elemento padre",
+      "Para valores absolutos",
+      "Para colores",
+      "Para fuentes"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad de flexbox alinea los elementos horizontalmente?",
+    "answers": [
+      "justify-content",
+      "align-items",
+      "flex-direction",
+      "flex-wrap"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad de flexbox alinea los elementos verticalmente?",
+    "answers": ["align-items", "justify-content", "flex-basis", "order"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué valor de 'display' activa flexbox en un contenedor?",
+    "answers": ["flex", "block", "inline", "grid"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cuál es la sintaxis para activar grid en un contenedor?",
+    "answers": [
+      "display: grid;",
+      "display: flex;",
+      "display: block;",
+      "display: table;"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad define el número de columnas en CSS Grid?",
+    "answers": [
+      "grid-template-columns",
+      "grid-columns",
+      "columns",
+      "flex-columns"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad define el número de filas en CSS Grid?",
+    "answers": ["grid-template-rows", "grid-rows", "rows", "flex-rows"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cuál es la unidad base de los píxeles en CSS?",
+    "answers": [
+      "1px = 1 punto en la pantalla",
+      "1px = 1 milímetro",
+      "1px = 1 centímetro",
+      "1px = 1 pulgada"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué significa 'responsive web design'?",
+    "answers": [
+      "Diseño que se adapta a diferentes dispositivos y tamaños de pantalla",
+      "Diseño solo para computadoras",
+      "Diseño solo para móviles",
+      "Diseño fijo"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace el valor 'flex-wrap: wrap;' en flexbox?",
+    "answers": [
+      "Permite que los elementos se acomoden en varias líneas",
+      "Alinea los elementos al centro",
+      "Elimina el espacio entre elementos",
+      "Oculta elementos"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad de flexbox define la dirección de los elementos?",
+    "answers": ["flex-direction", "flex-flow", "direction", "align-direction"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué valor de 'flex-direction' coloca los elementos en columna?",
+    "answers": ["column", "row", "vertical", "block"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace la propiedad 'min-width' en una media query?",
+    "answers": [
+      "Aplica estilos cuando el ancho es igual o mayor al valor dado",
+      "Aplica estilos solo en móviles",
+      "Oculta elementos",
+      "Cambia el color de fondo"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace la propiedad 'max-width' en una media query?",
+    "answers": [
+      "Aplica estilos cuando el ancho es igual o menor al valor dado",
+      "Aplica estilos solo en escritorio",
+      "Aumenta el tamaño de fuente",
+      "Cambia el layout a grid"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cuál es la mejor práctica para el diseño responsive?",
+    "answers": [
+      "Usar unidades relativas y media queries",
+      "Usar solo píxeles",
+      "No usar media queries",
+      "Evitar layouts adaptables"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué es un 'breakpoint' en diseño responsive?",
+    "answers": [
+      "Un punto donde cambian los estilos según el tamaño de pantalla",
+      "Un error en el código",
+      "Un tipo de layout",
+      "Una propiedad de color"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cuál es el valor por defecto de 'flex-direction'?",
+    "answers": ["row", "column", "block", "inline"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace 'align-self' en flexbox?",
+    "answers": [
+      "Alinea un elemento individualmente dentro del contenedor",
+      "Alinea todos los elementos",
+      "Cambia el tamaño del contenedor",
+      "Oculta el elemento"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad de grid permite espaciar columnas?",
+    "answers": ["grid-column-gap", "column-gap", "gap", "margin"],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Qué propiedad de grid permite espaciar filas?",
+    "answers": ["grid-row-gap", "row-gap", "gap", "padding"],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "¿Qué unidad es mejor para fuentes escalables?",
+    "answers": ["rem", "px", "cm", "in"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué ventaja tiene usar '%' para el ancho de un contenedor?",
+    "answers": [
+      "Se adapta al tamaño del elemento padre",
+      "Siempre es igual en todos los dispositivos",
+      "No se adapta al tamaño de pantalla",
+      "Solo sirve en móviles"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad de flexbox distribuye el espacio sobrante?",
+    "answers": ["justify-content", "align-items", "flex-basis", "order"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué valor de 'justify-content' centra los elementos?",
+    "answers": ["center", "flex-start", "flex-end", "space-between"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué valor de 'align-items' alinea los elementos al final?",
+    "answers": ["flex-end", "center", "flex-start", "stretch"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace 'grid-template-areas'?",
+    "answers": [
+      "Define áreas nombradas en el grid",
+      "Alinea los elementos",
+      "Cambia el tamaño de las filas",
+      "Ajusta el padding"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad de grid posiciona un elemento en una columna específica?",
+    "answers": ["grid-column", "column", "grid-row", "row"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad de grid posiciona un elemento en una fila específica?",
+    "answers": ["grid-row", "row", "grid-column", "column"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace la propiedad 'order' en flexbox?",
+    "answers": [
+      "Cambia el orden visual de los elementos",
+      "Alinea los elementos",
+      "Cambia el tamaño del contenedor",
+      "Define el color de fondo"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué valor de 'display' permite usar media queries?",
+    "answers": [
+      "Cualquier valor, las media queries no dependen de 'display'",
+      "Solo flex",
+      "Solo grid",
+      "Solo block"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace la propiedad 'flex-basis'?",
+    "answers": [
+      "Define el tamaño inicial de un elemento flex",
+      "Alinea los elementos",
+      "Cambia el color de fondo",
+      "Define el padding"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué valor de 'flex-direction' coloca los elementos en fila?",
+    "answers": ["row", "column", "horizontal", "vertical"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué unidad es recomendable para márgenes en diseño responsive?",
+    "answers": ["rem", "px", "cm", "mm"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad de grid permite definir espacios entre filas y columnas a la vez?",
+    "answers": ["gap", "spacing", "margin", "padding"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace la propiedad 'auto-fit' en grid?",
+    "answers": [
+      "Ajusta automáticamente el número de columnas según el espacio disponible",
+      "Alinea los elementos al centro",
+      "Cambia el tamaño de fuente",
+      "Oculta elementos"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué es un layout adaptable?",
+    "answers": [
+      "Un diseño que se ajusta a diferentes tamaños de pantalla",
+      "Un diseño fijo",
+      "Un diseño solo para escritorio",
+      "Un diseño solo para móviles"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cuál es el objetivo principal del diseño responsive?",
+    "answers": [
+      "Que el sitio funcione y se vea bien en cualquier dispositivo",
+      "Que el sitio solo funcione en móviles",
+      "Que el sitio tenga muchos colores",
+      "Que el sitio sea solo para escritorio"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad de flexbox controla el crecimiento de los elementos?",
+    "answers": ["flex-grow", "flex-shrink", "flex-basis", "order"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad de flexbox controla el encogimiento de los elementos?",
+    "answers": ["flex-shrink", "flex-grow", "flex-basis", "order"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué unidad se usa para definir porcentajes en CSS?",
+    "answers": ["%", "px", "em", "rem"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué es el enfoque 'mobile first'?",
+    "answers": [
+      "Diseñar primero para móviles y luego adaptar a pantallas más grandes",
+      "Diseñar solo para escritorio",
+      "Diseñar solo para tablets",
+      "Diseñar solo para móviles"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué es el enfoque 'desktop first'?",
+    "answers": [
+      "Diseñar primero para escritorio y luego adaptar a móviles",
+      "Diseñar solo para móviles",
+      "Diseñar solo para tablets",
+      "Diseñar solo para escritorio"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad de grid permite que un elemento ocupe varias columnas?",
+    "answers": [
+      "grid-column: 1 / 3;",
+      "column-span: 2;",
+      "grid-span: 2;",
+      "span-columns: 2;"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad de grid permite que un elemento ocupe varias filas?",
+    "answers": [
+      "grid-row: 1 / 3;",
+      "row-span: 2;",
+      "grid-span: 2;",
+      "span-rows: 2;"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace la propiedad 'minmax()' en grid?",
+    "answers": [
+      "Define un rango mínimo y máximo para el tamaño de una columna o fila",
+      "Alinea los elementos",
+      "Cambia el color de fondo",
+      "Define el padding"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad de grid permite repetir columnas automáticamente?",
+    "answers": ["repeat()", "auto-repeat", "grid-repeat", "columns-repeat"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace la propiedad 'auto' en grid?",
+    "answers": [
+      "Permite que el tamaño se ajuste automáticamente al contenido o espacio disponible",
+      "Alinea los elementos",
+      "Cambia el color de fondo",
+      "Define el padding"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué valor de 'display' se usa para layouts de una sola columna en móviles?",
+    "answers": ["block", "flex", "grid", "inline"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad de flexbox permite alinear elementos en varias líneas?",
+    "answers": ["flex-wrap", "justify-content", "align-items", "align-content"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace la propiedad 'align-content' en flexbox?",
+    "answers": [
+      "Alinea las líneas del contenedor cuando hay espacio extra",
+      "Alinea los elementos individuales",
+      "Cambia el tamaño de fuente",
+      "Oculta elementos"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué unidad es mejor para definir el ancho de imágenes en responsive?",
+    "answers": ["%", "px", "cm", "mm"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Cuál es la ventaja de usar grid sobre flexbox?",
+    "answers": [
+      "Permite crear layouts bidimensionales (filas y columnas)",
+      "Permite solo layouts en una dirección",
+      "No tiene ventajas",
+      "Es más difícil de usar"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué valor de 'display' permite crear layouts bidimensionales?",
+    "answers": ["grid", "flex", "block", "inline"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad de grid define el tamaño de las columnas?",
+    "answers": [
+      "grid-template-columns",
+      "columns",
+      "column-size",
+      "grid-columns"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad de grid define el tamaño de las filas?",
+    "answers": ["grid-template-rows", "rows", "row-size", "grid-rows"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace la función 'fr' en grid?",
+    "answers": [
+      "Define fracciones del espacio disponible",
+      "Define el color de fondo",
+      "Alinea los elementos",
+      "Cambia el tamaño de fuente"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad de grid define el espacio entre filas y columnas?",
+    "answers": ["gap", "margin", "padding", "spacing"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué valor de 'display' se recomienda para layouts adaptables modernos?",
+    "answers": ["flex o grid", "block", "inline", "table"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué es una media query compuesta?",
+    "answers": [
+      "Una media query que combina varias condiciones",
+      "Una media query dentro de otra",
+      "Una media query para colores",
+      "Una media query para fuentes"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué operador se usa para combinar condiciones en media queries?",
+    "answers": ["and", "or", "not", "xor"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace la propiedad 'overflow' en layouts adaptables?",
+    "answers": [
+      "Controla cómo se muestra el contenido que desborda su contenedor",
+      "Alinea los elementos",
+      "Cambia el color de fondo",
+      "Define el padding"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad de grid permite superponer elementos?",
+    "answers": ["z-index", "grid-area", "order", "position"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué valor de 'width' hace que un elemento ocupe todo el ancho disponible?",
+    "answers": ["100%", "auto", "inherit", "fit-content"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace la propiedad 'max-width' en CSS?",
+    "answers": [
+      "Limita el ancho máximo de un elemento",
+      "Define el ancho mínimo",
+      "Alinea los elementos",
+      "Cambia el color de fondo"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace la propiedad 'min-width' en CSS?",
+    "answers": [
+      "Define el ancho mínimo de un elemento",
+      "Define el ancho máximo",
+      "Alinea los elementos",
+      "Cambia el color de fondo"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace la propiedad 'box-sizing: border-box;'?",
+    "answers": [
+      "Incluye el padding y el borde en el cálculo del ancho y alto",
+      "Solo calcula el contenido",
+      "Cambia el color de fondo",
+      "Alinea los elementos"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué unidad es mejor para definir el tamaño de fuente en responsive?",
+    "answers": ["rem", "px", "cm", "mm"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace la propiedad 'object-fit: cover;' en imágenes?",
+    "answers": [
+      "Hace que la imagen cubra todo el contenedor manteniendo la proporción",
+      "Estira la imagen",
+      "Recorta la imagen",
+      "Cambia el color de fondo"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad permite ocultar elementos en ciertos tamaños de pantalla?",
+    "answers": [
+      "display: none;",
+      "visibility: hidden;",
+      "opacity: 0;",
+      "overflow: hidden;"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace la propiedad 'overflow-x: auto;'?",
+    "answers": [
+      "Agrega scroll horizontal si es necesario",
+      "Oculta el contenido",
+      "Alinea los elementos",
+      "Cambia el color de fondo"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad de grid permite nombrar áreas?",
+    "answers": [
+      "grid-template-areas",
+      "grid-areas",
+      "area-names",
+      "template-areas"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace la función 'calc()' en CSS?",
+    "answers": [
+      "Permite realizar cálculos con diferentes unidades",
+      "Cambia el color de fondo",
+      "Alinea los elementos",
+      "Define el padding"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad permite cambiar el orden de los elementos en grid?",
+    "answers": ["grid-row y grid-column", "order", "z-index", "position"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué valor de 'display' elimina el espacio entre elementos?",
+    "answers": ["flex", "block", "inline", "table"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace la propiedad 'flex-shrink: 0;'?",
+    "answers": [
+      "Evita que un elemento se reduzca en flexbox",
+      "Permite que el elemento crezca",
+      "Oculta el elemento",
+      "Aumenta el tamaño de fuente"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad de flexbox permite definir el espacio entre líneas?",
+    "answers": [
+      "align-content",
+      "align-items",
+      "justify-content",
+      "flex-basis"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace la propiedad 'flex: 1;'?",
+    "answers": [
+      "Permite que el elemento crezca y ocupe el espacio disponible",
+      "Oculta el elemento",
+      "Alinea los elementos",
+      "Cambia el color de fondo"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué valor de 'display' se usa para layouts de varias columnas en escritorio?",
+    "answers": ["grid", "flex", "block", "inline"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace la propiedad 'media' en la etiqueta <link>?",
+    "answers": [
+      "Permite cargar estilos solo en ciertos dispositivos o condiciones",
+      "Cambia el color de fondo",
+      "Alinea los elementos",
+      "Define el padding"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué es el diseño líquido?",
+    "answers": [
+      "Diseño que usa porcentajes para adaptarse al tamaño de la pantalla",
+      "Diseño fijo",
+      "Diseño solo para móviles",
+      "Diseño solo para escritorio"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace la propiedad 'vw' en CSS?",
+    "answers": [
+      "Define el tamaño relativo al ancho de la ventana",
+      "Define el tamaño relativo al alto de la ventana",
+      "Define el tamaño relativo al elemento padre",
+      "Define el tamaño en píxeles"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace la propiedad 'vh' en CSS?",
+    "answers": [
+      "Define el tamaño relativo al alto de la ventana",
+      "Define el tamaño relativo al ancho de la ventana",
+      "Define el tamaño relativo al elemento padre",
+      "Define el tamaño en píxeles"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué unidad es mejor para layouts fluidos?",
+    "answers": ["%", "px", "cm", "mm"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace la propiedad 'max-height' en CSS?",
+    "answers": [
+      "Limita la altura máxima de un elemento",
+      "Define la altura mínima",
+      "Alinea los elementos",
+      "Cambia el color de fondo"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace la propiedad 'min-height' en CSS?",
+    "answers": [
+      "Define la altura mínima de un elemento",
+      "Define la altura máxima",
+      "Alinea los elementos",
+      "Cambia el color de fondo"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué propiedad de flexbox permite alinear elementos en el eje transversal?",
+    "answers": [
+      "align-items",
+      "justify-content",
+      "align-content",
+      "flex-basis"
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué valor de 'display' se usa para ocultar elementos?",
+    "answers": ["none", "block", "flex", "grid"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "¿Qué hace la propiedad 'visibility: hidden;'?",
+    "answers": [
+      "Oculta el elemento pero mantiene su espacio",
+      "Elimina el elemento del flujo",
+      "Alinea los elementos",
+      "Cambia el color de fondo"
+    ],
+    "correctAnswer": "a"
+  }
+]

@@ -1,35 +1,45 @@
 <!DOCTYPE html>
 <html lang="es">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Seleccionar Test</title>
-    <link rel="stylesheet" href="./css/style.css">
-</head>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
 
-<body>
+  <body>
     <div class="container">
-        <h1>Bienvenido al Test</h1>
-        <p>Selecciona el test que deseas realizar:</p>
-        <div class="test-selection">
-            <button id="htmlTest" class="test-button">Test de HTML</button>
-            <button id="cssTest" class="test-button">Test de CSS</button>
-            <button id="formTest" class="test-button">Test de FORM</button>
-        </div>
+      <h1>Bienvenido al Test</h1>
+      <p>Selecciona el test que deseas realizar:</p>
+      <div class="test-selection">
+        <button id="htmlTest" class="test-button">Test de HTML</button>
+        <button id="cssTest" class="test-button">Test de CSS</button>
+        <button id="formTest" class="test-button">Test de FORM</button>
+        <button id="formResponsive" class="test-button">
+          Test Responsive Web Desing
+        </button>
+      </div>
     </div>
 
     <script>
-        // Función para redirigir al test con el tipo seleccionado
-        function redirectToTest(type) {
-            window.location.href = `./test-template.html?type=${type}`;
-        }
+      // Función para redirigir al test con el tipo seleccionado
+      function redirectToTest(type) {
+        window.location.href = `./test-template.html?type=${type}`;
+      }
 
-        // Asignar eventos a los botones
-        document.getElementById('htmlTest').addEventListener('click', () => redirectToTest('html'));
-        document.getElementById('cssTest').addEventListener('click', () => redirectToTest('css'));
-        document.getElementById('formTest').addEventListener('click', () => redirectToTest('form'));
+      // Asignar eventos a los botones
+      document
+        .getElementById("htmlTest")
+        .addEventListener("click", () => redirectToTest("html"));
+      document
+        .getElementById("cssTest")
+        .addEventListener("click", () => redirectToTest("css"));
+      document
+        .getElementById("formTest")
+        .addEventListener("click", () => redirectToTest("form"));
+      document
+        .getElementById("formResponsive")
+        .addEventListener("click", () => redirectToTest("responsive"));
     </script>
-</body>
-
+  </body>
 </html>
