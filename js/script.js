@@ -1,4 +1,4 @@
-import { calculateScore } from "./utils.js";
+import { calculateScore } from "../utils.js";
 
 // Función para escapar caracteres especiales en HTML
 function escapeHTML(str) {
@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Evento para redirigir al usuario a la pantalla de selección de test
   otroTestButton.addEventListener("click", () => {
-    window.location.href = "./index.html";
+    window.location.href = "../index.html";
   });
 
   let questions = [];
@@ -47,15 +47,15 @@ document.addEventListener("DOMContentLoaded", () => {
   let selectedQuestions = [];
 
   // Determinar el archivo JSON a cargar
-  let jsonFile = "./resources/preguntas-CSS.json"; // Por defecto, CSS
+  let jsonFile = "../resources/preguntas-CSS.json"; // Por defecto, CSS
   if (testType === "html") {
-    jsonFile = "./resources/preguntas-HTML.json";
+    jsonFile = "../resources/preguntas-HTML.json";
   } else if (testType === "form") {
-    jsonFile = "./resources/preguntas-FORM.json";
+    jsonFile = "../resources/preguntas-FORM.json";
   } else if (testType === "responsive") {
-    jsonFile = "./resources/preguntas-Responsive.json";
+    jsonFile = "../resources/preguntas-Responsive.json";
   } else if (testType === "etica") {
-    jsonFile = "./resources/preguntas-etica.json";
+    jsonFile = "../resources/preguntas-etica.json";
   } else {
     console.error(
       "Tipo de test no válido. Se cargará el test de CSS por defecto."
