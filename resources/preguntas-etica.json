@@ -998,6 +998,16 @@
           "La exclusión de personas mayores."
         ],
         "correctAnswer": "a"
+      },
+      {
+        "question": "Según los materiales, además del Principio de beneficencia, ¿cuáles de los siguientes se mencionan como otros principios importantes a considerar para el comportamiento ético y la reflexión profesional?",
+        "answers": [
+          "Principio de autonomía, Principio de justicia, Honradez, Desinterés, Dignidad y Obrar en conciencia.",
+          "Principio de legalidad, Transparencia, No discriminación y Respeto al medio ambiente.",
+          "Responsabilidad proactiva, Minimización de datos, Derecho de acceso y Confidencialidad.",
+          "Código deontológico, Normas morales, Normas legales y Voluntad de servicio."
+        ],
+        "correctAnswer": "a"
       }
   ]
   
