@@ -54,6 +54,8 @@ document.addEventListener("DOMContentLoaded", () => {
     jsonFile = "./resources/preguntas-FORM.json";
   } else if (testType === "responsive") {
     jsonFile = "./resources/preguntas-Responsive.json";
+  } else if (testType === "etica") {
+    jsonFile = "./resources/preguntas-etica.json";
   } else {
     console.error(
       "Tipo de test no válido. Se cargará el test de CSS por defecto."

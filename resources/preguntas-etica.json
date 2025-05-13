@@ -1,0 +1,1003 @@
+[
+    {
+      "question": "¿Qué es la ética?",
+      "answers": [
+        "La ciencia de la sociedad.",
+        "La ciencia de lo deseado.",
+        "La ciencia de lo debido.",
+        "Lo debido en la sociedad."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "¿Cuál de estas disciplinas se basa principalmente en las costumbres?",
+      "answers": [
+        "Ética.",
+        "Deontología.",
+        "Moral.",
+        "Derecho."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "Según la RAE, ¿qué describe, entre otras acepciones, la palabra ‘derecho’?",
+      "answers": [
+        "Un conjunto de principios y normas que regulan las relaciones humanas y cuya observancia puede ser impuesta de manera coactiva.",
+        "La capacidad que tienen las personas de elegir libremente sus acciones sin restricciones.",
+        "El estudio filosófico de la moralidad humana y de los principios que rigen el comportamiento.",
+        "Las reglas de comportamiento profesional que se establecen por consenso en un gremio."
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "question": "Comprender la relevancia de la ética, la moral, el derecho y la deontología es fundamental para:",
+      "answers": [
+        "Únicamente el desarrollo personal.",
+        "Únicamente el desarrollo profesional.",
+        "Nuestro desarrollo personal y profesional.",
+        "Entender conceptos abstractos."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "Actuar conforme a unos principios morales claros y definidos tendrá una relevancia decisiva para:",
+      "answers": [
+        "Nuestra vida privada únicamente.",
+        "Nuestra práctica profesional únicamente.",
+        "Nuestra práctica profesional, ya sea autónomo o por cuenta ajena.",
+        "El cumplimiento de la ley."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "¿Qué se plantea en el ejemplo de dilema moral sobre el uso de materiales de menor calidad de la estipulada contractualmente?",
+      "answers": [
+        "La decisión de asumir la responsabilidad y advertir al cliente o callarse para evitar ser señalado como causante del error.",
+        "La obligación legal de informar al cliente sobre cualquier fallo en el servicio.",
+        "La posibilidad de subcontratar a otro profesional para corregir el error.",
+        "El impacto del error en los resultados económicos de la empresa a corto plazo."
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "question": "¿Qué se plantea en el ejemplo de dilema moral sobre aceptar una comisión por recomendar equipos a un cliente?",
+      "answers": [
+        "Si se debe aceptar el dinero solo si el producto es malo.",
+        "Si se debe rechazar el dinero si perjudicará a alguien.",
+        "Si se debe aceptar el dinero porque no perjudicará a nadie y el producto es bueno, o rechazarlo en cualquier caso.",
+        "Las consecuencias legales de aceptar comisiones."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "Al comprometernos a prestar un servicio profesional determinado, ¿qué debemos entender que estamos haciendo?",
+      "answers": [
+        "Buscando el máximo beneficio económico propio.",
+        "Cumpliendo únicamente con las obligaciones legales mínimas.",
+        "Comprometiéndonos con un tercero para cumplir unas expectativas.",
+        "Realizando una actividad que solo nos afecta a nosotros."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "El estudio de la ética y de la moral suele incluir una referencia a su origen:",
+      "answers": [
+        "Social.",
+        "Filosófico.",
+        "Histórico.",
+        "Etimológico."
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "question": "¿Qué conexión existe entre la ética, la moral, el derecho y la deontología?",
+      "answers": [
+        "Son conceptos totalmente independientes y sin relación.",
+        "Son conceptos que estudian únicamente las leyes.",
+        "Son conceptos clave en esta asignatura que tienen importantes implicaciones humanas y prácticas.",
+        "Son sinónimos y pueden usarse indistintamente."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "Según los temas, la razón y la voluntad nos son muy útiles para:",
+      "answers": [
+        "Evitar la autocrítica y buscar el beneficio inmediato.",
+        "Ser críticos con nosotros mismos y buscar aquello que minimice el mal y multiplique el bien.",
+        "Imponer nuestros criterios a los demás.",
+        "Justificar cualquier comportamiento."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Desde la antigüedad, el ser humano ha intentado plantear reglas de conducta que faciliten:",
+      "answers": [
+        "La consecución del máximo poder.",
+        "Nuestro comportamiento en sociedad.",
+        "El dominio sobre la naturaleza.",
+        "La acumulación de riqueza."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Entre los \"Otros principios importantes\" mencionados se incluyen:",
+      "answers": [
+        "La utilidad, el beneficio y la eficiencia.",
+        "La autonomía, la justicia, la honradez y la dignidad.",
+        "La prudencia, la fortaleza y la templanza.",
+        "La obediencia, la disciplina y la jerarquía."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Una vez conocida la función de nuestra profesión y cuáles son nuestros fines dentro de ella, ¿qué labor debemos trabajar para perseguir ese fin?",
+      "answers": [
+        "Seguir las órdenes de nuestros superiores sin cuestionarlas.",
+        "Trazarnos la hoja de ruta y establecer la forma de alcanzar los objetivos.",
+        "Dejar que la inercia del mercado dicte nuestro camino.",
+        "Buscar únicamente el beneficio económico personal."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Según los temas, un código deontológico no debería ser impuesto, sino que uno debería poder:",
+      "answers": [
+        "Ignorarlo si no se está de acuerdo con su contenido.",
+        "Adherirse a él voluntariamente por considerarlo adecuado.",
+        "Modificarlo unilateralmente según sus intereses.",
+        "Considerarlo solo una sugerencia sin valor real."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Según el Tribunal Supremo, las normas de deontología profesional aprobadas por colegios profesionales u órganos equivalentes:",
+      "answers": [
+        "Son solo orientativas sin consecuencias prácticas.",
+        "Deben servir para poder juzgar moralmente a los compañeros de profesión.",
+        "No constituyen simples tratados de deberes morales sin consecuencias.",
+        "Únicamente se aplican a quienes cometen delitos."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "Las asociaciones y colegios profesionales tienen la responsabilidad permanente de:",
+      "answers": [
+        "Regular el mercado para evitar la competencia.",
+        "Defender los intereses económicos de sus miembros por encima de todo.",
+        "Autorregularse y llevar a cabo una constante actividad crítica y evaluadora.",
+        "Imponer sanciones a quienes no alcancen ciertos niveles de éxito."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "Una condición necesaria para asumir conductas deontológicamente aceptables es:",
+      "answers": [
+        "Ser fiel a la verdad, asumir la responsabilidad de nuestros actos y ser honestos.",
+        "Alcanzar un alto nivel de ingresos económicos.",
+        "Tener una amplia red de contactos profesionales.",
+        "Ser reconocido públicamente por la calidad de nuestros diseños."
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "question": "Para Aristóteles, el ‘buen obrar humano’ es aquello que le dicta:",
+      "answers": [
+        "Sus instintos más básicos.",
+        "La recta razón.",
+        "Las costumbres de la sociedad.",
+        "Lo que le guste hacer."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "¿Quién acuña el concepto de ‘ética de la responsabilidad’?",
+      "answers": [
+        "Bertrand Russell.",
+        "Aristóteles.",
+        "Max Weber.",
+        "Marx."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "Según las teorías de la responsabilidad social:",
+      "answers": [
+        "Uno es responsable solo de lo que hace directamente.",
+        "Uno es responsable de lo que hacen los demás en su entorno.",
+        "Uno, en cierta medida, es responsable de lo que ocurre en el mundo.",
+        "La responsabilidad recae únicamente en las instituciones."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "El principio escolástico del comportamiento ético es:",
+      "answers": [
+        "Haz siempre lo que te aporte mayores beneficios.",
+        "Hazle a los demás lo que te gustaría que te hicieran a ti.",
+        "Haz siempre lo que consideres correcto, independientemente de las consecuencias.",
+        "Busca la mayor utilidad para el mayor número de personas."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Según Mises, la acción humana implica siempre y a la vez:",
+      "answers": [
+        "Obligación y recompensa.",
+        "Preferir y renunciar.",
+        "Pensar y ejecutar.",
+        "Planificar y improvisar."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Nuestra razón y experiencia nos permiten, a diferencia de los animales:",
+      "answers": [
+        "Actuar únicamente para obtener rendimientos inmediatos.",
+        "Crear cadenas de objetivos que nos lleven a metas más altas.",
+        "Ignorar las consecuencias de nuestras acciones.",
+        "Guiarnos exclusivamente por instintos."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "La tendencia empresarial que vincula los objetivos con una maximización de los beneficios monetarios podría tildarse de:",
+      "answers": [
+        "Deontológica.",
+        "Principialista.",
+        "Utilitarista.",
+        "Altruista."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+        "question": "¿Cuál es la diferencia fundamental entre la ética y la deontología?",
+        "answers": [
+          "La ética es universal y la deontología es particular de una profesión.",
+          "La deontología es universal y la ética es particular de una profesión.",
+          "La ética se basa en leyes y la deontología en costumbres.",
+          "No existe diferencia."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es un código deontológico?",
+        "answers": [
+          "Un conjunto de leyes estatales.",
+          "Un conjunto de normas morales personales.",
+          "Un conjunto de normas éticas específicas de una profesión.",
+          "Un tratado filosófico sobre la moral."
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "¿Qué finalidad tienen los códigos deontológicos?",
+        "answers": [
+          "Proteger únicamente los intereses económicos de los profesionales.",
+          "Guiar el comportamiento profesional y proteger a los usuarios y a la sociedad.",
+          "Sustituir a las leyes estatales.",
+          "Eliminar la competencia entre profesionales."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "¿Cuál de las siguientes afirmaciones sobre la responsabilidad profesional es correcta?",
+        "answers": [
+          "El profesional responde solo ante sí mismo.",
+          "El profesional responde ante la sociedad, sus clientes y sus compañeros.",
+          "La responsabilidad profesional es solo un concepto teórico.",
+          "La responsabilidad profesional solo existe si hay un contrato escrito."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "¿Cuál es la principal función de los colegios profesionales?",
+        "answers": [
+          "Regular el acceso a la profesión y velar por el cumplimiento de la deontología.",
+          "Imponer sanciones económicas a los profesionales.",
+          "Defender únicamente los intereses de los clientes.",
+          "Organizar eventos sociales."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué ocurre si un profesional incumple el código deontológico de su profesión?",
+        "answers": [
+          "No ocurre nada, ya que no es obligatorio.",
+          "Puede ser sancionado por su colegio profesional.",
+          "Pierde automáticamente su título universitario.",
+          "Debe indemnizar siempre económicamente al cliente."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "¿Qué relación existe entre la ética y la ley?",
+        "answers": [
+          "La ética y la ley siempre coinciden.",
+          "La ley establece mínimos obligatorios y la ética puede exigir más.",
+          "La ética es obligatoria y la ley es opcional.",
+          "No existe relación entre ética y ley."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "¿Cuál de los siguientes es un principio fundamental de la ética profesional?",
+        "answers": [
+          "La búsqueda del máximo beneficio personal.",
+          "La competencia desleal.",
+          "La honestidad.",
+          "El secretismo absoluto."
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "¿Qué implica el principio de confidencialidad en el ámbito profesional?",
+        "answers": [
+          "Compartir información sensible con cualquier persona.",
+          "Proteger la información privada de los clientes.",
+          "Publicar todos los datos en internet.",
+          "Ignorar la protección de datos."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "¿Qué es el secreto profesional?",
+        "answers": [
+          "La obligación de no revelar información confidencial obtenida en el ejercicio profesional.",
+          "La obligación de compartir información con la competencia.",
+          "La obligación de informar siempre a los medios de comunicación.",
+          "La obligación de publicar los resultados de todos los trabajos."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Cuál es la finalidad del principio de veracidad en la comunicación profesional?",
+        "answers": [
+          "Engañar al cliente para obtener un beneficio.",
+          "Informar de manera clara, veraz y completa.",
+          "Omitir información relevante.",
+          "Utilizar tecnicismos para confundir."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "¿Qué es la competencia leal?",
+        "answers": [
+          "Actuar de manera justa y respetuosa con otros profesionales.",
+          "Desprestigiar a la competencia.",
+          "Ocultar información relevante a los clientes.",
+          "Ofrecer precios por debajo del coste."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué principio ético se vulnera si un profesional acepta sobornos?",
+        "answers": [
+          "La honestidad.",
+          "La confidencialidad.",
+          "La competencia leal.",
+          "La responsabilidad."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es el intrusismo profesional?",
+        "answers": [
+          "La actuación profesional por personas no habilitadas legalmente.",
+          "La especialización en varias áreas profesionales.",
+          "La formación continua.",
+          "La colaboración entre profesionales."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la responsabilidad civil profesional?",
+        "answers": [
+          "La obligación de responder por los daños causados en el ejercicio profesional.",
+          "La obligación de pagar impuestos.",
+          "La obligación de asistir a todos los eventos del colegio profesional.",
+          "La obligación de informar a los clientes de todos los detalles."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Cuál es la finalidad de la formación continua en la profesión?",
+        "answers": [
+          "Mantenerse actualizado y mejorar la calidad del servicio.",
+          "Evitar el contacto con otros profesionales.",
+          "Reducir la competencia.",
+          "Incrementar los precios."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la colegiación profesional?",
+        "answers": [
+          "La inscripción en un colegio profesional para ejercer legalmente una profesión.",
+          "La participación en actividades deportivas.",
+          "La obtención de un título universitario.",
+          "La asistencia a congresos internacionales."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Cuál es la función de la comisión deontológica de un colegio profesional?",
+        "answers": [
+          "Velar por el cumplimiento del código deontológico.",
+          "Organizar actividades recreativas.",
+          "Fomentar la competencia desleal.",
+          "Aumentar las cuotas de los colegiados."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la mediación profesional?",
+        "answers": [
+          "Un mecanismo para resolver conflictos entre profesionales o entre profesional y cliente.",
+          "La imposición de sanciones económicas.",
+          "Una técnica de negociación salarial.",
+          "Un método para evitar la formación continua."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué principio ético se vulnera si un profesional miente sobre su titulación?",
+        "answers": [
+          "La veracidad.",
+          "La confidencialidad.",
+          "La competencia.",
+          "La responsabilidad."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Cuál es la finalidad de la publicidad profesional?",
+        "answers": [
+          "Informar verazmente sobre los servicios ofrecidos.",
+          "Engañar al público.",
+          "Desprestigiar a la competencia.",
+          "Ocultar información relevante."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la ética empresarial?",
+        "answers": [
+          "El conjunto de principios y valores que rigen el comportamiento de las empresas.",
+          "La búsqueda exclusiva del beneficio económico.",
+          "La competencia desleal.",
+          "El cumplimiento estricto de la ley sin más."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la responsabilidad social corporativa?",
+        "answers": [
+          "El compromiso voluntario de las empresas con la sociedad y el medio ambiente.",
+          "La maximización del beneficio económico.",
+          "La evasión de impuestos.",
+          "La competencia desleal."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la sostenibilidad en el ámbito profesional?",
+        "answers": [
+          "El desarrollo de la actividad profesional respetando el medio ambiente y las generaciones futuras.",
+          "La obtención del máximo beneficio en el menor tiempo posible.",
+          "La reducción de costes a cualquier precio.",
+          "La competencia desleal."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es el conflicto de intereses?",
+        "answers": [
+          "La situación en la que los intereses personales pueden influir en el desempeño profesional.",
+          "La competencia leal.",
+          "La formación continua.",
+          "La colegiación profesional."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué debe hacer un profesional ante un conflicto de intereses?",
+        "answers": [
+          "Informar y abstenerse de intervenir si no puede garantizar su imparcialidad.",
+          "Ignorar el conflicto y seguir adelante.",
+          "Aprovechar la situación para beneficio propio.",
+          "Delegar siempre en otro profesional."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la transparencia en el ejercicio profesional?",
+        "answers": [
+          "Actuar de manera clara, honesta y accesible ante clientes y sociedad.",
+          "Ocultar información relevante.",
+          "Utilizar tecnicismos para confundir.",
+          "No informar de los errores cometidos."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué implica el principio de equidad en la profesión?",
+        "answers": [
+          "Tratar a todas las personas de manera justa y sin discriminación.",
+          "Favorecer a los amigos y familiares.",
+          "Priorizar a los clientes más rentables.",
+          "Aplicar la ley solo cuando convenga."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la dignidad profesional?",
+        "answers": [
+          "El respeto y reconocimiento social hacia la profesión y quienes la ejercen.",
+          "La obtención de altos ingresos.",
+          "La fama en los medios de comunicación.",
+          "El uso de títulos honoríficos."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué papel juega la empatía en la relación profesional?",
+        "answers": [
+          "Permite comprender y atender mejor las necesidades del cliente.",
+          "No tiene ninguna importancia.",
+          "Puede dificultar la toma de decisiones.",
+          "Solo es relevante en profesiones sanitarias."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la autonomía profesional?",
+        "answers": [
+          "La capacidad de tomar decisiones propias en el ejercicio profesional.",
+          "La obligación de seguir siempre las órdenes superiores.",
+          "La dependencia total de los clientes.",
+          "La ausencia de responsabilidad."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la rendición de cuentas?",
+        "answers": [
+          "La obligación de justificar y asumir las consecuencias de las propias decisiones.",
+          "Evitar cualquier tipo de responsabilidad.",
+          "Delegar siempre en otros profesionales.",
+          "No informar de los resultados obtenidos."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la lealtad profesional?",
+        "answers": [
+          "El compromiso de actuar con fidelidad hacia los valores y principios de la profesión.",
+          "La obligación de apoyar siempre a los superiores.",
+          "La búsqueda exclusiva del beneficio personal.",
+          "La competencia desleal."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la justicia en el ejercicio profesional?",
+        "answers": [
+          "Actuar conforme a la ley y los principios éticos, dando a cada uno lo que le corresponde.",
+          "Favorecer a los clientes habituales.",
+          "Priorizar a los familiares.",
+          "Ignorar las normas cuando convenga."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la integridad profesional?",
+        "answers": [
+          "La coherencia entre los valores, principios y acciones del profesional.",
+          "La obtención de recompensas económicas.",
+          "La adaptación a cualquier situación.",
+          "La flexibilidad ante la ley."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la prudencia en la toma de decisiones profesionales?",
+        "answers": [
+          "Valorar las consecuencias antes de actuar.",
+          "Actuar de manera impulsiva.",
+          "Tomar riesgos innecesarios.",
+          "Delegar siempre las decisiones."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la excelencia profesional?",
+        "answers": [
+          "La búsqueda constante de la mejora y la calidad en el trabajo.",
+          "La mediocridad aceptada.",
+          "La competencia desleal.",
+          "La falta de formación continua."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la vocación profesional?",
+        "answers": [
+          "La inclinación y entusiasmo hacia el ejercicio de una profesión.",
+          "La obligación impuesta por la familia.",
+          "La búsqueda exclusiva de beneficios económicos.",
+          "La falta de interés por el trabajo."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la confidencialidad de los datos personales?",
+        "answers": [
+          "La obligación de proteger la información personal de los clientes.",
+          "La publicación de datos en redes sociales.",
+          "El intercambio de información con terceros sin consentimiento.",
+          "La venta de datos a empresas."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es el respeto a la diversidad en el ámbito profesional?",
+        "answers": [
+          "Valorar y aceptar las diferencias individuales y culturales.",
+          "Favorecer solo a quienes piensan igual.",
+          "Ignorar las diferencias culturales.",
+          "Discriminar a personas por su origen."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la innovación en la práctica profesional?",
+        "answers": [
+          "Introducir mejoras y nuevas ideas en el ejercicio profesional.",
+          "Repetir siempre los mismos métodos.",
+          "Evitar el cambio.",
+          "Ignorar los avances tecnológicos."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la resiliencia profesional?",
+        "answers": [
+          "La capacidad de adaptarse y superar situaciones adversas.",
+          "Evitar los problemas.",
+          "Rendirse ante las dificultades.",
+          "Ignorar los fracasos."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la proactividad en el trabajo?",
+        "answers": [
+          "Anticiparse a los problemas y actuar antes de que ocurran.",
+          "Esperar a que otros tomen la iniciativa.",
+          "Reaccionar solo ante las crisis.",
+          "Evitar cualquier cambio."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es el trabajo en equipo?",
+        "answers": [
+          "Colaborar con otros profesionales para alcanzar objetivos comunes.",
+          "Trabajar siempre de manera individual.",
+          "Competir con los compañeros.",
+          "Evitar la comunicación."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la comunicación asertiva?",
+        "answers": [
+          "Expresar opiniones y necesidades de manera clara y respetuosa.",
+          "Imponer siempre el propio criterio.",
+          "Evitar expresar opiniones.",
+          "Ignorar las opiniones ajenas."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la escucha activa?",
+        "answers": [
+          "Prestar atención y comprender realmente lo que dice el interlocutor.",
+          "Esperar solo para responder.",
+          "Ignorar los mensajes de los demás.",
+          "Interrumpir constantemente."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es el liderazgo ético?",
+        "answers": [
+          "Guiar a otros con el ejemplo y principios morales.",
+          "Imponer la voluntad propia.",
+          "Buscar el beneficio personal.",
+          "Ignorar las necesidades del equipo."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la motivación profesional?",
+        "answers": [
+          "El impulso interno que lleva a mejorar y alcanzar metas.",
+          "La obligación impuesta por otros.",
+          "La búsqueda exclusiva de recompensas externas.",
+          "La falta de interés por el trabajo."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la autoevaluación profesional?",
+        "answers": [
+          "Analizar y valorar el propio desempeño para mejorar.",
+          "Evitar cualquier tipo de crítica.",
+          "Culpar siempre a los demás.",
+          "Ignorar los errores cometidos."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la ética digital?",
+        "answers": [
+          "El conjunto de principios que rigen el comportamiento en entornos digitales.",
+          "La ausencia de normas en internet.",
+          "El uso de datos sin consentimiento.",
+          "La difusión de información falsa."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la huella digital profesional?",
+        "answers": [
+          "El rastro de información que dejamos en internet sobre nuestra actividad profesional.",
+          "La firma manuscrita en documentos oficiales.",
+          "El uso de dispositivos biométricos.",
+          "La impresión de tarjetas de visita."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es el ciberacoso en el entorno profesional?",
+        "answers": [
+          "El acoso realizado a través de medios digitales en el ámbito laboral.",
+          "La crítica constructiva en redes sociales.",
+          "El envío de correos electrónicos informativos.",
+          "La participación en foros profesionales."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la protección de datos personales en la profesión?",
+        "answers": [
+          "El conjunto de medidas para garantizar la privacidad y seguridad de los datos de clientes y usuarios.",
+          "La publicación de datos en la web corporativa.",
+          "El intercambio libre de información personal.",
+          "La venta de bases de datos a terceros."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la propiedad intelectual?",
+        "answers": [
+          "El derecho que protege las creaciones originales de autores y profesionales.",
+          "La compra de bienes inmuebles.",
+          "La posesión de material de oficina.",
+          "El uso de software sin licencia."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es el plagio profesional?",
+        "answers": [
+          "La copia o uso no autorizado de obras o ideas ajenas.",
+          "La colaboración entre profesionales.",
+          "La inspiración en trabajos previos.",
+          "La publicación de trabajos propios."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la firma electrónica?",
+        "answers": [
+          "Un conjunto de datos electrónicos que identifican al firmante de un documento digital.",
+          "La firma manuscrita escaneada.",
+          "El uso de contraseñas sencillas.",
+          "La impresión de documentos."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la reputación online profesional?",
+        "answers": [
+          "La imagen y valoración que otros tienen sobre nuestra actividad en internet.",
+          "La opinión de los compañeros en la oficina.",
+          "La asistencia a eventos presenciales.",
+          "El uso de redes sociales personales."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la suplantación de identidad digital?",
+        "answers": [
+          "El uso fraudulento de la identidad de otra persona en entornos digitales.",
+          "La creación de un perfil profesional propio.",
+          "La actualización de datos personales.",
+          "El registro en plataformas oficiales."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es el teletrabajo?",
+        "answers": [
+          "La realización de la actividad profesional a distancia mediante el uso de tecnologías.",
+          "El trabajo presencial en la oficina.",
+          "La asistencia a reuniones físicas.",
+          "La formación presencial continua."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la desconexión digital?",
+        "answers": [
+          "El derecho a no responder comunicaciones profesionales fuera del horario laboral.",
+          "La obligación de estar siempre disponible.",
+          "El uso continuo de dispositivos electrónicos.",
+          "La participación en chats fuera de horario."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la ciberseguridad profesional?",
+        "answers": [
+          "El conjunto de medidas para proteger la información y los sistemas digitales en el ámbito laboral.",
+          "La publicación de contraseñas en foros.",
+          "El uso de redes públicas sin protección.",
+          "La descarga de archivos sin verificar."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la formación en competencias digitales?",
+        "answers": [
+          "El aprendizaje y actualización de habilidades tecnológicas necesarias para el ejercicio profesional.",
+          "La asistencia a cursos de cocina.",
+          "La lectura de revistas impresas.",
+          "La participación en actividades deportivas."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la ética en el uso de redes sociales?",
+        "answers": [
+          "El respeto a la privacidad, la veracidad y la responsabilidad en la publicación de contenidos.",
+          "La difusión de rumores y noticias falsas.",
+          "El ataque a la competencia.",
+          "La publicación de información confidencial."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la colaboración interdisciplinar?",
+        "answers": [
+          "El trabajo conjunto entre profesionales de distintas áreas para lograr objetivos comunes.",
+          "La competencia entre profesionales de la misma especialidad.",
+          "La especialización en un solo campo.",
+          "La falta de comunicación entre departamentos."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la ética en la inteligencia artificial?",
+        "answers": [
+          "El conjunto de principios para el desarrollo y uso responsable de sistemas inteligentes.",
+          "La creación de algoritmos sin control.",
+          "La manipulación de datos para beneficio propio.",
+          "El uso de IA para vulnerar derechos."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la accesibilidad digital?",
+        "answers": [
+          "El diseño de entornos digitales para que sean utilizables por todas las personas, incluidas las que tienen discapacidad.",
+          "La restricción de acceso a ciertos usuarios.",
+          "El uso exclusivo de tecnologías avanzadas.",
+          "La eliminación de opciones de personalización."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la economía circular?",
+        "answers": [
+          "Un modelo de producción y consumo que promueve la reutilización y reciclaje de recursos.",
+          "La compra continua de productos nuevos.",
+          "La eliminación de residuos sin control.",
+          "La producción en masa sin límites."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es el emprendimiento social?",
+        "answers": [
+          "La creación de empresas que buscan generar un impacto positivo en la sociedad.",
+          "La búsqueda exclusiva de lucro personal.",
+          "La competencia desleal.",
+          "La evasión de impuestos."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la ética ambiental?",
+        "answers": [
+          "El conjunto de valores y principios que orientan la relación responsable con el entorno natural.",
+          "La explotación sin límites de los recursos.",
+          "La contaminación deliberada.",
+          "La indiferencia ante el cambio climático."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la economía colaborativa?",
+        "answers": [
+          "Un modelo basado en el intercambio y compartición de bienes y servicios entre particulares.",
+          "La competencia feroz entre empresas.",
+          "La acumulación de recursos por parte de unos pocos.",
+          "La falta de regulación en el mercado."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la responsabilidad ética en la toma de decisiones?",
+        "answers": [
+          "Considerar el impacto de las decisiones en los demás y en la sociedad.",
+          "Buscar solo el beneficio propio.",
+          "Ignorar las consecuencias a largo plazo.",
+          "Tomar decisiones impulsivas."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la ética en la investigación científica?",
+        "answers": [
+          "El respeto a la verdad, la transparencia y los derechos de las personas involucradas.",
+          "La manipulación de resultados.",
+          "El plagio de trabajos ajenos.",
+          "La ocultación de errores."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la igualdad de género en el ámbito profesional?",
+        "answers": [
+          "El acceso y trato igualitario de mujeres y hombres en la profesión.",
+          "La discriminación positiva.",
+          "La preferencia por un solo género.",
+          "La exclusión de minorías."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la conciliación laboral y familiar?",
+        "answers": [
+          "El equilibrio entre las responsabilidades profesionales y personales.",
+          "La dedicación exclusiva al trabajo.",
+          "La ausencia de vida personal.",
+          "La priorización absoluta de la familia."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es la diversidad generacional en el trabajo?",
+        "answers": [
+          "La convivencia y colaboración de personas de distintas edades en el entorno laboral.",
+          "La discriminación por edad.",
+          "La preferencia por jóvenes.",
+          "La exclusión de personas mayores."
+        ],
+        "correctAnswer": "a"
+      }
+  ]
+  
