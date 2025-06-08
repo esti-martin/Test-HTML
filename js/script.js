@@ -54,6 +54,8 @@ document.addEventListener("DOMContentLoaded", () => {
     jsonFile = "./resources/preguntas-FORM.json";
   } else if (testType === "responsive") {
     jsonFile = "./resources/preguntas-Responsive.json";
+  } else if (testType === "etica-extra") {
+    jsonFile = "./resources/preguntas-etica-extra.json";
   } else if (testType === "etica") {
     jsonFile = "./resources/preguntas-etica.json";
   } else {

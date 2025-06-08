@@ -18,7 +18,8 @@
         <button id="formResponsive" class="test-button">
           Test Responsive Web Desing
         </button>
-        <button id="eticaTest" class="test-button">Test de ÉTICA</button>
+        <button id="eticaTest" class="test-button">Test de ÉTICA (extra)</button>
+        <button id="eticaTest" class="test-button">Test de ÉTICA (temario)</button>
       </div>
     </div>
 
@@ -43,7 +44,10 @@
         .addEventListener("click", () => redirectToTest("responsive"));
       document
         .getElementById("eticaTest")
-        .addEventListener("click", () => redirectToTest("etica")); //¿Cómo redirijo? ¿De dónde sale el nombre de redirectToTest?
+        .addEventListener("click", () => redirectToTest("etica-extra")); 
+        document
+        .getElementById("eticaTest")
+        .addEventListener("click", () => redirectToTest("etica")); 
       
     </script>
   </body>

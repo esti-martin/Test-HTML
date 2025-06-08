@@ -1,1011 +1,1401 @@
 [
     {
-      "question": "¿Qué es la ética?",
+      "question": "* de estas disciplinas se basa principalmente en las costumbres?",
+      "answers": [
+        "Ética",
+        "Deontología",
+        "Moral",
+        "Derecho"
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "*La publicidad subliminal es:",
+      "answers": [
+        "La que se realiza de forma sublime.",
+        "La que se dirige a personas mayores de edad.",
+        "La que se realiza para impulsar la compra de productos para mejorar la economía.",
+        "La que se realiza mediante técnicas de producción de estímulos."
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "question": "*¿Cómo definió Ulpiano el concepto de -lo justo-?",
+      "answers": [
+        "La continua y perpetua voluntad de ajustarse a la ley.",
+        "La continua y perpetua voluntad de dar a cada quien lo que le corresponde.",
+        "La continua y perpetua voluntad de organizar la sociedad.",
+        "La continua y perpetua voluntad de hacer lo bueno para la mayoría de la gente."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "*¿Cuál es la contrapartida (la otra cara) de la libertad?",
+      "answers": [
+        "Nos obliga a no cuestionarla.",
+        "Nos otorga felicidad.",
+        "Nos hace responsables de lo que hacemos.",
+        "Nos facilita la convivencia."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "*¿Qué filósofo británico nacido en el siglo XVII estableció los derechos naturales del hombre, como el derecho a la vida, el derecho a la libertad, .....?",
+      "answers": [
+        "Ninguno de los siguientes.",
+        "John Locke.",
+        "David Hume.",
+        "Adams Smith."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "*¿La palabra deontología sería?",
       "answers": [
         "La ciencia de la sociedad.",
-        "La ciencia de lo deseado.",
+        "La science de lo deseado.",
         "La ciencia de lo debido.",
         "Lo debido en la sociedad."
       ],
       "correctAnswer": "c"
     },
     {
-      "question": "¿Cuál de estas disciplinas se basa principalmente en las costumbres?",
+      "question": "*¿Qué dice el juramento de Asaf?",
+      "answers": [
+        "No defraudarás nunca a tu cliente.",
+        "No revelarás secretos que se te hayan confiado.",
+        "Asumirás siempre la responsabilidad de todo.",
+        "Nunca ejercerás indebidamente tu profesión."
+      ],
+      "correctAnswer": ""
+    },
+    {
+      "question": "*¿De qué manera plantea John Finnis el error del razonamiento consecuencialista?",
+      "answers": [
+        "Descartando la necesidad de buscar el beneficio empresarial.",
+        "Apuntando que el fin no justifica los medios.",
+        "Apuntando que hay que actuar correctamente.",
+        "Apuntando que la ética es rentable."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "*La diosa que representa la Justicia, porta una venda en los ojos, que representa:",
+      "answers": [
+        "La obediencia.",
+        "La imparcialidad.",
+        "La historia.",
+        "La no discriminación."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "*En la cesión de los derechos de explotación de una obra, si no se indica o acuerda el período por el que se ceden estos derechos, ¿qué período de tiempo establece la normativa de propiedad intelectual para realizar dicha cesión?",
+      "answers": [
+        "50 años.",
+        "5 años.",
+        "10 años.",
+        "70 años."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "*¿Qué cualidad humana nos permite analizar las situaciones a las que nos enfrentamos?",
+      "answers": [
+        "La profesionalidad.",
+        "La razón.",
+        "La ilusión.",
+        "La política."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "*Al conceder la OEPM el registro de un nombre comercial o una marca:",
+      "answers": [
+        "Se concede por la OEPM para la clase de actividad que se haya indicado en la solicitud.",
+        "Se concede para todas las actividades, productos o servicios.",
+        "Se concede por la OEPM solo para empresas que tengan registrado el nombre o la marca en el registro de la propiedad intelectual.",
+        "Todas las respuestas son correctas."
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "question": "*¿Cómo se llama al acuerdo firmado por un diseñador digital que lo obliga a no prestar o realizar determinados servicios o actividades?",
+      "answers": [
+        "Acuerdo de no competencia.",
+        "Acuerdo de no subcontratación.",
+        "Acuerdo de confidencialidad.",
+        "Acuerdo de deber de secreto."
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "question": "*La ética de la responsabilidad es una teoría de:",
+      "answers": [
+        "Aristóteles.",
+        "Aparisi.",
+        "Weber.",
+        "Bethan."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "*El Tribunal supremo ha señalado que las normas de deontología profesional aprobadas por colegios profesionales u órganos equivalentes:",
+      "answers": [
+        "Son solo orientativas.",
+        "Deben servir para poder juzgar moralmente a los compañeros de profesión.",
+        "Pueden tener consecuencias de orden disciplinario.",
+        "Ninguna de las anteriores."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "*Lo que el diseñador digital puede conocer acerca de la realización de su trabajo de su cliente, puede ser:",
+      "answers": [
+        "Información pública.",
+        "Información constitucional.",
+        "Información confidencial.",
+        "Todas las anteriores."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "*El titular del nombre comercial o la marca que se haya registrado en la OEPM es:",
+      "answers": [
+        "Quien crea el nombre comercial o la marca.",
+        "Quien compra productos o servicios con ese nombre comercial o marca.",
+        "Quien conste en la presentación de la solicitud del nombre comercial o la marca en la OEPM.",
+        "Quien solicite a la OEPM la liquidación del nombre comercial o la marca."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "*¿Cuál es el tiempo disponible para denunciar una publicidad ilícita o desleal, a fin de que se lleven a cabo acciones contra ella?",
+      "answers": [
+        "Un mes.",
+        "Un año.",
+        "Cinco años.",
+        "Diez años."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "*¿Cuál es un elemento fundamental en los delitos cometidos contra la propiedad intelectual?",
+      "answers": [
+        "La imprudencia a la hora de saber si la obra está protegida.",
+        "El ánimo de lucro.",
+        "El número de veces que se distribuye una copia de la obra.",
+        "El ánimo de perjudicar al autor de la obra."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "*¿Cuál es la diferencia entre un contrato de ejecución instantánea y otro de ejecución continua?",
+      "answers": [
+        "El contrato de ejecución continua se ejecuta mientras el cliente continúe contratando, y el de ejecución instantánea se ejecuta en el instante que decida el cliente.",
+        "Que el contrato de ejecución instantánea se realiza en el momento de firmarse y el de ejecución continua se realiza un tiempo después de haberse firmado.",
+        "Que el contrato de ejecución instantánea se cumple y termina con la entrega del objeto y el de ejecución continua permanece en el tiempo.",
+        "Ninguna de las anteriores."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "¿Qué significado etimológico tiene la palabra -ética-?",
+      "answers": [
+        "Lo bueno.",
+        "Cómo comportarse.",
+        "Lo justo.",
+        "Lo correcto."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "¿Qué significado etimológico tiene la palabra -moral-?",
+      "answers": [
+        "Estado de ánimo.",
+        "Correcto.",
+        "Justo.",
+        "Costumbre."
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "question": "¿Cuál es el significado etimológico de la palabra -deontología-?",
+      "answers": [
+        "Lo bueno.",
+        "Práctica clínica.",
+        "Ciencia de lo debido.",
+        "Lo justo."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "¿Qué palabra de las indicadas a continuación define la palabra -derecho-, según la RAE?",
+      "answers": [
+        "Bueno.",
+        "Moral.",
+        "Justo.",
+        "Habitual."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "¿Cuál de estas disciplinas trata el comportamiento de las personas en su ámbito profesional?",
       "answers": [
         "Ética.",
-        "Deontología.",
         "Moral.",
+        "Deontología.",
         "Derecho."
       ],
       "correctAnswer": "c"
     },
     {
-      "question": "Según la RAE, ¿qué describe, entre otras acepciones, la palabra ‘derecho’?",
+      "question": "¿Cuál de estas disciplinas trata el comportamiento de las personas en su ámbito privado?",
       "answers": [
-        "Un conjunto de principios y normas que regulan las relaciones humanas y cuya observancia puede ser impuesta de manera coactiva.",
-        "La capacidad que tienen las personas de elegir libremente sus acciones sin restricciones.",
-        "El estudio filosófico de la moralidad humana y de los principios que rigen el comportamiento.",
-        "Las reglas de comportamiento profesional que se establecen por consenso en un gremio."
+        "Filosofía.",
+        "Moral.",
+        "Deontología.",
+        "Derecho."
       ],
-      "correctAnswer": "a"
+      "correctAnswer": "b"
     },
     {
-      "question": "Comprender la relevancia de la ética, la moral, el derecho y la deontología es fundamental para:",
+      "question": "¿Cuál de estas disciplinas establece principalmente normas de naturaleza coactiva?",
       "answers": [
-        "Únicamente el desarrollo personal.",
-        "Únicamente el desarrollo profesional.",
-        "Nuestro desarrollo personal y profesional.",
-        "Entender conceptos abstractos."
-      ],
-      "correctAnswer": "c"
-    },
-    {
-      "question": "Actuar conforme a unos principios morales claros y definidos tendrá una relevancia decisiva para:",
-      "answers": [
-        "Nuestra vida privada únicamente.",
-        "Nuestra práctica profesional únicamente.",
-        "Nuestra práctica profesional, ya sea autónomo o por cuenta ajena.",
-        "El cumplimiento de la ley."
-      ],
-      "correctAnswer": "c"
-    },
-    {
-      "question": "¿Qué se plantea en el ejemplo de dilema moral sobre el uso de materiales de menor calidad de la estipulada contractualmente?",
-      "answers": [
-        "La decisión de asumir la responsabilidad y advertir al cliente o callarse para evitar ser señalado como causante del error.",
-        "La obligación legal de informar al cliente sobre cualquier fallo en el servicio.",
-        "La posibilidad de subcontratar a otro profesional para corregir el error.",
-        "El impacto del error en los resultados económicos de la empresa a corto plazo."
-      ],
-      "correctAnswer": "a"
-    },
-    {
-      "question": "¿Qué se plantea en el ejemplo de dilema moral sobre aceptar una comisión por recomendar equipos a un cliente?",
-      "answers": [
-        "Si se debe aceptar el dinero solo si el producto es malo.",
-        "Si se debe rechazar el dinero si perjudicará a alguien.",
-        "Si se debe aceptar el dinero porque no perjudicará a nadie y el producto es bueno, o rechazarlo en cualquier caso.",
-        "Las consecuencias legales de aceptar comisiones."
-      ],
-      "correctAnswer": "c"
-    },
-    {
-      "question": "Al comprometernos a prestar un servicio profesional determinado, ¿qué debemos entender que estamos haciendo?",
-      "answers": [
-        "Buscando el máximo beneficio económico propio.",
-        "Cumpliendo únicamente con las obligaciones legales mínimas.",
-        "Comprometiéndonos con un tercero para cumplir unas expectativas.",
-        "Realizando una actividad que solo nos afecta a nosotros."
-      ],
-      "correctAnswer": "c"
-    },
-    {
-      "question": "El estudio de la ética y de la moral suele incluir una referencia a su origen:",
-      "answers": [
-        "Social.",
-        "Filosófico.",
-        "Histórico.",
-        "Etimológico."
+        "Ética.",
+        "Moral.",
+        "Deontología.",
+        "Derecho."
       ],
       "correctAnswer": "d"
     },
     {
-      "question": "¿Qué conexión existe entre la ética, la moral, el derecho y la deontología?",
+      "question": "¿Cuál de estas disciplinas establece principalmente normas de naturaleza no coactiva?",
       "answers": [
-        "Son conceptos totalmente independientes y sin relación.",
-        "Son conceptos que estudian únicamente las leyes.",
-        "Son conceptos clave en esta asignatura que tienen importantes implicaciones humanas y prácticas.",
-        "Son sinónimos y pueden usarse indistintamente."
-      ],
-      "correctAnswer": "c"
-    },
-    {
-      "question": "Según los temas, la razón y la voluntad nos son muy útiles para:",
-      "answers": [
-        "Evitar la autocrítica y buscar el beneficio inmediato.",
-        "Ser críticos con nosotros mismos y buscar aquello que minimice el mal y multiplique el bien.",
-        "Imponer nuestros criterios a los demás.",
-        "Justificar cualquier comportamiento."
-      ],
-      "correctAnswer": "b"
-    },
-    {
-      "question": "Desde la antigüedad, el ser humano ha intentado plantear reglas de conducta que faciliten:",
-      "answers": [
-        "La consecución del máximo poder.",
-        "Nuestro comportamiento en sociedad.",
-        "El dominio sobre la naturaleza.",
-        "La acumulación de riqueza."
-      ],
-      "correctAnswer": "b"
-    },
-    {
-      "question": "Entre los \"Otros principios importantes\" mencionados se incluyen:",
-      "answers": [
-        "La utilidad, el beneficio y la eficiencia.",
-        "La autonomía, la justicia, la honradez y la dignidad.",
-        "La prudencia, la fortaleza y la templanza.",
-        "La obediencia, la disciplina y la jerarquía."
-      ],
-      "correctAnswer": "b"
-    },
-    {
-      "question": "Una vez conocida la función de nuestra profesión y cuáles son nuestros fines dentro de ella, ¿qué labor debemos trabajar para perseguir ese fin?",
-      "answers": [
-        "Seguir las órdenes de nuestros superiores sin cuestionarlas.",
-        "Trazarnos la hoja de ruta y establecer la forma de alcanzar los objetivos.",
-        "Dejar que la inercia del mercado dicte nuestro camino.",
-        "Buscar únicamente el beneficio económico personal."
-      ],
-      "correctAnswer": "b"
-    },
-    {
-      "question": "Según los temas, un código deontológico no debería ser impuesto, sino que uno debería poder:",
-      "answers": [
-        "Ignorarlo si no se está de acuerdo con su contenido.",
-        "Adherirse a él voluntariamente por considerarlo adecuado.",
-        "Modificarlo unilateralmente según sus intereses.",
-        "Considerarlo solo una sugerencia sin valor real."
-      ],
-      "correctAnswer": "b"
-    },
-    {
-      "question": "Según el Tribunal Supremo, las normas de deontología profesional aprobadas por colegios profesionales u órganos equivalentes:",
-      "answers": [
-        "Son solo orientativas sin consecuencias prácticas.",
-        "Deben servir para poder juzgar moralmente a los compañeros de profesión.",
-        "No constituyen simples tratados de deberes morales sin consecuencias.",
-        "Únicamente se aplican a quienes cometen delitos."
-      ],
-      "correctAnswer": "c"
-    },
-    {
-      "question": "Las asociaciones y colegios profesionales tienen la responsabilidad permanente de:",
-      "answers": [
-        "Regular el mercado para evitar la competencia.",
-        "Defender los intereses económicos de sus miembros por encima de todo.",
-        "Autorregularse y llevar a cabo una constante actividad crítica y evaluadora.",
-        "Imponer sanciones a quienes no alcancen ciertos niveles de éxito."
-      ],
-      "correctAnswer": "c"
-    },
-    {
-      "question": "Una condición necesaria para asumir conductas deontológicamente aceptables es:",
-      "answers": [
-        "Ser fiel a la verdad, asumir la responsabilidad de nuestros actos y ser honestos.",
-        "Alcanzar un alto nivel de ingresos económicos.",
-        "Tener una amplia red de contactos profesionales.",
-        "Ser reconocido públicamente por la calidad de nuestros diseños."
+        "Ética.",
+        "Matemáticas.",
+        "Deontología.",
+        "Derecho."
       ],
       "correctAnswer": "a"
     },
     {
-      "question": "Para Aristóteles, el ‘buen obrar humano’ es aquello que le dicta:",
+      "question": "¿De cuál de estas disciplinas se ha dicho que su función es el estudio de la moral?",
       "answers": [
-        "Sus instintos más básicos.",
-        "La recta razón.",
-        "Las costumbres de la sociedad.",
-        "Lo que le guste hacer."
+        "Ética.",
+        "Religión.",
+        "Deontología.",
+        "Derecho."
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "question": "¿Cuál de estas disciplinas se basa principalmente en las costumbres?",
+      "answers": [
+        "Ética.",
+        "Moral.",
+        "Deontología.",
+        "Derecho."
       ],
       "correctAnswer": "b"
     },
     {
-      "question": "¿Quién acuña el concepto de ‘ética de la responsabilidad’?",
+      "question": "¿Qué condición necesaria tiene que darse para poder juzgar moralmente la forma de actuar de alguien?",
       "answers": [
-        "Bertrand Russell.",
-        "Aristóteles.",
-        "Max Weber.",
-        "Marx."
+        "Que sea un profesional.",
+        "Que viva en democracia.",
+        "Que actúe en libertad.",
+        "Que sea feliz."
       ],
       "correctAnswer": "c"
+    },
+    {
+      "question": "¿Qué cualidad humana nos permite analizar las situaciones a las que nos enfrentamos?",
+      "answers": [
+        "La razón.",
+        "La ética.",
+        "La política.",
+        "La ilusión."
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "question": "¿Qué cualidad humana nos impulsa a hacer aquello que razonadamente considerábamos más adecuado y nos ayuda a ponernos en marcha para actuar?",
+      "answers": [
+        "La razón.",
+        "La voluntad.",
+        "La educación.",
+        "La política."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "¿Cuál es la otra «cara de la moneda» de la libertad? ¿Qué contrapartida tiene?",
+      "answers": [
+        "Nos hace obliga a votar en las elecciones.",
+        "Nos hace perder mucho tiempo.",
+        "Nos genera mucho estrés.",
+        "Nos hace responsables de aquello que hacemos."
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "question": "¿Qué es para Aristóteles el -buen obrar humano-?",
+      "answers": [
+        "Aquello que hacemos porque nos gusta.",
+        "Aquello que le dicta la recta razón.",
+        "Aquello que hacemos por educación.",
+        "Aquello que hacemos por nuestra naturaleza."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "¿Cuál es considerada la regla de oro del comportamiento ético?",
+      "answers": [
+        "Tratar a los demás como qu1errías que te trataran a ti.",
+        "Tratar a los demás siempre haciendo el bien.",
+        "Tratar a los demás adecuadamente.",
+        "Tratar a los demás de forma ética."
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "question": "¿Quién acuña el concepto de -ética de la responsabilidad-?",
+      "answers": [
+        "Bertrand Russell.",
+        "Max Weber.",
+        "Aristóteles.",
+        "Marx."
+      ],
+      "correctAnswer": "b"
     },
     {
       "question": "Según las teorías de la responsabilidad social:",
       "answers": [
-        "Uno es responsable solo de lo que hace directamente.",
-        "Uno es responsable de lo que hacen los demás en su entorno.",
+        "Uno es responsable de lo que hace.",
+        "Uno es responsable de lo que hacen los demás.",
         "Uno, en cierta medida, es responsable de lo que ocurre en el mundo.",
-        "La responsabilidad recae únicamente en las instituciones."
+        "Ninguna de las anteriores."
       ],
       "correctAnswer": "c"
     },
     {
-      "question": "El principio escolástico del comportamiento ético es:",
+      "question": "¿Cuál es el principio escolástico del comportamiento ético?",
       "answers": [
-        "Haz siempre lo que te aporte mayores beneficios.",
         "Hazle a los demás lo que te gustaría que te hicieran a ti.",
-        "Haz siempre lo que consideres correcto, independientemente de las consecuencias.",
-        "Busca la mayor utilidad para el mayor número de personas."
+        "Haz siempre lo que te aporte mayores beneficios.",
+        "Haz siempre lo que consideres correcto.",
+        "Haz el bien y evita el mal."
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "question": "¿En qué consiste el principio de beneficencia?",
+      "answers": [
+        "Actuar siempre en busca del mayor beneficio.",
+        "Actuar siempre en beneficio del cliente y nunca en su perjuicio.",
+        "Actuar siempre en beneficio de la empresa y nunca en su perjuicio.",
+        "Actuar siempre en beneficio nuestro y nunca en nuestro perjuicio."
       ],
       "correctAnswer": "b"
     },
     {
-      "question": "Según Mises, la acción humana implica siempre y a la vez:",
+      "question": "¿Quién dijo: «Todo acto humano, norma o institución, deben ser juzgados según la utilidad que tienen, esto es, según el placer o el sufrimiento que producen en las personas»?",
       "answers": [
-        "Obligación y recompensa.",
-        "Preferir y renunciar.",
-        "Pensar y ejecutar.",
-        "Planificar y improvisar."
+        "Aristóteles.",
+        "Bentham.",
+        "Marx.",
+        "Spinoza."
       ],
       "correctAnswer": "b"
     },
     {
-      "question": "Nuestra razón y experiencia nos permiten, a diferencia de los animales:",
+      "question": "¿Cómo define Ángela Aparisi la virtud moral?",
       "answers": [
-        "Actuar únicamente para obtener rendimientos inmediatos.",
-        "Crear cadenas de objetivos que nos lleven a metas más altas.",
-        "Ignorar las consecuencias de nuestras acciones.",
-        "Guiarnos exclusivamente por instintos."
+        "Como la consecuencia de introducir racionalidad en las tendencias instintivas.",
+        "Como la consecuencia de obrar bien siempre que podamos.",
+        "Como la consecuencia de buscar nuestro máximo beneficio.",
+        "Como la consecuencia de buscar la mayor utilidad para todas las personas."
       ],
-      "correctAnswer": "b"
+      "correctAnswer": "a"
     },
     {
-      "question": "La tendencia empresarial que vincula los objetivos con una maximización de los beneficios monetarios podría tildarse de:",
+      "question": "¿Cuál es para John Finnis la primera regla para un actuar en base a principios?",
       "answers": [
-        "Deontológica.",
-        "Principialista.",
-        "Utilitarista.",
-        "Altruista."
+        "Obrar bien siempre que podamos.",
+        "Tratar de ayudar lo mejor posible a nuestros clientes.",
+        "Establecer un plan de vida racional y coherente, un proyecto de vida armónico.",
+        "Planificar las acciones para la obtención de unos beneficios económicos equilibrados."
       ],
       "correctAnswer": "c"
     },
     {
-        "question": "¿Cuál es la diferencia fundamental entre la ética y la deontología?",
+      "question": "¿Quién pronunció esta frase: «Tienes que descubrir para qué estás hecho y debes trabajar tenazmente para lograr la excelencia en tu campo de trabajo. Si estás llamado a ser barrendero de la calle, deberías barrer las calles tal como Miguel Ángel pintaba, Beethoven componía música o Shakespeare escribía poesía»?",
+      "answers": [
+        "Aristóteles.",
+        "Bentham.",
+        "Martin Luther King.",
+        "Gandhi."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "¿Un comportamiento ético nos puede ayudar a lograr la excelencia en nuestra labor profesional?",
+      "answers": [
+        "No, no tiene nada que ver.",
+        "Sí, pero también deben darse otras condiciones empresariales.",
+        "Si, siempre que actuemos éticamente lograremos la excelencia en nuestra empresa.",
+        "No, porque colisiona con otros intereses como el beneficio empresarial."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Desde un punto de vista ético, tanto nuestro producto como diseñadores como nuestros clientes deben ser considerados:",
+      "answers": [
+        "Como un medio para la obtención de beneficios empresariales.",
+        "Como un medio para la obtención de otros clientes.",
+        "Como un objetivo empresarial.",
+        "Como un fin en sí mismos."
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "question": "¿Quién dijo la frase: «Lo justo no puede ser ineficiente ni lo eficiente injusto, dado que justicia y eficiencia no son sino las dos caras de una misma moneda»?",
+      "answers": [
+        "Finnis.",
+        "Bentham.",
+        "Huerta de Soto.",
+        "Aristóteles."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "¿El comportamiento ético tiene consecuencias que van más allá de lo personal y lo empresarial?",
+      "answers": [
+        "Sí, beneficia de forma importante a la sociedad mejorando su eficiencia dinámica.",
+        "No, solo afecta a aspectos individuales del ser humano.",
+        "No, solo beneficia a la empresa porque es bueno actuar bien en la empresa.",
+        "No, el comportamiento ético no va más allá de esos ámbitos."
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "question": "Según la filósofa Adela Cortina, ¿por qué la ética es también empresarialmente eficiente?",
+      "answers": [
+        "Porque fideliza a los clientes que perciben un clima apropiado de confianza para realizar sus transacciones con certidumbre.",
+        "Porque ayuda a los clientes que perciben un clima apropiado de bonanza para realizar sus transacciones.",
+        "Porque beneficia a los clientes con descuentos para realizar sus transacciones.",
+        "La ética no es empresarialmente eficiente para la filósofa Adela Cortina."
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "question": "¿De qué manera plantea John Finnis el error del razonamiento consecuencialista?",
+      "answers": [
+        "Apuntando que la ética es rentable.",
+        "Apuntando que el fin no justifica los medios.",
+        "Apuntando que hay que actuar correctamente.",
+        "Descartando la necesidad de buscar el beneficio empresarial."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "¿Por qué la empresa es una institución sujeta a valoración ética?",
+      "answers": [
+        "Porque está gestionada por empresarios.",
+        "Porque está gestionada por personas.",
+        "Porque obtiene muchos beneficios.",
+        "Porque así lo dice la ley."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Los directivos de una empresa:",
+      "answers": [
+        "No tienen responsabilidad ética sobre la empresa, ya que esta es un ente inanimado.",
+        "Tienen una doble responsabilidad ética: sobre su propio comportamiento y sobre el de la empresa en función de las decisiones estratégicas que cada uno de ellos tome.",
+        "Tienen una responsabilidad ética exclusiva sobre lo que hacen internamente en la empresa.",
+        "Carecen de responsabilidades, al ser los que14 dirigen la empresa."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Son interesados externos de nuestra empresa:",
+      "answers": [
+        "Los directivos.",
+        "Los accionistas.",
+        "Los clientes.",
+        "Los demás trabajadores."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "Una de las grandes ventajas de la aplicación de códigos éticos en la empresa es:",
+      "answers": [
+        "Que muchos de los problemas se evitarán anticipadamente.",
+        "Que es una gran herramienta para gestionar problemas.",
+        "Que permite decidir quién tiene razón.",
+        "Que es un sistema justo."
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "question": "La contaminación que podamos producir en nuestra empresa o con el ejercicio de nuestra actividad profesional es un problema que afecta a:",
+      "answers": [
+        "La normativa medioambiental.",
+        "Las asociaciones ecologistas.",
+        "Interesados internos.",
+        "Interesados externos."
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "question": "¿Las tarifas y su forma de cobrarlas afectan al comportamiento ético?",
+      "answers": [
+        "Sí, porque debe haber transparencia contractual entre cliente y empresario.",
+        "No, porque la tarifa es algo ajeno al trabajo realizado.",
+        "No, porque las tarifas pertenecen al ámbito de los precios que se fijen.",
+        "No, porque el cliente es libre de comprar o no."
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "question": "¿Cuál de estas es una buena práctica ética en nuestra relación con proveedores si trabajamos en una empresa?",
+      "answers": [
+        "Pagarlos lo más tarde posible.",
+        "Invitarlos de vez en cuando a tomar algo.",
+        "La no aceptación de regalos valiosos.",
+        "Ser generosos con lo que les pagamos."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "¿Cuál de estas es una buena práctica ética en nuestra relación con otros compañeros del mundo del diseño?",
+      "answers": [
+        "No hacerles regalos valiosos.",
+        "Copiar aquellas cosas que hacen bien.",
+        "Ser generosos con lo que les pagamos.",
+        "No menospreciar su trabajo."
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "question": "¿Cuál de estas es una buena práctica ética en el cobro de nuestras tarifas?",
+      "answers": [
+        "No tener tarifas altas.",
+        "Ser transparentes en nuestras tarifas.",
+        "No insistir mucho para cobrar.",
+        "Tener las mismas tarifas que la competencia."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "¿Cuál de estas es una buena práctica ética en lo que respecta al contenido de nuestros diseños?",
+      "answers": [
+        "No crear contenidos que inciten a conductas ilegales.",
+        "Ser original en nuestros diseños.",
+        "Evitar los diseños anticuados.",
+        "Crear contenidos alegres."
+      ],
+      "correctAnswer": "a"
+    },
+    {
+        "question": "¿Cuál es el código deontológico más utilizado en medicina?",
         "answers": [
-          "La ética es universal y la deontología es particular de una profesión.",
-          "La deontología es universal y la ética es particular de una profesión.",
-          "La ética se basa en leyes y la deontología en costumbres.",
-          "No existe diferencia."
+          "El juramento hipocrático.",
+          "El código deontológico del colegio de médicos.",
+          "El código deontológico de los Estados Unidos.",
+          "Los médicos no usan códigos deontológicos."
         ],
         "correctAnswer": "a"
+      },
+      {
+        "question": "¿Cuál de estos preceptos pertenece al juramento hipocrático?",
+        "answers": [
+          "Siempre trataré de operar a mis pacientes con el mayor cuidado.",
+          "Guardaré secreto sobre lo que oiga y vea en la sociedad por razón de mi ejercicio y que no sea indispensable divulgar.",
+          "Emitiré siempre una factura a mis pacientes acorde a lo que dictan las leyes.",
+          "Ninguno de los anteriores."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "Cuando un diseñador digital se afilia a una asociación profesional, ¿debe cumplir con el código deontológico que esta establezca?",
+        "answers": [
+          "No, uno debe verse sujeto a sus propias normas morales.",
+          "Sí, como miembro debe acatar sus estatutos.",
+          "No, porque los códigos deontológicos no son leyes.",
+          "No, porque esto nos obligaría a hacer cosas que no queremos hacer."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "El Tribunal supremo ha señalado que las normas de deontología profesional aprobadas por colegios profesionales u órganos equivalentes:",
+        "answers": [
+          "Pueden tener consecuencias de orden disciplinario.",
+          "Son solo orientativas.",
+          "Deben servir para poder juzgar moralmente a los compañeros de profesión.",
+          "Ninguna de las anteriores."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿En qué consiste la libertad negativa?",
+        "answers": [
+          "Es la derivada de la disponibilidad de medios.",
+          "Es la derivada de nuestras limitaciones físicas.",
+          "Es la derivada de la ausencia de coacción.",
+          "Es la derivada de las leyes."
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Según Ángela Aparisi, los códigos deontológicos surgen de:",
+        "answers": [
+          "La asunción de una clara responsabilidad frente a uno mismo y frente a la sociedad concretada en una voluntad de servicio.",
+          "La necesidad de regular nuestra conducta.",
+          "Los conflictos judiciales que hay en toda profesión.",
+          "La asunción de las normas legales."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "Para llevar a cabo el proceso de asumir conductas deontológicamente aceptables será necesario:",
+        "answers": [
+          "Ser fieles a la verdad.",
+          "Asumir la responsabilidad de nuestros actos.",
+          "Ser honestos.",
+          "Todas las anteriores."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Qué elemento de los que se señalan a continuación forma parte del esquema para desarrollar el proceso de introspección personal y deliberación deontológica?",
+        "answers": [
+          "Actuar de forma amable.",
+          "Implantar tarifas bajas.",
+          "Realizar buenos diseños.",
+          "Analizar las consecuencias sociales de nuestro actuar profesional."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "Desde un punto de vista ético, ¿qué es lo primero que debe hacer un diseñador digital?",
+        "answers": [
+          "Pensar adecuadamente acerca de su conducta.",
+          "Tener en cuenta la legislación vigente.",
+          "Hacer diseños competitivos.",
+          "Hacer los mejores diseños posibles."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "En un sentido amplio, ¿a qué tipos de normas podemos decir que está sujeto un diseñador digital?",
+        "answers": [
+          "Normas éticas o morales.",
+          "Normas deontológicas.",
+          "Normas legales.",
+          "Todas las anteriores."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "Según el diccionario de la Real Academia de la Lengua, y a los efectos jurídicos, ¿qué es un código?",
+        "answers": [
+          "El conjunto de reglas o preceptos sobre cualquier materia.",
+          "La encriptación de un mensaje.",
+          "Los fundamentos filosóficos de la ética.",
+          "Ninguna de las anteriores."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Cuáles son las fuentes del derecho?",
+        "answers": [
+          "La ley.",
+          "La costumbre.",
+          "Los principios generales del derecho.",
+          "Todas las anteriores."
+        ],
+        "correctAnswer": "d"
       },
       {
         "question": "¿Qué es un código deontológico?",
         "answers": [
-          "Un conjunto de leyes estatales.",
-          "Un conjunto de normas morales personales.",
-          "Un conjunto de normas éticas específicas de una profesión.",
-          "Un tratado filosófico sobre la moral."
+          "El conjunto de reglas legales que deben seguir los miembros de una asociación o colegio profesional.",
+          "El conjunto de reglas de adecuado comportamiento profesional que deben seguir los miembros de una asociación o colegio profesional.",
+          "El conjunto de reglas de adecuado comportamiento que deben seguir los ciudadanos.",
+          "Todas las anteriores."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "Las normas deontológicas son preferentemente:",
+        "answers": [
+          "Negativas.",
+          "Positivas.",
+          "Neutras.",
+          "Todas las anteriores."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "¿Cuál es la crítica que comúnmente se vierte sobre los códigos deontológicos?",
+        "answers": [
+          "Su escasa utilidad.",
+          "Su cuestionable legitimidad.",
+          "Que su contenido debería corresponder a la conciencia privada.",
+          "Todas las anteriores."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Por qué es importante disponer de códigos deontológicos?",
+        "answers": [
+          "Por la propia necesidad que tienen los profesionales de ajustar sus relaciones internas y las relaciones con los clientes a unas pautas de conducta.",
+          "Por tener unas normas comportamiento al margen de las legales.",
+          "Para poder limitar sus funciones.",
+          "Ninguna de las anteriores."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "Según el Tribunal Constitucional, ¿qué características deben tener los códigos deontológicos?",
+        "answers": [
+          "Las normas no deben aparecer dispersas.",
+          "Las normas deben estar ordenadas en un sistema que ofrezca seguridad jurídica para todos.",
+          "Se les debe dar la publicidad suficiente para que todos puedan conocerlas.",
+          "Todas las anteriores."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "Los códigos deontológicos:",
+        "answers": [
+          "No son solo un catálogo de deberes morales.",
+          "Tienen consecuencias de tipo disciplinario.",
+          "Establecen una serie de deberes de obligado cumplimiento.",
+          "Todas las anteriores."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Qué ley regula la potestad de los colegios profesionales para crear códigos deontológicos?",
+        "answers": [
+          "La propia Constitución española.",
+          "Los estatutos del Colegio Profesional.",
+          "El Código Penal.",
+          "La Ley de Colegios Profesionales."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "Según Carrie Cousins, ¿por qué todo diseñador necesita su propio código ético?",
+        "answers": [
+          "Por la necesidad de gozar de un conjunto de principios rectores que lo ayuden a tomar decisiones justas.",
+          "Para poder evitar los códigos deontológicos.",
+          "Porque así lo establece la ley.",
+          "Para poder tener mayor capacidad de influencia sobre los demás."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Existe alguna conexión entre ética y derecho?",
+        "answers": [
+          "No, la ética trata unos aspectos de la vida y el derecho otros.",
+          "Sí, porque el derecho no puede ser arbitrario.",
+          "Sí, porque las normas éticas y las legales las dictan los mismos.",
+          "No, porque de lo contrario no existirían ambas disciplinas."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "¿Por qué surge originalmente el derecho como institución jurídica?",
+        "answers": [
+          "Por la necesidad de dirimir los conflictos que surgen entre los ciudadanos.",
+          "Porque así lo establece la Constitución.",
+          "Por la necesidad de otorgar subvenciones.",
+          "Para poder planificar las ciudades."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Cuál es el origen del derecho español?",
+        "answers": [
+          "El derecho anglosajón.",
+          "El derecho egipcio.",
+          "El derecho romano.",
+          "La Constitución Española."
         ],
         "correctAnswer": "c"
       },
       {
-        "question": "¿Qué finalidad tienen los códigos deontológicos?",
+        "question": "¿Cuál es uno de los riesgos de tener un ordenamiento jurídico que no esté alineado con criterios éticos?",
         "answers": [
-          "Proteger únicamente los intereses económicos de los profesionales.",
-          "Guiar el comportamiento profesional y proteger a los usuarios y a la sociedad.",
-          "Sustituir a las leyes estatales.",
-          "Eliminar la competencia entre profesionales."
+          "Tener un ordenamiento jurídico incompleto.",
+          "Tener un ordenamiento jurídico rígido.",
+          "Tener un ordenamiento jurídico sancionador.",
+          "Tener un ordenamiento jurídico injusto."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Qué elemento es fundamental en las democracias para evitar que el Estado o las mayorías sometan a ciertos individuos?",
+        "answers": [
+          "Que gobierne el más votado.",
+          "Tener en cuenta los derechos fundamentales de los ciudadanos.",
+          "Tener elecciones de forma habitual.",
+          "Disponer de un parlamento para discutir las leyes."
         ],
         "correctAnswer": "b"
       },
       {
-        "question": "¿Cuál de las siguientes afirmaciones sobre la responsabilidad profesional es correcta?",
+        "question": "¿El derecho puede ser coactivo?",
         "answers": [
-          "El profesional responde solo ante sí mismo.",
-          "El profesional responde ante la sociedad, sus clientes y sus compañeros.",
-          "La responsabilidad profesional es solo un concepto teórico.",
-          "La responsabilidad profesional solo existe si hay un contrato escrito."
+          "No, porque es injusto que te obliguen a algo.",
+          "Sí, porque obliga a actuar de una determinada manera.",
+          "No, porque es inmoral que te obliguen a algo.",
+          "No, porque debe cumplirse voluntariamente."
         ],
         "correctAnswer": "b"
       },
       {
-        "question": "¿Cuál es la principal función de los colegios profesionales?",
+        "question": "¿Puede una ley ser injusta?",
         "answers": [
-          "Regular el acceso a la profesión y velar por el cumplimiento de la deontología.",
-          "Imponer sanciones económicas a los profesionales.",
-          "Defender únicamente los intereses de los clientes.",
-          "Organizar eventos sociales."
+          "No debería, ya que precisamente el objetivo de la ley es hacer justicia.",
+          "Sí, dado que lo importante es que se puedan aplicar las leyes que apruebe el gobierno democráticamente elegido.",
+          "Sí, porque es independiente de la moral.",
+          "No, porque una ley no tiene esa capacidad."
         ],
         "correctAnswer": "a"
       },
       {
-        "question": "¿Qué ocurre si un profesional incumple el código deontológico de su profesión?",
+        "question": "Según el Tribunal Europeo de Derechos Humanos de Estrasburgo, un artículo de un código deontológico debe considerarse como:",
         "answers": [
-          "No ocurre nada, ya que no es obligatorio.",
-          "Puede ser sancionado por su colegio profesional.",
-          "Pierde automáticamente su título universitario.",
-          "Debe indemnizar siempre económicamente al cliente."
+          "Una invitación a tener un mejor comportamiento profesional.",
+          "Una ley, toda vez que cubre el baremo de las exigencias del principio de legalidad.",
+          "Una recomendación en el comportamiento profesional.",
+          "Una guía de ética profesional."
         ],
         "correctAnswer": "b"
       },
       {
-        "question": "¿Qué relación existe entre la ética y la ley?",
+        "question": "¿Cómo definió Ulpiano el concepto de -lo justo-?",
         "answers": [
-          "La ética y la ley siempre coinciden.",
-          "La ley establece mínimos obligatorios y la ética puede exigir más.",
-          "La ética es obligatoria y la ley es opcional.",
-          "No existe relación entre ética y ley."
-        ],
-        "correctAnswer": "b"
-      },
-      {
-        "question": "¿Cuál de los siguientes es un principio fundamental de la ética profesional?",
-        "answers": [
-          "La búsqueda del máximo beneficio personal.",
-          "La competencia desleal.",
-          "La honestidad.",
-          "El secretismo absoluto."
+          "La continua y perpetua voluntad de ajustarse a la ley.",
+          "La continua y perpetua voluntad de hacer lo bueno para la mayoría de la gente.",
+          "La continua y perpetua voluntad de dar a cada quien lo que le corresponde.",
+          "La continua y perpetua voluntad de organizar la sociedad."
         ],
         "correctAnswer": "c"
       },
       {
-        "question": "¿Qué implica el principio de confidencialidad en el ámbito profesional?",
+        "question": "¿Qué autor ha desarrollado modernamente el concepto de -contrato social- rousseauniano?",
         "answers": [
-          "Compartir información sensible con cualquier persona.",
-          "Proteger la información privada de los clientes.",
-          "Publicar todos los datos en internet.",
-          "Ignorar la protección de datos."
+          "John Rawls.",
+          "Jeremy Bentham.",
+          "Karl Marx.",
+          "Kant."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Cuál de las siguientes normas regula la publicidad?",
+        "answers": [
+          "Ley 34/1995, de 13 de marzo, de la Comunicación de Productos y Servicios.",
+          "Ley 3/1991, de 10 de enero, de Competencia Desleal.",
+          "Ley 24/2001, de 24 de noviembre, del Marketing Directo e Indirecto.",
+          "Todas las anteriores."
         ],
         "correctAnswer": "b"
       },
       {
-        "question": "¿Qué es el secreto profesional?",
+        "question": "Según las leyes que la regulan, ¿qué definición de publicidad de las siguientes sería la más correcta?",
         "answers": [
-          "La obligación de no revelar información confidencial obtenida en el ejercicio profesional.",
-          "La obligación de compartir información con la competencia.",
-          "La obligación de informar siempre a los medios de comunicación.",
-          "La obligación de publicar los resultados de todos los trabajos."
+          "Comunicación en el ejercicio comercial o profesional para promocionar, directa o indirectamente, productos, servicios, derechos y obligaciones.",
+          "Comunicación dirigida a personas físicas para promocionar que conozcan los productos y servicios que pueden contratar.",
+          "Promoción de productos y servicios que pueden contratar las personas físicas o jurídicas.",
+          "Comunicación realizada en el ejercicio mercantil o profesional de una empresa, para dar a conocer a los destinatarios los productos y los servicios disponibles para su adquisición."
         ],
         "correctAnswer": "a"
       },
       {
-        "question": "¿Cuál es la finalidad del principio de veracidad en la comunicación profesional?",
+        "question": "¿Qué es la «publicidad subliminal»?",
         "answers": [
-          "Engañar al cliente para obtener un beneficio.",
-          "Informar de manera clara, veraz y completa.",
-          "Omitir información relevante.",
-          "Utilizar tecnicismos para confundir."
+          "La publicidad que resulta sublime en cuanto a los efectos y resultados.",
+          "La publicidad que se realiza mediante técnicas y medios electrónicos en lineal.",
+          "La publicidad que se realiza mediante técnicas de producción de estímulos en los sentidos que pueden actuar sobre destinatarios sin ser conscientes de percibirla.",
+          "La publicidad que se realiza mediante técnicas avanzadas dirigidas al estímulo de los destinatarios de la publicidad."
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "¿Qué acciones se pueden llevar a cabo contra la publicidad ilícita o desleal?",
+        "answers": [
+          "Prohibir la realización de trabajos publicitarios durante un año.",
+          "Suspender la actividad del diseñador digital durante el tiempo de la sanción.",
+          "Ceder todos los derechos de propiedad industrial e intelectual de la publicidad ilícita o desleal.",
+          "Cesar en la infracción y resarcir los daños y perjuicios."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Cuál es el tiempo disponible para denunciar una publicidad ilícita o desleal, a fin de que se lleven a cabo acciones contra ella?",
+        "answers": [
+          "Cinco años.",
+          "Un año.",
+          "Diez años.",
+          "Dos años."
         ],
         "correctAnswer": "b"
       },
       {
-        "question": "¿Qué es la competencia leal?",
+        "question": "La normativa sobre la publicidad ilícita o desleal:",
         "answers": [
-          "Actuar de manera justa y respetuosa con otros profesionales.",
-          "Desprestigiar a la competencia.",
-          "Ocultar información relevante a los clientes.",
-          "Ofrecer precios por debajo del coste."
+          "No se aplica a los diseñadores digitales.",
+          "Se aplica a todo el que lleve a cabo trabajos destinados a realizar publicidad.",
+          "Se aplica a los medios que publiciten productos o servicios protegidos por la Ley de Publicidad.",
+          "No se aplica a quien no haga publicidad de productos o servicios protegidos por la Ley de Publicidad."
         ],
-        "correctAnswer": "a"
-      },
-      {
-        "question": "¿Qué principio ético se vulnera si un profesional acepta sobornos?",
-        "answers": [
-          "La honestidad.",
-          "La confidencialidad.",
-          "La competencia leal.",
-          "La responsabilidad."
-        ],
-        "correctAnswer": "a"
-      },
-      {
-        "question": "¿Qué es el intrusismo profesional?",
-        "answers": [
-          "La actuación profesional por personas no habilitadas legalmente.",
-          "La especialización en varias áreas profesionales.",
-          "La formación continua.",
-          "La colaboración entre profesionales."
-        ],
-        "correctAnswer": "a"
-      },
-      {
-        "question": "¿Qué es la responsabilidad civil profesional?",
-        "answers": [
-          "La obligación de responder por los daños causados en el ejercicio profesional.",
-          "La obligación de pagar impuestos.",
-          "La obligación de asistir a todos los eventos del colegio profesional.",
-          "La obligación de informar a los clientes de todos los detalles."
-        ],
-        "correctAnswer": "a"
-      },
-      {
-        "question": "¿Cuál es la finalidad de la formación continua en la profesión?",
-        "answers": [
-          "Mantenerse actualizado y mejorar la calidad del servicio.",
-          "Evitar el contacto con otros profesionales.",
-          "Reducir la competencia.",
-          "Incrementar los precios."
-        ],
-        "correctAnswer": "a"
-      },
-      {
-        "question": "¿Qué es la colegiación profesional?",
-        "answers": [
-          "La inscripción en un colegio profesional para ejercer legalmente una profesión.",
-          "La participación en actividades deportivas.",
-          "La obtención de un título universitario.",
-          "La asistencia a congresos internacionales."
-        ],
-        "correctAnswer": "a"
-      },
-      {
-        "question": "¿Cuál es la función de la comisión deontológica de un colegio profesional?",
-        "answers": [
-          "Velar por el cumplimiento del código deontológico.",
-          "Organizar actividades recreativas.",
-          "Fomentar la competencia desleal.",
-          "Aumentar las cuotas de los colegiados."
-        ],
-        "correctAnswer": "a"
-      },
-      {
-        "question": "¿Qué es la mediación profesional?",
-        "answers": [
-          "Un mecanismo para resolver conflictos entre profesionales o entre profesional y cliente.",
-          "La imposición de sanciones económicas.",
-          "Una técnica de negociación salarial.",
-          "Un método para evitar la formación continua."
-        ],
-        "correctAnswer": "a"
-      },
-      {
-        "question": "¿Qué principio ético se vulnera si un profesional miente sobre su titulación?",
-        "answers": [
-          "La veracidad.",
-          "La confidencialidad.",
-          "La competencia.",
-          "La responsabilidad."
-        ],
-        "correctAnswer": "a"
-      },
-      {
-        "question": "¿Cuál es la finalidad de la publicidad profesional?",
-        "answers": [
-          "Informar verazmente sobre los servicios ofrecidos.",
-          "Engañar al público.",
-          "Desprestigiar a la competencia.",
-          "Ocultar información relevante."
-        ],
-        "correctAnswer": "a"
-      },
-      {
-        "question": "¿Qué es la ética empresarial?",
-        "answers": [
-          "El conjunto de principios y valores que rigen el comportamiento de las empresas.",
-          "La búsqueda exclusiva del beneficio económico.",
-          "La competencia desleal.",
-          "El cumplimiento estricto de la ley sin más."
-        ],
-        "correctAnswer": "a"
-      },
-      {
-        "question": "¿Qué es la responsabilidad social corporativa?",
-        "answers": [
-          "El compromiso voluntario de las empresas con la sociedad y el medio ambiente.",
-          "La maximización del beneficio económico.",
-          "La evasión de impuestos.",
-          "La competencia desleal."
-        ],
-        "correctAnswer": "a"
-      },
-      {
-        "question": "¿Qué es la sostenibilidad en el ámbito profesional?",
-        "answers": [
-          "El desarrollo de la actividad profesional respetando el medio ambiente y las generaciones futuras.",
-          "La obtención del máximo beneficio en el menor tiempo posible.",
-          "La reducción de costes a cualquier precio.",
-          "La competencia desleal."
-        ],
-        "correctAnswer": "a"
-      },
-      {
-        "question": "¿Qué es el conflicto de intereses?",
-        "answers": [
-          "La situación en la que los intereses personales pueden influir en el desempeño profesional.",
-          "La competencia leal.",
-          "La formación continua.",
-          "La colegiación profesional."
-        ],
-        "correctAnswer": "a"
-      },
-      {
-        "question": "¿Qué debe hacer un profesional ante un conflicto de intereses?",
-        "answers": [
-          "Informar y abstenerse de intervenir si no puede garantizar su imparcialidad.",
-          "Ignorar el conflicto y seguir adelante.",
-          "Aprovechar la situación para beneficio propio.",
-          "Delegar siempre en otro profesional."
-        ],
-        "correctAnswer": "a"
-      },
-      {
-        "question": "¿Qué es la transparencia en el ejercicio profesional?",
-        "answers": [
-          "Actuar de manera clara, honesta y accesible ante clientes y sociedad.",
-          "Ocultar información relevante.",
-          "Utilizar tecnicismos para confundir.",
-          "No informar de los errores cometidos."
-        ],
-        "correctAnswer": "a"
-      },
-      {
-        "question": "¿Qué implica el principio de equidad en la profesión?",
-        "answers": [
-          "Tratar a todas las personas de manera justa y sin discriminación.",
-          "Favorecer a los amigos y familiares.",
-          "Priorizar a los clientes más rentables.",
-          "Aplicar la ley solo cuando convenga."
-        ],
-        "correctAnswer": "a"
-      },
-      {
-        "question": "¿Qué es la dignidad profesional?",
-        "answers": [
-          "El respeto y reconocimiento social hacia la profesión y quienes la ejercen.",
-          "La obtención de altos ingresos.",
-          "La fama en los medios de comunicación.",
-          "El uso de títulos honoríficos."
-        ],
-        "correctAnswer": "a"
-      },
-      {
-        "question": "¿Qué papel juega la empatía en la relación profesional?",
-        "answers": [
-          "Permite comprender y atender mejor las necesidades del cliente.",
-          "No tiene ninguna importancia.",
-          "Puede dificultar la toma de decisiones.",
-          "Solo es relevante en profesiones sanitarias."
-        ],
-        "correctAnswer": "a"
-      },
-      {
-        "question": "¿Qué es la autonomía profesional?",
-        "answers": [
-          "La capacidad de tomar decisiones propias en el ejercicio profesional.",
-          "La obligación de seguir siempre las órdenes superiores.",
-          "La dependencia total de los clientes.",
-          "La ausencia de responsabilidad."
-        ],
-        "correctAnswer": "a"
-      },
-      {
-        "question": "¿Qué es la rendición de cuentas?",
-        "answers": [
-          "La obligación de justificar y asumir las consecuencias de las propias decisiones.",
-          "Evitar cualquier tipo de responsabilidad.",
-          "Delegar siempre en otros profesionales.",
-          "No informar de los resultados obtenidos."
-        ],
-        "correctAnswer": "a"
+        "correctAnswer": "b"
       },
       {
-        "question": "¿Qué es la lealtad profesional?",
+        "question": "La publicidad:",
         "answers": [
-          "El compromiso de actuar con fidelidad hacia los valores y principios de la profesión.",
-          "La obligación de apoyar siempre a los superiores.",
-          "La búsqueda exclusiva del beneficio personal.",
-          "La competencia desleal."
+          "Debe quedar claramente identificada como tal.",
+          "Se puede realizar de forma indirecta y sin identificar para determinados productos o servicios.",
+          "Debe quedar claramente identificado si la realiza un anunciante o una agencia de publicidad.",
+          "No requiere que sea anunciada o identificable si los productos que se publicitan no son ilícitos o no se utilizan prácticas desleales."
         ],
         "correctAnswer": "a"
       },
       {
-        "question": "¿Qué es la justicia en el ejercicio profesional?",
+        "question": "¿Qué materiales debe utilizar el creador/diseñador de una campaña publicitaria?",
         "answers": [
-          "Actuar conforme a la ley y los principios éticos, dando a cada uno lo que le corresponde.",
-          "Favorecer a los clientes habituales.",
-          "Priorizar a los familiares.",
-          "Ignorar las normas cuando convenga."
+          "Los que considere el diseñador según la publicidad y la profesionalidad.",
+          "Los que hayan sido facilitados por el anunciante.",
+          "Los que sean más adecuados para conseguir el éxito de la campaña publicitaria.",
+          "Todas las anteriores."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "b"
       },
       {
-        "question": "¿Qué es la integridad profesional?",
+        "question": "¿Qué responsabilidades NO se pueden asumir en el contrato publicitario?",
         "answers": [
-          "La coherencia entre los valores, principios y acciones del profesional.",
-          "La obtención de recompensas económicas.",
-          "La adaptación a cualquier situación.",
-          "La flexibilidad ante la ley."
+          "Que la campaña publicitaria se realizará en un plazo concreto.",
+          "Que la campaña publicitaria se realizará mediante determinados medios y soportes.",
+          "Que la campaña publicitaria obtendrá un determinado rendimiento o resultado comercial.",
+          "Que la campaña publicitaria supondrá un coste determinado."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "c"
       },
       {
-        "question": "¿Qué es la prudencia en la toma de decisiones profesionales?",
+        "question": "Si no se acordó nada en el contrato publicitario, los derechos de propiedad intelectual de los diseños de una campaña publicitaria se presumen cedidos al:",
         "answers": [
-          "Valorar las consecuencias antes de actuar.",
-          "Actuar de manera impulsiva.",
-          "Tomar riesgos innecesarios.",
-          "Delegar siempre las decisiones."
+          "Anunciante o agencia de la campaña publicitaria.",
+          "Diseñador de la campaña publicitaria.",
+          "Anunciante o agencia y al diseñador por partes iguales.",
+          "Diseñador digital, si no renuncia a los derechos de propiedad intelectual o industrial."
         ],
         "correctAnswer": "a"
       },
       {
-        "question": "¿Qué es la excelencia profesional?",
+        "question": "Los derechos de propiedad intelectual se aplican:",
         "answers": [
-          "La búsqueda constante de la mejora y la calidad en el trabajo.",
-          "La mediocridad aceptada.",
-          "La competencia desleal.",
-          "La falta de formación continua."
+          "A todas las creaciones artísticas o literarias.",
+          "A todas las creaciones artísticas, literarias o científicas.",
+          "A todas las creaciones científicas.",
+          "A todas las creaciones artísticas, técnicas o científicas."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "b"
       },
       {
-        "question": "¿Qué es la vocación profesional?",
+        "question": "¿Qué requisitos debe tener una creación para ser protegida por los derechos de propiedad intelectual?",
         "answers": [
-          "La inclinación y entusiasmo hacia el ejercicio de una profesión.",
-          "La obligación impuesta por la familia.",
-          "La búsqueda exclusiva de beneficios económicos.",
-          "La falta de interés por el trabajo."
+          "Original y expresada en cualquier medio o soporte.",
+          "Valorable económicamente y comercializable.",
+          "Creada por un ser humano de forma libre.",
+          "Original y valorable económicamente."
         ],
         "correctAnswer": "a"
       },
       {
-        "question": "¿Qué es la confidencialidad de los datos personales?",
+        "question": "¿En qué creaciones protegidas por propiedad intelectual se aplica el «derecho sui géneris»?",
         "answers": [
-          "La obligación de proteger la información personal de los clientes.",
-          "La publicación de datos en redes sociales.",
-          "El intercambio de información con terceros sin consentimiento.",
-          "La venta de datos a empresas."
+          "En las obras literarias.",
+          "En los programas de ordenador.",
+          "En las bases de datos.",
+          "Diseños artísticos genéricos."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "c"
       },
       {
-        "question": "¿Qué es el respeto a la diversidad en el ámbito profesional?",
+        "question": "¿Cuál sería una «obra en colaboración»?",
         "answers": [
-          "Valorar y aceptar las diferencias individuales y culturales.",
-          "Favorecer solo a quienes piensan igual.",
-          "Ignorar las diferencias culturales.",
-          "Discriminar a personas por su origen."
+          "La creada con contenidos u obras de varios artistas.",
+          "La creada con contenidos u obras de un mismo artista.",
+          "La creada por varios autores, y cuyos derechos de propiedad intelectual corresponden a todos ellos.",
+          "La creada por varios autores, siendo los derechos de quien la pública y edita."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "c"
       },
       {
-        "question": "¿Qué es la innovación en la práctica profesional?",
+        "question": "Los derechos morales de propiedad intelectual son:",
         "answers": [
-          "Introducir mejoras y nuevas ideas en el ejercicio profesional.",
-          "Repetir siempre los mismos métodos.",
-          "Evitar el cambio.",
-          "Ignorar los avances tecnológicos."
+          "Personales, perceptibles, enajenables y alienables.",
+          "Personalísimos, irrenunciables, inalienables, imprescriptibles e inembargables.",
+          "Embargables, personalísimos, renunciables, alienables y prescriptibles.",
+          "Transmisibles, valorables, hipotecables y cedibles."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "b"
       },
       {
-        "question": "¿Qué es la resiliencia profesional?",
+        "question": "¿Cuál de estos derechos morales se atribuye al autor con la propiedad intelectual?",
         "answers": [
-          "La capacidad de adaptarse y superar situaciones adversas.",
-          "Evitar los problemas.",
-          "Rendirse ante las dificultades.",
-          "Ignorar los fracasos."
+          "El derecho a idear y pensar cómo crear la obra.",
+          "El derecho a decidir si la obra se divulga o no.",
+          "El derecho a crear la obra en colaboración o de forma colectiva.",
+          "El derecho a que no se deprecie la obra."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "b"
       },
       {
-        "question": "¿Qué es la proactividad en el trabajo?",
+        "question": "¿Cuáles de estos derechos de explotación o patrimoniales atribuyen la propiedad intelectual?",
         "answers": [
-          "Anticiparse a los problemas y actuar antes de que ocurran.",
-          "Esperar a que otros tomen la iniciativa.",
-          "Reaccionar solo ante las crisis.",
-          "Evitar cualquier cambio."
+          "Reproducción, comercialización, comunicación pública y cesión.",
+          "Reproducción, distribución, digitalización y transformación.",
+          "Reproducción, préstamo, comunicación pública y digitalización.",
+          "Reproducción, distribución, comunicación pública y transformación."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "d"
       },
       {
-        "question": "¿Qué es el trabajo en equipo?",
+        "question": "¿Cuántos años duran los derechos de explotación de una obra, una vez muere o se declara el fallecimiento del autor?",
         "answers": [
-          "Colaborar con otros profesionales para alcanzar objetivos comunes.",
-          "Trabajar siempre de manera individual.",
-          "Competir con los compañeros.",
-          "Evitar la comunicación."
+          "Cincuenta años.",
+          "Setenta años.",
+          "Cien años.",
+          "Veinticinco años."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "b"
       },
       {
-        "question": "¿Qué es la comunicación asertiva?",
+        "question": "Las Licencias de Creative Commons sirven para:",
         "answers": [
-          "Expresar opiniones y necesidades de manera clara y respetuosa.",
-          "Imponer siempre el propio criterio.",
-          "Evitar expresar opiniones.",
-          "Ignorar las opiniones ajenas."
+          "Gestionar la edición y publicación de una obra.",
+          "Gestionar la creación en común de una obra por varios autores.",
+          "Gestionar la cesión de derechos de propiedad intelectual sobre una obra.",
+          "Identificar las obras que no cuentan con derechos de propiedad intelectual para convertirlas en obras de dominio público."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "c"
       },
       {
-        "question": "¿Qué es la escucha activa?",
+        "question": "En la cesión de los derechos de explotación de una obra, si no se indica o acuerda el período por el que se ceden estos derechos, ¿qué período de tiempo establece la normativa de propiedad intelectual para realizar dicha cesión?",
         "answers": [
-          "Prestar atención y comprender realmente lo que dice el interlocutor.",
-          "Esperar solo para responder.",
-          "Ignorar los mensajes de los demás.",
-          "Interrumpir constantemente."
+          "Diez años.",
+          "Setenta años.",
+          "Cinco años.",
+          "Cincuenta años."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "c"
       },
       {
-        "question": "¿Qué es el liderazgo ético?",
+        "question": "¿Qué norma regula los nombres comerciales?",
         "answers": [
-          "Guiar a otros con el ejemplo y principios morales.",
-          "Imponer la voluntad propia.",
-          "Buscar el beneficio personal.",
-          "Ignorar las necesidades del equipo."
+          "La Ley 24/2015, de 24 de julio, de Patentes.",
+          "La Ley 17/2001, de 7 de diciembre, de Marcas.",
+          "La Ley 23/1990, de nombres y registros comerciales.",
+          "La Ley Orgánica 3/2001, de 18 de agosto, del registro de pequeñas, medianas y grandes empresas."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "b"
       },
       {
-        "question": "¿Qué es la motivación profesional?",
+        "question": "Las marcas son los signos utilizados para:",
         "answers": [
-          "El impulso interno que lleva a mejorar y alcanzar metas.",
-          "La obligación impuesta por otros.",
-          "La búsqueda exclusiva de recompensas externas.",
-          "La falta de interés por el trabajo."
+          "Distinguir en el mercado los productos o servicios de una empresa de otros idénticos o similares.",
+          "Identificar las empresas en el registro nacional de empresas.",
+          "Identificar la administración tributaria a las entidades mercantiles.",
+          "Distinguir a las empresas mercantiles de otras que desarrollan actividades idénticas o similares."
         ],
         "correctAnswer": "a"
       },
       {
-        "question": "¿Qué es la autoevaluación profesional?",
+        "question": "Los signos distintivos que se pueden utilizar como marca o nombre comercial pueden ser:",
         "answers": [
-          "Analizar y valorar el propio desempeño para mejorar.",
-          "Evitar cualquier tipo de crítica.",
-          "Culpar siempre a los demás.",
-          "Ignorar los errores cometidos."
+          "Denominativos.",
+          "Denominativos, figurativos, colores y sonidos.",
+          "Denominativos, figurativos, colores, sonidos, movimiento, holograma, multimedia, posición, patrones, tridimensionales.",
+          "Denominaciones, dibujos, signos, colores, sonidos, multimedia, tridimensionales, patrones."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "c"
       },
       {
-        "question": "¿Qué es la ética digital?",
+        "question": "Según la ley, ¿cuáles son las limitaciones o prohibiciones que pueden aplicarse a la hora de conceder un nombre comercial o una marca?",
         "answers": [
-          "El conjunto de principios que rigen el comportamiento en entornos digitales.",
-          "La ausencia de normas en internet.",
-          "El uso de datos sin consentimiento.",
-          "La difusión de información falsa."
+          "De concepto y de identificación.",
+          "Locales y nacionales.",
+          "De eufonía y de memoria.",
+          "Absolutas y relativas."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "d"
       },
       {
-        "question": "¿Qué es la huella digital profesional?",
+        "question": "¿Qué aspectos se deben tener en cuenta a la hora de crear un diseño que luego se vaya a registrar como una marca o un nombre comercial?",
         "answers": [
-          "El rastro de información que dejamos en internet sobre nuestra actividad profesional.",
-          "La firma manuscrita en documentos oficiales.",
-          "El uso de dispositivos biométricos.",
-          "La impresión de tarjetas de visita."
+          "Que sea entendible y llamativo.",
+          "Que no esté ya registrado.",
+          "Que sea reproducible en múltiples soportes.",
+          "Que sea aceptado por el cliente."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "b"
       },
       {
-        "question": "¿Qué es el ciberacoso en el entorno profesional?",
+        "question": "¿Qué medio se puede utilizar para consultar marcas y nombres comerciales ya registrados en la OEPM?",
         "answers": [
-          "El acoso realizado a través de medios digitales en el ámbito laboral.",
-          "La crítica constructiva en redes sociales.",
-          "El envío de correos electrónicos informativos.",
-          "La participación en foros profesionales."
+          "Los informes de signos distintivos denominativos anteriores.",
+          "La página web y los informes de signos distintivos denominativos anteriores.",
+          "La página web y la Oficina Nacional de Nombres comerciales y Marcas.",
+          "El registro autonómico de nombres comerciales y marcas y la página web del registro autonómico."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "b"
       },
       {
-        "question": "¿Qué es la protección de datos personales en la profesión?",
+        "question": "¿Cuáles son los plazos en los que la OEPM puede resolver las solicitudes del registro de un nombre comercial o marca?",
         "answers": [
-          "El conjunto de medidas para garantizar la privacidad y seguridad de los datos de clientes y usuarios.",
-          "La publicación de datos en la web corporativa.",
-          "El intercambio libre de información personal.",
-          "La venta de bases de datos a terceros."
+          "Hasta doce meses, si no hay alguna suspensión u oposición.",
+          "Hasta seis meses desde la fecha de la solicitud.",
+          "Hasta veinticuatro meses, haya o no suspensión u oposición en la solicitud.",
+          "Hasta tres meses si no hay suspensión u oposición y hasta seis meses si hay suspensión u oposición."
         ],
         "correctAnswer": "a"
       },
       {
-        "question": "¿Qué es la propiedad intelectual?",
+        "question": "Al conceder la OEPM el registro de un nombre comercial o una marca:",
         "answers": [
-          "El derecho que protege las creaciones originales de autores y profesionales.",
-          "La compra de bienes inmuebles.",
-          "La posesión de material de oficina.",
-          "El uso de software sin licencia."
+          "Se concede para todas las actividades, productos o servicios.",
+          "Se concede por la OEPM solo para empresas que tengan registrado el nombre o la marca en el registro de la propiedad intelectual.",
+          "Se concede por la OEPM para la clase de actividad que se haya indicado en la solicitud.",
+          "Todas las respuestas son correctas."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "c"
       },
       {
-        "question": "¿Qué es el plagio profesional?",
+        "question": "¿Cuánto tiempo tiene de validez el registro de una marca o nombre comercial concedido por la OEPM?",
         "answers": [
-          "La copia o uso no autorizado de obras o ideas ajenas.",
-          "La colaboración entre profesionales.",
-          "La inspiración en trabajos previos.",
-          "La publicación de trabajos propios."
+          "Diez años.",
+          "Cinco años.",
+          "Dos años.",
+          "Veinte años."
         ],
         "correctAnswer": "a"
       },
       {
-        "question": "¿Qué es la firma electrónica?",
+        "question": "¿Quién es el titular del nombre comercial o la marca registrada en la Oficina Española de Patentes y Marcas?",
         "answers": [
-          "Un conjunto de datos electrónicos que identifican al firmante de un documento digital.",
-          "La firma manuscrita escaneada.",
-          "El uso de contraseñas sencillas.",
-          "La impresión de documentos."
+          "La persona física o jurídica que diseña o crea el nombre comercial o la marca.",
+          "La persona física o jurídica que encarga la creación o el diseño del nombre comercial o la marca.",
+          "La persona física o jurídica que haya solicitado en su nombre el registro de la marca o el nombre comercial.",
+          "La persona física o jurídica que haya solicitado en su nombre el registro de la propiedad intelectual."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "c"
       },
       {
-        "question": "¿Qué es la reputación online profesional?",
+        "question": "¿Qué es un dato personal, según el RGPD?",
         "answers": [
-          "La imagen y valoración que otros tienen sobre nuestra actividad en internet.",
-          "La opinión de los compañeros en la oficina.",
-          "La asistencia a eventos presenciales.",
-          "El uso de redes sociales personales."
+          "Cualquier información grabable en un soporte físico.",
+          "Cualquier información vinculada con una persona física o jurídica.",
+          "Cualquier información que identifica o hace identificable a una persona física.",
+          "Los datos vinculados a la actividad social y profesional de una persona física."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "c"
       },
       {
-        "question": "¿Qué es la suplantación de identidad digital?",
+        "question": "¿Cuál de estas acciones NO sería un tratamiento de datos personales, según el RGPD?",
         "answers": [
-          "El uso fraudulento de la identidad de otra persona en entornos digitales.",
-          "La creación de un perfil profesional propio.",
-          "La actualización de datos personales.",
-          "El registro en plataformas oficiales."
+          "Que una empresa grabe los datos identificativos de los trabajadores.",
+          "Almacenar en un teléfono móvil el listado de los clientes con los que se mantiene relación.",
+          "Disponer de un listado en papel con los datos de la dirección postal, teléfono y el e-mail de todas las personas interesadas en la contratación de algún servicio de la empresa.",
+          "Crear en el teléfono móvil un listado con los nombres y direcciones de familiares nuestros."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "d"
       },
       {
-        "question": "¿Qué es el teletrabajo?",
+        "question": "¿Cuáles de estos son principios que deben cumplirse en el tratamiento de datos personales?",
         "answers": [
-          "La realización de la actividad profesional a distancia mediante el uso de tecnologías.",
-          "El trabajo presencial en la oficina.",
-          "La asistencia a reuniones físicas.",
-          "La formación presencial continua."
+          "Transparencia.",
+          "Minimización de datos.",
+          "Limitación de conservación.",
+          "Todos los anteriores."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "d"
       },
       {
-        "question": "¿Qué es la desconexión digital?",
+        "question": "¿Qué obligaciones impone el principio de responsabilidad proactiva del RGPD?",
         "answers": [
-          "El derecho a no responder comunicaciones profesionales fuera del horario laboral.",
-          "La obligación de estar siempre disponible.",
-          "El uso continuo de dispositivos electrónicos.",
-          "La participación en chats fuera de horario."
+          "Que la empresa que trate datos personales sea una empresa que esté activa según el RGPD.",
+          "Que en la empresa se actúe de forma proactiva en las relaciones con los clientes, proveedores y empleados.",
+          "Que quien trate los datos sea responsable de las acciones activas y no de las pasivas del RGPD.",
+          "Que quien trate los datos sea responsable del cumplimiento de los principios del RGPD y sea capaz de demostrarlo."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "d"
       },
       {
-        "question": "¿Qué es la ciberseguridad profesional?",
+        "question": "¿Cuál de estos derechos de protección de datos NO es un derecho de las personas según el RGPD?",
         "answers": [
-          "El conjunto de medidas para proteger la información y los sistemas digitales en el ámbito laboral.",
-          "La publicación de contraseñas en foros.",
-          "El uso de redes públicas sin protección.",
-          "La descarga de archivos sin verificar."
+          "El derecho de acceso.",
+          "El derecho de transformación.",
+          "El derecho de rectificación.",
+          "El derecho de supresión."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "b"
       },
       {
-        "question": "¿Qué es la formación en competencias digitales?",
+        "question": "¿Cuál de estos servicios sería un servicio de la sociedad de la información según la LSSICE?",
         "answers": [
-          "El aprendizaje y actualización de habilidades tecnológicas necesarias para el ejercicio profesional.",
-          "La asistencia a cursos de cocina.",
-          "La lectura de revistas impresas.",
-          "La participación en actividades deportivas."
+          "La telefonía vocal.",
+          "Los servicios de radiodifusión sonora.",
+          "El envío de comunicaciones comerciales.",
+          "Los servicios de radiodifusión televisiva."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "c"
       },
       {
-        "question": "¿Qué es la ética en el uso de redes sociales?",
+        "question": "¿Cuál de estos elementos de una página web sería un dispositivo de almacenamiento y recuperación de datos de la LSSICE?",
         "answers": [
-          "El respeto a la privacidad, la veracidad y la responsabilidad en la publicación de contenidos.",
-          "La difusión de rumores y noticias falsas.",
-          "El ataque a la competencia.",
-          "La publicación de información confidencial."
+          "Las cookies de la página web.",
+          "Las imágenes de la página web.",
+          "Los enlaces de la página web.",
+          "Todos los anteriores."
         ],
         "correctAnswer": "a"
       },
       {
-        "question": "¿Qué es la colaboración interdisciplinar?",
+        "question": "¿Qué elementos del diseño de una página web en donde se traten datos personales puede que se tengan en cuenta a la hora de cumplir con las obligaciones de la normativa de protección de datos?",
         "answers": [
-          "El trabajo conjunto entre profesionales de distintas áreas para lograr objetivos comunes.",
-          "La competencia entre profesionales de la misma especialidad.",
-          "La especialización en un solo campo.",
-          "La falta de comunicación entre departamentos."
+          "Los colores de la página web.",
+          "Las noticias publicadas en el blog de noticias de la página web.",
+          "La dimensión de los campos de los formularios de la página web.",
+          "El número de páginas/pantallas de la página web."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "c"
       },
       {
-        "question": "¿Qué es la ética en la inteligencia artificial?",
+        "question": "¿Cuál de las siguientes comunicaciones sería una «comunicación comercial»?",
         "answers": [
-          "El conjunto de principios para el desarrollo y uso responsable de sistemas inteligentes.",
-          "La creación de algoritmos sin control.",
-          "La manipulación de datos para beneficio propio.",
-          "El uso de IA para vulnerar derechos."
+          "La realización de una llamada telefónica a un compañero de trabajo.",
+          "El envío de un e-mail a un cliente para confirmarle la fecha de la reunión.",
+          "El envío de un SMS a un usuario con el código de verificación.",
+          "El envío de un WhatsApp a un cliente con las ofertas del mes."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "d"
       },
       {
-        "question": "¿Qué es la accesibilidad digital?",
+        "question": "¿Qué información es obligatorio incluir en una página web?",
         "answers": [
-          "El diseño de entornos digitales para que sean utilizables por todas las personas, incluidas las que tienen discapacidad.",
-          "La restricción de acceso a ciertos usuarios.",
-          "El uso exclusivo de tecnologías avanzadas.",
-          "La eliminación de opciones de personalización."
+          "La identidad, datos de contacto y dirección del titular de la página web.",
+          "La identidad, datos de contacto y dirección del diseñador de la página web.",
+          "La identidad de la empresa donde está alojada la página.",
+          "La liquidación del impuesto de sociedades o impuesto sobre la renta de las personas físicas del último ejercicio del titular de la página web."
         ],
         "correctAnswer": "a"
       },
       {
-        "question": "¿Qué es la economía circular?",
+        "question": "Según el Código Civil, ¿cuándo existe un contrato?",
         "answers": [
-          "Un modelo de producción y consumo que promueve la reutilización y reciclaje de recursos.",
-          "La compra continua de productos nuevos.",
-          "La eliminación de residuos sin control.",
-          "La producción en masa sin límites."
+          "Cuando se ofrece a alguien un bien o servicio.",
+          "Cuando algunas personas se ofrecen un bien o servicio entre ellas a cambio de un precio.",
+          "Cuando varias personas consienten en obligarse, respecto de ellos, a dar algo o prestar algo.",
+          "Cuando varias personas se obligan a dar algo o prestar algo."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "c"
       },
       {
-        "question": "¿Qué es el emprendimiento social?",
+        "question": "¿Cuál es la diferencia entre un contrato de ejecución instantánea y otro de ejecución continua?",
         "answers": [
-          "La creación de empresas que buscan generar un impacto positivo en la sociedad.",
-          "La búsqueda exclusiva de lucro personal.",
-          "La competencia desleal.",
-          "La evasión de impuestos."
+          "Que el contrato de ejecución instantánea se realiza en el momento de firmarse y el de ejecución continua se realiza un tiempo después de haberse firmado.",
+          "Que el contrato de ejecución instantánea se cumple y termina con la entrega del objeto y el de ejecución continua permanece en el tiempo.",
+          "El contrato de ejecución continua se ejecuta mientras el cliente continúe contratando, y el de ejecución instantánea se ejecuta en el instante que decida el cliente.",
+          "Ninguna de las anteriores."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "b"
       },
       {
-        "question": "¿Qué es la ética ambiental?",
+        "question": "La característica principal de un contrato de adhesión es:",
         "answers": [
-          "El conjunto de valores y principios que orientan la relación responsable con el entorno natural.",
-          "La explotación sin límites de los recursos.",
-          "La contaminación deliberada.",
-          "La indiferencia ante el cambio climático."
+          "Que se adquieren los bienes comprados en régimen de adhesión.",
+          "Que la negociación se realiza entre adherido y adherente.",
+          "Que todos los que se adhieren al contrato deben estar de acuerdo entre ellos.",
+          "Que no existe negociación del contenido."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "d"
       },
       {
-        "question": "¿Qué es la economía colaborativa?",
+        "question": "¿Qué se detallaría en la cláusula de «licencias, permisos o autorizaciones» de un contrato firmado por el diseñador digital?",
         "answers": [
-          "Un modelo basado en el intercambio y compartición de bienes y servicios entre particulares.",
-          "La competencia feroz entre empresas.",
-          "La acumulación de recursos por parte de unos pocos.",
-          "La falta de regulación en el mercado."
+          "Si el trabajo por realizar requiere algún permiso o licencia para realizarse, y quién debe gestionar estos permisos o licencias.",
+          "Si el trabajo por realizar necesita la autorización del cliente, y cuándo se otorgan estas autorizaciones.",
+          "Si el diseñador digital debe ser licenciado o estar autorizado para poder realizar su trabajo.",
+          "Si se han liquidado las tasas o permisos administrativos a la autoridad competente."
         ],
         "correctAnswer": "a"
       },
       {
-        "question": "¿Qué es la responsabilidad ética en la toma de decisiones?",
+        "question": "¿Cuál es la «responsabilidad aquiliana»?",
         "answers": [
-          "Considerar el impacto de las decisiones en los demás y en la sociedad.",
-          "Buscar solo el beneficio propio.",
-          "Ignorar las consecuencias a largo plazo.",
-          "Tomar decisiones impulsivas."
+          "La responsabilidad contractual.",
+          "La responsabilidad extracontractual.",
+          "La responsabilidad contractual y la extracontractual.",
+          "La responsabilidad de los contratos de alquiler."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "b"
       },
       {
-        "question": "¿Qué es la ética en la investigación científica?",
+        "question": "¿Cuándo puede un diseñador digital tener una responsabilidad extracontractual?",
         "answers": [
-          "El respeto a la verdad, la transparencia y los derechos de las personas involucradas.",
-          "La manipulación de resultados.",
-          "El plagio de trabajos ajenos.",
-          "La ocultación de errores."
+          "Cuando firme un contrato de servicios y cause un perjuicio al cliente.",
+          "Cuando, una vez terminado el contrato con el cliente, este reclame al diseñador digital.",
+          "En cualquier momento por los daños ocasionados por su trabajo a cualquier persona distinta del cliente.",
+          "En el momento de entregar su trabajo, y no durante su preparación o realización."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "c"
       },
       {
-        "question": "¿Qué es la igualdad de género en el ámbito profesional?",
+        "question": "¿Cuándo un diseñador digital contrata un seguro o un aval bancario al negociar un contrato de trabajo?",
         "answers": [
-          "El acceso y trato igualitario de mujeres y hombres en la profesión.",
-          "La discriminación positiva.",
-          "La preferencia por un solo género.",
-          "La exclusión de minorías."
+          "Cuando se quiere asegurar el resarcimiento de los daños sufridos por el contrato.",
+          "Cuando se quiere hacer público el contrato, para que un tercero no reclame.",
+          "Cuando el diseñador digital se quiere asegurar la participación de otros profesionales que colaboren en la realización del trabajo.",
+          "En ninguno de los casos anteriores."
         ],
         "correctAnswer": "a"
       },
       {
-        "question": "¿Qué es la conciliación laboral y familiar?",
+        "question": "¿Cuál es la diferencia entre un acuerdo de confidencialidad y uno de exclusividad?",
         "answers": [
-          "El equilibrio entre las responsabilidades profesionales y personales.",
-          "La dedicación exclusiva al trabajo.",
-          "La ausencia de vida personal.",
-          "La priorización absoluta de la familia."
+          "Que el acuerdo de confidencialidad es obligatorio firmarlo y el de exclusividad no.",
+          "Que la confidencialidad es por tiempo ilimitado y la exclusividad no.",
+          "Que la confidencialidad es para no revelar información y la exclusividad es para no firmar contrato con otros.",
+          "Que la confidencialidad es sobre información conocida por varios y la exclusividad es sobre información conocida solo por el cliente y el diseñador digital."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "c"
       },
       {
-        "question": "¿Qué es la diversidad generacional en el trabajo?",
+        "question": "¿Cuándo NO es obligatorio firmar un acuerdo de confidencialidad o cláusula de confidencialidad en un contrato?",
         "answers": [
-          "La convivencia y colaboración de personas de distintas edades en el entorno laboral.",
-          "La discriminación por edad.",
-          "La preferencia por jóvenes.",
-          "La exclusión de personas mayores."
+          "Cuando el contrato es gratuito.",
+          "Cuando el cliente del contrato es una empresa y no un particular.",
+          "Cuando para la realización del contrato no se manejan datos personales.",
+          "Ninguna de las anteriores."
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "d"
       },
       {
-        "question": "Según los materiales, además del Principio de beneficencia, ¿cuáles de los siguientes se mencionan como otros principios importantes a considerar para el comportamiento ético y la reflexión profesional?",
+        "question": "¿Cómo se llama al acuerdo firmado por un diseñador digital que lo obliga a no prestar o realizar determinados servicios o actividades?",
         "answers": [
-          "Principio de autonomía, Principio de justicia, Honradez, Desinterés, Dignidad y Obrar en conciencia.",
-          "Principio de legalidad, Transparencia, No discriminación y Respeto al medio ambiente.",
-          "Responsabilidad proactiva, Minimización de datos, Derecho de acceso y Confidencialidad.",
-          "Código deontológico, Normas morales, Normas legales y Voluntad de servicio."
+          "Acuerdo de confidencialidad.",
+          "Acuerdo de no subcontratación.",
+          "Acuerdo de deber de secreto.",
+          "Acuerdo de no competencia."
         ],
         "correctAnswer": "a"
       }
