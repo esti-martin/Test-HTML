@@ -20,6 +20,7 @@
         </button>
         <button id="eticaTestExtra" class="test-button">Test de ÉTICA (extra)</button>
         <button id="eticaTest" class="test-button">Test de ÉTICA (temario)</button>
+        <button id="productoTest" class="test-button">Test de PRODUCTO</button>
       </div>
     </div>
 
@@ -45,9 +46,12 @@
       document
         .getElementById("eticaTestExtra")
         .addEventListener("click", () => redirectToTest("etica-extra")); 
-        document
+      document
         .getElementById("eticaTest")
         .addEventListener("click", () => redirectToTest("etica")); 
+      document
+        .getElementById("productoTest")
+        .addEventListener("click", () => redirectToTest("producto")); 
       
     </script>
   </body>

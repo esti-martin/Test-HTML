@@ -1,0 +1,1203 @@
+[
+    {
+      "question": "¿Qué categoría objetual actual utilizan los diseñadores de packaging?",
+      "answers": [
+        "Objetos artísticos.",
+        "Objetos de uso.",
+        "Objetos naturales.",
+        "Objetos modificados de la naturaleza."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "¿Qué tipo de objeto puede realizar un diseñador de producto?",
+      "answers": [
+        "Artesanal.",
+        "Industrial.",
+        "Híbrido.",
+        "Todas las anteriores son correctas."
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "question": "¿Cuál es la característica principal de un producto de consumo?",
+      "answers": [
+        "Los productos de consumo se caracterizan por el tiempo de consumo, que es muy cortos.",
+        "Los productos de consumo se caracterizan por su largo tiempo de consumo.",
+        "Los productos de consumo se caracterizan por pasar de generación a generación.",
+        "Los productos de consumo se caracterizan por su valor emocional."
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "question": "¿Qué factores debe de tener en cuenta el diseñador de producto a la hora de proyectar un artefacto?",
+      "answers": [
+        "Factor estético.",
+        "Factor funcional.",
+        "Factor cultural.",
+        "Todas las anteriores son correctas."
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "question": "¿Qué tipo de ergonomía está relacionada con desarrollo del packaging?",
+      "answers": [
+        "Ergonomía física, cognitiva y organizacional.",
+        "Ergonomía física y cognitiva.",
+        "Ergonomía física.",
+        "Ergonomía cognitiva."
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "question": "¿Cuál es la característica principal que diferencia el diseño de producto del diseño industrial en la práctica profesional?",
+      "answers": [
+        "El diseño de producto tiene un enfoque más personalizado y artesanal, pudiendo también desarrollar productos fabricados industrialmente.",
+        "El diseño de producto está orientado más a los aspectos y procesos desarrollados para la fabricación industrial.",
+        "La flexibilización de la producción.",
+        "Ninguna de las anteriores es correcta."
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "question": "¿En qué categoría de objetos industriales se encuentra el packaging?",
+      "answers": [
+        "Productos industriales de consumo.",
+        "Productos industriales de uso individual.",
+        "Productos industriales de determinados grupos.",
+        "Productos industriales de uso indirecto."
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "question": "¿Cuál la característica de un producto de uso individual?",
+      "answers": [
+        "Se caracteriza por subsanar necesidades personales, pero en algunos momentos puede ser utilizado por otra persona.",
+        "Son productos que no crean vínculo emocional y tienen una relación utilitaria con el usuario.",
+        "Se caracteriza por subsanar necesidades personales.",
+        "El usuario no depende del objeto."
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "¿Cuál la característica principal de un producto para determinados grupos?",
+      "answers": [
+        "Objetos que son utilizados por personas con la misma profesión.",
+        "Objetos que son utilizados por personas que se conocen.",
+        "Objetos que al proyectarlos no requieren un análisis de uso.",
+        "Objetos que poseen un fuerte vínculo emocional con el usuario."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "¿Qué productos se caracterizan por ser de uso indirecto?",
+      "answers": [
+        "El área de contacto del objeto.",
+        "Los elementos que están ocultos en los productos, como chips, piezas, motores, etc.",
+        "Las partes del producto que no se utilizan con tanta frecuencia.",
+        "Los envases, que tienen la función de proteger el producto que se irá consumir."
+      ],
+      "correctAnswer": "b"
+    },
+    {
+        "question": "¿Cuál es la función del lenguaje en el diseño?",
+        "answers": [
+          "Reflejar los objetivos de la sociedad.",
+          "Comunicar los valores de la sociedad.",
+          "Definir e indicar valores de las cosas.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "La hermenéutica es la ciencia que estudia:",
+        "answers": [
+          "La comunicación e interpretación del artefacto y consiste en entender la comunicación entre diseñador, producto y usuario.",
+          "La emoción e interpretación del artefacto y consiste en entender la comunicación entre diseñador, producto y usuario.",
+          "La función e interpretación del artefacto y consiste en entender la comunicación entre diseñador, producto y usuario.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "Según la semiótica, ¿cómo son formados los objetos?",
+        "answers": [
+          "Los objetos son formados por dos partes: una real funcional y otra subjetiva inmaterial.",
+          "Los objetos son formados solo por la parte real funcional.",
+          "Los objetos son formados solo por la parte subjetiva.",
+          "Ninguna de las anteriores es correcta."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿En qué consiste la función simbólica?",
+        "answers": [
+          "El aspecto del objeto psicológico, la percepción sensorial durante su uso, los elementos que predominan son color, textura, forma, trabaja con los sentidos visión, olfato, tacto.",
+          "El objeto tiene una predominancia de relaciones prácticas.",
+          "Está determinada por elementos que califican subjetivamente el objeto, pueden representar tradición, estatus, poder, libertad, independencia, etc.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "¿Cuáles son los elementos del diseño emocional?",
+        "answers": [
+          "Emocional, visceral, conductual y reflexivo.",
+          "Funcional, visceral, conductual y reflexive.",
+          "Visceral, conductual y reflexivo.",
+          "Simbólico, visceral, conductual y reflexivo."
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "¿Cuáles son los elementos que definen el sistema social de signos directo?",
+        "answers": [
+          "Forma y función.",
+          "Funciones culturales.",
+          "Funciones sociales.",
+          "Funciones simbólicas."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Cuáles son los elementos que definen el sistema social de signos indirecto?",
+        "answers": [
+          "Formas.",
+          "Funciones viscerales.",
+          "Funciones sociales-culturales y simbólicas.",
+          "Funciones subjetivas."
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "¿Cuáles son las características de la función práctica del packaging?",
+        "answers": [
+          "Conservar y proteger.",
+          "Conservar, proteger e informar.",
+          "Almacenar e informar.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "¿Cuáles son las características del aspecto reflexivo de un objeto?",
+        "answers": [
+          "Es un objeto racional, funcional y planificado.",
+          "Está vinculado a la percepción física, atrae por la apariencia física y al consumidor le gusta su aspecto por la función que tiene.",
+          "Está relacionado con la emoción de placer y de la efectividad del uso.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Cuáles son las características del aspecto visceral de un envase?",
+        "answers": [
+          "Está relacionado con la emoción de placer y de la efectividad del uso.",
+          "Está vinculado a una planificación, racionalización e intelectualización de un producto.",
+          "Está vinculado a la percepción física, atrae por la apariencia física y al consumidor le gusta su aspecto por la función que tiene.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "¿Qué significa PDP?",
+        "answers": [
+          "Un proceso especial de impresión.",
+          "Un modelo de comercialización y distribución de envases.",
+          "La cara es lo principal del envase, que está posicionada hacia el consumidor en la estantería.",
+          "Una tecnología de fabricación."
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "¿Cuáles son los elementos necesarios para la elaboración del envase?",
+        "answers": [
+          "PDP.",
+          "La cultura y los valores de la sociedad.",
+          "El color, la estructura física, fotografía, la tipografía o los símbolos y números.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Cómo se clasifican los envases?",
+        "answers": [
+          "Primario y secundario.",
+          "Primario, secundario y terciario.",
+          "Principal, secundario y terciario.",
+          "Ninguna de las anteriores es correcta."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "¿Cuáles son los tipos de packaging?",
+        "answers": [
+          "Rígidos.",
+          "Flexibles.",
+          "Envolventes.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Qué es shopability?",
+        "answers": [
+          "La facilidad que el consumidor posee de encontrar un producto en el local que lo vende.",
+          "El acto de salir de compras.",
+          "La forma de un envase.",
+          "Un material utilizado para envases."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Quién inventó los barriles de madera?",
+        "answers": [
+          "Los barriles de madera fueron inventados por los celtas 400 a. C.",
+          "Los barriles de madera fueron inventados por los celtas 200 a. C.",
+          "Los barriles de madera fueron inventados por los romanos 400 a. C",
+          "Los barriles de madera fueron inventados por los babilonios 400 a. C."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Cuál de los siguientes factores ha influido en el desarrollo del packaging?",
+        "answers": [
+          "La evolución de los materiales.",
+          "La evolución de la técnica del envasado.",
+          "La invención de la imprenta.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Cuál fue el objetivo de la creación del envase en Tetra Pak?",
+        "answers": [
+          "El objetivo de su creación fue obtener un envase para la leche con el mínimo material y la máxima higiene.",
+          "El objetivo de su creación fue obtener un envase de forma tetraedro.",
+          "El objetivo de su creación fue obtener un envase para la leche con capacidad de 100 y 200 ml.",
+          "El objetivo de su creación fue obtener un envase para la leche con capacidad de 500 ml."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Por qué actualmente el enfoque está en la simplificación del diseño del envase?",
+        "answers": [
+          "Para reducir complejidad.",
+          "Para ser más sostenible.",
+          "Para que la comunicación sea más sencilla.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Qué área del conocimiento aporta información al diseñador sobre los nuevos valores y contextos sociales, a la hora de desarrollar un envase?",
+        "answers": [
+          "Antropología.",
+          "Sociología.",
+          "Psicología.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Qué es el pensamiento sostenible para un diseñador?",
+        "answers": [
+          "Considerar el impacto del producto al largo de su vida útil.",
+          "Nuestras acciones tiene impactos ambientales.",
+          "Nuestras acciones consumen recursos naturales.",
+          "Todas las alternativas anteriores están correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Cómo es un producto que se fundamenta en la economía circular?",
+        "answers": [
+          "Un producto que no genera residuos.",
+          "Un producto cuya materia se transforma y se destina a otras necesidades.",
+          "Un producto cuya materia se reincorpora a otro producto.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Qué es el ciclo de vida del producto?",
+        "answers": [
+          "Pensar en cómo se produce fabrica, transporta, embala, usa y elimina el producto.",
+          "Pensar solo en la parte de reciclaje del producto.",
+          "Pensar en cómo se produce, fabrica, transporta, embala y usa.",
+          "Pensar en la concepción del producto, producción y venta."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Cuáles son las categorías que podemos utilizar en los envases eco y sostenibles?",
+        "answers": [
+          "Materiales sintéticos y compuestos.",
+          "Materiales biodegradables y reutilizables.",
+          "Tintas ecológicas y tintas sintéticas.",
+          "Uso efímero y sin posibilidad de reutilizarlo."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "¿Cómo se simplifica el envase de un producto?",
+        "answers": [
+          "Desarrollando un sistema de varios envases para mejorar la conservación del producto.",
+          "Aplicando varios materiales al envase.",
+          "Integrando los elementos del envase, eliminando desperdicios y simplificando procesos.",
+          "Aplicando varios materiales al envase y utilizar diversos procesos de fabricación."
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "¿Qué es un envase biodegradable?",
+        "answers": [
+          "Aquel en que el material se diluye y desarrolla otra función.",
+          "Aquel en que el material es descompuesto por la naturaleza.",
+          "Aquel que está hecho de materiales naturales.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "¿Cuál las siguientes afirmaciones define a un envase reutilizable?",
+        "answers": [
+          "El material del que está compuesto prolonga la vida del envase, ahorra recursos y así tarda en llegar a los vertederos.",
+          "El material del que está compuesto prolonga la vida del envase y ahorrar recursos.",
+          "Tarda en llegar a los vertederos.",
+          "El material del que está compuesto ahorra recursos y tarda en llegar a los vertederos."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué elementos están presentes en un envase fabricado con materiales naturales?",
+        "answers": [
+          "Económicos y ecológicos.",
+          "Uso de técnicas vernáculas.",
+          "Biodegradables.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Qué variables están presentes en un envase fabricado con materiales hechos a mano?",
+        "answers": [
+          "Proceso largo y producción en grandes cantidades.",
+          "Producción en pocas cantidades y proceso corto.",
+          "Proceso largo, producción en pocas cantidades y procesos y producción tradicionales.",
+          "Procesos y producción tradicionales."
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "¿Qué elementos debemos considerar cuando utilizamos una tinta ecológica?",
+        "answers": [
+          "Colorantes extraídos de la naturaleza.",
+          "Número limitado de colores.",
+          "Tinta a base de agua, soja o soluble en alcohol.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Cuál es el papel del packaging para la marca?",
+        "answers": [
+          "Ser un soporte de comunicación de la marca.",
+          "Formar parte de la estrategia de comunicación.",
+          "Representar gráficamente los valores de la marca por medio del gráficos, colores e ilustraciones.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Qué significa para un diseñador crear un packaging para un entorno genérico?",
+        "answers": [
+          "Saber que el producto compite por la atención con los demás productos de la competencia y que debe utilizar elementos que atraigan la atención del consumidor.",
+          "Saber que un entorno genérico es amigable.",
+          "Saber que en el entorno genético todo está pensado con el leguaje de la marca.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué funciones posee el color para el packaging?",
+        "answers": [
+          "Captar la atención del consumidor.",
+          "Crear un vínculo emocional con el producto y marca.",
+          "Crear empatía con el producto y marca.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Cuál es el papel del humor en el packaging?",
+        "answers": [
+          "Diferenciarlo de los demás.",
+          "Diferenciar el producto en un entorno comercial.",
+          "Producir a la vez impacto y seducción en el consumidor.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Cuáles son las aplicaciones del color para la marca?",
+        "answers": [
+          "Que el consumidor no vincule el color al producto.",
+          "Relacionar el color con la identidad de marca.",
+          "Que el color no se torne una propiedad de la marca.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "¿Qué queremos transmitir cuando utilizamos una forma racional?",
+        "answers": [
+          "Estabilidad y serenidad.",
+          "Humor y alegría.",
+          "Feminidad y harmonía.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "Cuando pensamos en la forma, ¿qué factores debemos tener en cuenta a la hora de seleccionar el material?",
+        "answers": [
+          "Propiedades del material.",
+          "Capacidad de adaptarse y moldearse.",
+          "Flexibilidad y rigidez.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Por qué utilizar iconos en los envases?",
+        "answers": [
+          "Aseguran la comunicación sencilla.",
+          "Los iconos son universales.",
+          "Ahorran espacio.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Cómo se organiza la información de un producto?",
+        "answers": [
+          "Se organiza en dos partes: en la información vista de lejos y en la vista de cerca.",
+          "Se organiza en una parte, en la información técnica.",
+          "Se organiza en tres partes: en la información vista de lejos, de cerca y en la información técnica.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "¿Cuál es la función del código de barras?",
+        "answers": [
+          "Identificar el país, el fabricante y el producto.",
+          "Identificar el producto y sus ingredientes.",
+          "Es un elemento de gestión y control interno específico de la tienda sin vinculación con la compra y distribución.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Cuál crees que es la mejor descripción de clase?",
+        "answers": [
+          "Conjunto de variables que se unen para solucionar un problema.",
+          "Conjunto de métodos y variables que se unen para resolver un problema.",
+          "Generalización de las características de elementos que forman parte de un problema.",
+          "Especialización de los elementos que forman parte del problema, de tal forma que son los elementos más pequeños que se pueden identificar."
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "¿Qué es una metodología de diseño?",
+        "answers": [
+          "Una estructura organizacional dentro de los actos creativos que se producen.",
+          "Un modo de visualizar los procesos.",
+          "Un modo de categorizar, establecer relaciones y sugerir un orden",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Cuál es el arquetipo del proceso de diseño?",
+        "answers": [
+          "El arquetipo que está formado por una entrada, proceso y salida.",
+          "El arquetipo que está formado por una entrada y salida.",
+          "El arquetipo que está formado por una entrada, proceso de retroalimentación y salida.",
+          "Todas las alternativas anteriores no están correctas."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué tipo de información debe contener el brief?",
+        "answers": [
+          "Objetivos de proyectos.",
+          "Público objetivo.",
+          "Presupuesto y fechas de entrega.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Cómo puede definirse el brief y para qué sirve?",
+        "answers": [
+          "Es una guía de todo el proceso tanto para la empresa como para el diseñador.",
+          "Es una guía para el cumplimento de los plazos.",
+          "Es una guía para lograr los objetivos y trasmitir la visión de diseño.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿De qué herramientas dispone el diseñador para identificar las necesidades y deseos del usuario?",
+        "answers": [
+          "Observar y preguntar.",
+          "Evaluar y seleccionar.",
+          "Fabricar y comprobar.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Cuáles son las variables de la segmentación de mercado?",
+        "answers": [
+          "Geográficas, demográfica y psicográfica.",
+          "Geográficas y demográfica.",
+          "Geográficas, demográfica, psicográfica y conductual.",
+          "Psicográfica y conductual."
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "¿Cómo puede definirse el comportamiento psicológico del consumidor?",
+        "answers": [
+          "Consumidor compulsivo y racional.",
+          "Consumidor compulsivo, racional e impulsivo.",
+          "Consumidor impulsivo y racional.",
+          "Consumidor irracional."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "¿Qué información debe tener el concepto de proyecto?",
+        "answers": [
+          "Explicar cómo el producto satisfará las necesidades funcionales y emocionales del comprador.",
+          "Comunicar el concepto por medio de maquetas, bocetos y descripciones de la idea a desarrollar.",
+          "Describir la idea del producto en los ámbitos funcionales, estéticos y técnicos.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Cuál es la función de los bocetos y maquetas en el desarrollo del diseño?",
+        "answers": [
+          "Plasmar la forma y solucionar el briefing presentado al diseñador.",
+          "Comunicar y depurar la forma.",
+          "Comprobar y evaluar las soluciones",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Qué debemos pensar cuando desarrollamos un envase para un producto determinado?",
+        "answers": [
+          "Verificar qué material es el más adecuado a las necesidades de cada producto.",
+          "Verificar la sensibilidad a la luz y calor.",
+          "Verificar si debe estar envasado al vacío.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Cómo proyecta el diseñador una caja plegable?",
+        "answers": [
+          "Desarrolla un plano bidimensional e identifica dónde se hará el corte.",
+          "Identifica dónde se hará el corte, el troquelado y los ensamblados.",
+          "Desarrolla un plano bidimensional e identifica dónde se hará el corte y se ensamblará para que el envase se convierta en un elemento tridimensional.",
+          "Se proyecta el plano bidimensional y después el tridimensional."
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "¿Qué proceso de fabricación se utiliza para fabricar un envase de plástico con asa?",
+        "answers": [
+          "Moldeo por extrusión-soplado y moldeo por inyección-soplado.",
+          "Moldeo por extrusión-soplado.",
+          "Moldeo por inyección-soplado.",
+          "Ninguna de las anteriores es correcta."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "¿Qué proceso de fabricación es el más adecuado para envases de cristal de cuello estrecho?",
+        "answers": [
+          "Moldeo del vidrio por soplado y resoplado.",
+          "Moldeo del vidrio por soplado y resoplado y moldeo del vidrio por prensado y soplado.",
+          "Moldeo del vidrio por prensado y soplado.",
+          "Ninguna de las anteriores es correcta."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Cuáles son las características de un envase metálico ligero?",
+        "answers": [
+          "Su capacidad límite es de 10 litros y la espesura del metal es de hasta 0,39 mm.",
+          "Su capacidad límite es de 40 litros y la espesura del metal es de hasta 0,49 mm.",
+          "Su capacidad límite es de 30 litros y la espesura del metal es de hasta 0,20 mm.",
+          "Ninguna de las anteriores es correcta."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "¿Cuáles son las características de un envase metálico pesado?",
+        "answers": [
+          "Su capacidad está entre 40 a 220 litros y el grosor del metal es superior a 0,80 mm.",
+          "Su capacidad está entre 30 a 100 litros y el grosor del metal es superior a 0,30 mm.",
+          "Su capacidad está entre 30 a 220 litros y el grosor del metal es superior a 0,50 mm.",
+          "Ninguna de las anteriores es correcta."
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "¿Qué proceso de fabricación se utiliza para fabricar un tarro de cristal?",
+        "answers": [
+          "Moldeo por extrusión-soplado y moldeo por inyección-soplado.",
+          "Moldeo por prensado y soplado.",
+          "Moldeo por inyección-soplado.",
+          "Ninguna de las anteriores es correcta."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "¿Qué metales son los más utilizados en los envases metálicos?",
+        "answers": [
+          "Hojalata y aluminio.",
+          "Aluminio y acero.",
+          "Hojalata y acero inoxidable.",
+          "Ninguna de las anteriores es correcta."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Cómo son clasificados los cartones ondulados?",
+        "answers": [
+          "Doble-doble cara y triple cara.",
+          "Una cara y doble cara.",
+          "Una cara, doble cara, doble-doble cara y triple cara.",
+          "Una cara, doble cara y triple cara."
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "¿Qué envase metálico no necesita de costura para unir la parte del cuerpo cilíndrico?",
+        "answers": [
+          "Los envases de hojalata.",
+          "Los envases de aluminio.",
+          "Los envases de hojalata y aluminio.",
+          "Ninguna de las anteriores es correcta."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "¿En la elaboración de un envase estructural ¿qué tipo de pensamiento necesita el diseñador para elaborarlo?",
+        "answers": [
+          "Pensamiento visual bidimensional y tridimensional.",
+          "Pensamiento crítico.",
+          "Pensamiento analítico.",
+          "Pensamiento creativo."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "El packaging estructural está formado por:",
+        "answers": [
+          "Panel superior, inferior, lateral.",
+          "Borde y esquinas.",
+          "Aleta y lengüeta.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Qué líneas del packaging están relacionadas con su construcción?",
+        "answers": [
+          "Línea de construcción.",
+          "Línea de borde.",
+          "Línea de pliegue.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Cuáles son los poliedros más utilizados para los packagings?",
+        "answers": [
+          "Prismas, pirámides, cubos y tetraedros.",
+          "Cubos e icosaedros.",
+          "Tetraedros y hexaedros.",
+          "Dodecaedros."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Dónde están ubicados los encajes de seguridad en un packaging?",
+        "answers": [
+          "Arriba.",
+          "En los laterales.",
+          "Abajo.",
+          "Ninguna de las anteriores es correcta."
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "¿Cuáles son los elementos que componen la gráfica de superficie?",
+        "answers": [
+          "Fotografía.",
+          "Ilustración.",
+          "Tipografía.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Cuál es la función del uso de la fotografía en el envase?",
+        "answers": [
+          "Comunicar informaciones prácticas.",
+          "Transmitir sensaciones y emociones al usuario sobre el producto.",
+          "Transmitir el mensaje de la marca.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Cuál es la función del uso de la ilustración en el envase?",
+        "answers": [
+          "Garantizar la eficiencia en la comunicación.",
+          "Aportar valor al producto.",
+          "Decorar.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Cuál es la función del uso de la tipografía en los envases?",
+        "answers": [
+          "Transmitir una información objetiva.",
+          "Transmitir una información objetiva y subjetiva.",
+          "Describir la información del producto.",
+          "Poner por escrito la dirección del distribuidor y de la empresa."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "¿En qué orden perciben los seres humanos los elementos gráficos del envase?",
+        "answers": [
+          "Primero el color, después la forma, fotografía y palabra.",
+          "Primero forma, después palabra, fotografía y color.",
+          "Primero color después palabra, fotografía y color.",
+          "Primero forma, después color, fotografía y palabra."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿En qué fases del proyecto utiliza el diseñador el prototipo?",
+        "answers": [
+          "Fase de diseño conceptual.",
+          "Fase de desarrollo del diseño.",
+          "Fase de diseño detallado y producción.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Para qué se utilizan los prototipos?",
+        "answers": [
+          "Para testar factores que no se puede comprobar en los dibujos.",
+          "Comprobar materiales.",
+          "Comprobar el equilibrio del objeto.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "En la fase de diseño conceptual:",
+        "answers": [
+          "No se utiliza prototipo.",
+          "El uso del prototipo en esta fase del proceso retrasa su desarrollo.",
+          "No se centra en la volumetría.",
+          "Se utiliza el modelo sencillo de baja fidelidad."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Qué son los modelos preliminares?",
+        "answers": [
+          "Modelos iniciales que se realizan en la fase de bocetos conceptuales.",
+          "Modelos iniciales que se realizan en la fase de desarrollo de testeo final con el usuario.",
+          "Modelos iniciales que se realizan para testar la producción del producto en la industria.",
+          "Modelos iniciales que se realizan para presentar al cliente."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Cuántos prototipos de propuestas suelen presentar los diseñadores a al cliente?",
+        "answers": [
+          "Dos prototipos.",
+          "Tres prototipos.",
+          "Un prototipo.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "¿Qué es el prototipado rápido sustractivo?",
+        "answers": [
+          "Es un sistema que posibilita la construcción de objetos por medio de archivos digitales. Este sistema esculpe en materia el objeto, sustrayendo el material.",
+          "Es un sistema analógico de construcción de modelos.",
+          "Es un sistema de adicción de material.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "En la fase de desarrollo del diseño, el modelo sirve de referencia en la comprobación de:",
+        "answers": [
+          "La experiencia del usuario.",
+          "La ergonomía y tamaño del objeto.",
+          "Los aspectos cognitivos.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "En la fase de diseño detallado y producción ¿con qué tipo de usuario se realizan los testeos?",
+        "answers": [
+          "Consumidores finales.",
+          "Fabricantes.",
+          "Clientes.",
+          "Equipo de diseño."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué se puede visualizar con los modelos virtuales?",
+        "answers": [
+          "Color.",
+          "Textura.",
+          "Áreas de grafismos.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Qué es el prototipado rápido aditivo?",
+        "answers": [
+          "Es un sistema analógico de construcción de un prototipo.",
+          "Es un sistema que posibilita la construcción de objetos por medio de la adicción.",
+          "Es un sistema analógico de construcción por capas.",
+          "Es un sistema analógico de sustracción de la materia."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "¿Qué debe hacer el diseñador para que no tener problemas en la gestión de archivos?",
+        "answers": [
+          "Establecer un protocolo de gestión de archivos.",
+          "Determinar cómo nombrarlos.",
+          "Determinar cómo notificar cambios y revisiones.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Qué plugin se utiliza en Illustrator que es específico para el packaging?",
+        "answers": [
+          "Esko.",
+          "Corel Draw.",
+          "Rhinoceros.",
+          "Maya."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué software es específico para el modelado 3D?",
+        "answers": [
+          "Indesign.",
+          "Rhinoceros 3D.",
+          "Photoshop.",
+          "Illustrator."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "¿Qué conocimientos consolidados debe tener claros el diseñador para trabajar con el software específico para el modelado 3D?",
+        "answers": [
+          "Geometría descriptiva.",
+          "Sistema diédrico.",
+          "Visualizar el objeto en 2D y 3D.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Qué sistema de impresión puede ser utilizado para los envases?",
+        "answers": [
+          "Flexografía.",
+          "Huecograbado.",
+          "Impresión digital.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿En qué consiste el acabado mediante barniz?",
+        "answers": [
+          "Tinta sin color que tiene la función de proteger o realzar elementos, puede ser de acabado brillante, mate y satinado.",
+          "Consiste en crear ventanas o formas.",
+          "Material metalizado con efectos de luz reflectantes.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es un dieline?",
+        "answers": [
+          "Plantilla que tiene la información con la línea de corte o de plegado de un packaging.",
+          "Extensión de archivo para la imprenta.",
+          "Software específico para packaging.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué tipo de línea debe tener una plantilla?",
+        "answers": [
+          "Línea de corte.",
+          "Línea de la marca de pliegue.",
+          "Línea de perforación.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Qué se debe verificar en la plantilla antes de enviarla a la imprenta?",
+        "answers": [
+          "Que los elementos gráficos están bien posicionados, fuera de las áreas de corte.",
+          "Que los elementos gráficos están bien posicionados, fuera de áreas de pliegue.",
+          "Que los elementos gráficos están bien posicionados, fuera de áreas de sangrado.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Qué información debe tener el documento de impresión de la plantilla?",
+        "answers": [
+          "Marca guía, barra de color y grises.",
+          "Líneas de corte.",
+          "Líneas de pliegues.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Qué elemento es importante en la comunicación de un envase para el e-commerce?",
+        "answers": [
+          "Color.",
+          "Identidad de marca.",
+          "Provocar emoción en el consumidor.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Cuáles son las fases de la cadena logística?",
+        "answers": [
+          "Fabricante, centro logístico y tienda.",
+          "Fabricante, transporte y tienda.",
+          "Centro logístico, transporte y tiendas.",
+          "Fabricante, transporte, centro logístico y tienda."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué debe contener un embalaje para que el producto pueda ser transportado?",
+        "answers": [
+          "Información sobre las condiciones de manejo.",
+          "Identificación de su contenido.",
+          "Identificación de destino y origen de su contenido",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Cuáles son los tipos de apilamiento?",
+        "answers": [
+          "Desbordado y plano.",
+          "Cruzado y en columna.",
+          "Adentrado y cruzado.",
+          "Columna y protuberante."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "¿Qué errores podemos cometer a la hora de organizar el apilado de la mercancía?",
+        "answers": [
+          "Columna y protuberante.",
+          "Paletización.",
+          "Adentrada, protuberancias, escoramiento, desbordamiento.",
+          "Unidad de carga."
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "¿Qué información debe tener en la caja la mercancía para el apilamiento?",
+        "answers": [
+          "Apilamiento y posición de cajas.",
+          "Cantidad de cajas por capa.",
+          "Cuantas capas por palé.",
+          "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Cuáles son los contenedores más utilizados en el transporte marítimo?",
+        "answers": [
+          "20 pies (6 metros) y 40 pies (12 metros).",
+          "20 pies (6 metros) y 10 pies (3 metros).",
+          "40 pies (12 metros) y 53 pies (16 metros).",
+          "20 pies (6 metros) y 53 pies (16 metros)."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Cuáles son los palés más utilizados en la cadena logística?",
+        "answers": [
+          "Americano y standard.",
+          "Europeo y americano.",
+          "Standard y europeo.",
+          "Americano, europeo y standard."
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Cuánto mide el palé americano?",
+        "answers": [
+          "800 x 1200 mm.",
+          "1219 x 1200 mm.",
+          "1200 x 1000 mm.",
+          "1200 x 1200 mm."
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "¿Cuáles son las principales características del packaging para el e-commerce?",
+        "answers": [
+          "Adaptabilidad, usabilidad, protección y eficiencia.",
+          "Adaptabilidad, usabilidad y eficiencia.",
+          "Agilidad, usabilidad, protección, eficiencia.",
+          "Protección y eficiencia."
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Quiénes son los captadores de tendencias?",
+        "answers": [
+          "Detectives de formas de vida",
+          "Personas que crean las tendencias",
+          "Consumidores de tendencias",
+          "Personas que no aceptan las tendencias"
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué es una tendencia?",
+        "answers": [
+          "Idea de carácter emocional, intelectual e incluso espiritual",
+          "Idea que define la dirección en la que algo tiende a moverse",
+          "Idea que tiene efecto en la cultura, sociedad o sector empresarial",
+          "Todas las anteriores son correctas"
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Quiénes son los innovadores en el contexto de las tendencias?",
+        "answers": [
+          "Los innovadores son el 2,5 % de la población y son los que crean la semilla de la tendencia",
+          "Los innovadores son el 16 % de la población y son los que crean la semilla de la tendencia",
+          "Los innovadores son el 2,5 % de la población y son los que miran las tendencias e identifican la innovación en ellas",
+          "Los innovadores son el 2,5 % de la población y son los que miran las tendencias e identifican la innovación en ellas"
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Quiénes son los adoptadores tempranos en el contexto de las tendencias?",
+        "answers": [
+          "Son líderes de opinión y representan el 13,5 % de la población",
+          "Son los que adoptan los nuevos modos de ver las cosas y hacerlas",
+          "Es la población que indica si la tendencia se dará en un grupo pequeño y restringido o ganará más consumidores",
+          "Todas las anteriores son correctas"
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Quién es la mayoría temprana en el contexto de las tendencias?",
+        "answers": [
+          "Aquellos que son fieles a una idea (suponen el 34 % de la población). El marketing enfoca sus esfuerzos en ellos",
+          "Aquellos que no son fieles a una idea (suponen el 13,5 % de la población). El marketing enfoca sus esfuerzos en ellos",
+          "Aquellos que son fieles a una idea (suponen el 2,5 % de la población). El marketing enfoca sus esfuerzos en ellos",
+          "Aquellos que no son fieles a una idea (suponen el 13,5 % de la población). El marketing enfoca sus esfuerzos en ellos"
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Quién es la mayoría rezagada en el contexto de las tendencias?",
+        "answers": [
+          "Son los consumidores conservadores que suponen el 34 % de la población",
+          "Aquellos que necesitan que una idea ya esté consolidada en la sociedad y conocer sus beneficios para adoptarla",
+          "Personas conservadoras",
+          "Todas las anteriores son correctas"
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Quiénes son los tradicionales en el contexto de las tendencias?",
+        "answers": [
+          "Aquellos que tardan en cambiar de hábitos y suponen el 16 % de la población",
+          "Personas resistentes a la innovación",
+          "Personas que solo adoptan un cambio cuando las demás partes de la población ya han adoptado las innovaciones en su día a día",
+          "Todas las anteriores son correctas"
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Qué son los envases inteligentes?",
+        "answers": [
+          "Son envases con control de indicadores, como de temperatura y estado del producto",
+          "Son envases con control de indicadores del estado del producto",
+          "Son envases que indican la recogido del producto",
+          "Todas las anteriores son correctas"
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "¿Cuál es el enfoque en cuanto al uso de materiales en los envases?",
+        "answers": [
+          "Utilizar materiales naturales y compostables",
+          "Utilizar cada vez más plásticos",
+          "Utilizar los mismos materiales sin la necesidad de realizar innovaciones",
+          "Ninguna de las anteriores es correcta"
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "¿Qué cambio aportan los envases conectados a la vida de las personas?",
+        "answers": [
+          "Aportan demasiada información innecesaria para el día a día de las personas",
+          "Aportan al consumidor un nuevo modo de relacionarse con el producto y un mayor control en sus hábitos de consumo y gestión de los productos",
+          "No aportan calidad de vida a las personas",
+          "Ninguna de las anteriores es correcta"
+        ],
+        "correctAnswer": "b"
+      }
+    
+  ]

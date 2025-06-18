@@ -58,6 +58,8 @@ document.addEventListener("DOMContentLoaded", () => {
     jsonFile = "./resources/preguntas-etica-extra.json";
   } else if (testType === "etica") {
     jsonFile = "./resources/preguntas-etica.json";
+  } else if (testType === "producto") {
+    jsonFile = "./resources/preguntas-producto.json";
   } else {
     console.error(
       "Tipo de test no válido. Se cargará el test de CSS por defecto."
