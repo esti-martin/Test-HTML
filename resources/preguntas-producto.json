@@ -60,7 +60,7 @@
       "correctAnswer": "a"
     },
     {
-      "question": "¿En qué categoría de objetos industriales se encuentra el packaging?",
+      "question": "*¿En qué categoría de objetos industriales se encuentra el packaging?",
       "answers": [
         "Productos industriales de consumo.",
         "Productos industriales de uso individual.",
@@ -170,7 +170,7 @@
         "correctAnswer": "c"
       },
       {
-        "question": "¿Cuáles son las características de la función práctica del packaging?",
+        "question": "*¿Cuáles son las características de la función práctica del packaging?",
         "answers": [
           "Conservar y proteger.",
           "Conservar, proteger e informar.",
@@ -240,7 +240,7 @@
         "correctAnswer": "d"
       },
       {
-        "question": "¿Qué es shopability?",
+        "question": "*¿Qué es shopability?",
         "answers": [
           "La facilidad que el consumidor posee de encontrar un producto en el local que lo vende.",
           "El acto de salir de compras.",
@@ -270,7 +270,7 @@
         "correctAnswer": "d"
       },
       {
-        "question": "¿Cuál fue el objetivo de la creación del envase en Tetra Pak?",
+        "question": "*¿Cuál fue el objetivo de la creación del envase en Tetra Pak?",
         "answers": [
           "El objetivo de su creación fue obtener un envase para la leche con el mínimo material y la máxima higiene.",
           "El objetivo de su creación fue obtener un envase de forma tetraedro.",
@@ -320,7 +320,7 @@
         "correctAnswer": "d"
       },
       {
-        "question": "¿Qué es el ciclo de vida del producto?",
+        "question": "*¿Qué es el ciclo de vida del producto?",
         "answers": [
           "Pensar en cómo se produce fabrica, transporta, embala, usa y elimina el producto.",
           "Pensar solo en la parte de reciclaje del producto.",
@@ -480,7 +480,7 @@
         "correctAnswer": "d"
       },
       {
-        "question": "¿Cómo se organiza la información de un producto?",
+        "question": "*¿Cómo se organiza la información de un producto?",
         "answers": [
           "Se organiza en dos partes: en la información vista de lejos y en la vista de cerca.",
           "Se organiza en una parte, en la información técnica.",
@@ -560,7 +560,7 @@
         "correctAnswer": "a"
       },
       {
-        "question": "¿Cuáles son las variables de la segmentación de mercado?",
+        "question": "*¿Cuáles son las variables de la segmentación de mercado?",
         "answers": [
           "Geográficas, demográfica y psicográfica.",
           "Geográficas y demográfica.",
@@ -630,7 +630,7 @@
         "correctAnswer": "b"
       },
       {
-        "question": "¿Qué proceso de fabricación es el más adecuado para envases de cristal de cuello estrecho?",
+        "question": "*¿Qué proceso de fabricación es el más adecuado para envases de cristal de cuello estrecho?",
         "answers": [
           "Moldeo del vidrio por soplado y resoplado.",
           "Moldeo del vidrio por soplado y resoplado y moldeo del vidrio por prensado y soplado.",
@@ -690,7 +690,7 @@
         "correctAnswer": "c"
       },
       {
-        "question": "¿Qué envase metálico no necesita de costura para unir la parte del cuerpo cilíndrico?",
+        "question": "*¿Qué envase metálico no necesita de costura para unir la parte del cuerpo cilíndrico?",
         "answers": [
           "Los envases de hojalata.",
           "Los envases de aluminio.",
@@ -730,7 +730,7 @@
         "correctAnswer": "d"
       },
       {
-        "question": "¿Cuáles son los poliedros más utilizados para los packagings?",
+        "question": "*¿Cuáles son los poliedros más utilizados para los packagings?",
         "answers": [
           "Prismas, pirámides, cubos y tetraedros.",
           "Cubos e icosaedros.",
@@ -890,7 +890,7 @@
         "correctAnswer": "d"
       },
       {
-        "question": "¿Qué es el prototipado rápido aditivo?",
+        "question": "*¿Qué es el prototipado rápido aditivo?",
         "answers": [
           "Es un sistema analógico de construcción de un prototipo.",
           "Es un sistema que posibilita la construcción de objetos por medio de la adicción.",
@@ -960,7 +960,7 @@
         "correctAnswer": "a"
       },
       {
-        "question": "¿Qué es un dieline?",
+        "question": "*¿Qué es un dieline?",
         "answers": [
           "Plantilla que tiene la información con la línea de corte o de plegado de un packaging.",
           "Extensión de archivo para la imprenta.",
@@ -1030,7 +1030,7 @@
         "correctAnswer": "d"
       },
       {
-        "question": "¿Cuáles son los tipos de apilamiento?",
+        "question": "*¿Cuáles son los tipos de apilamiento?",
         "answers": [
           "Desbordado y plano.",
           "Cruzado y en columna.",
@@ -1090,7 +1090,7 @@
         "correctAnswer": "b"
       },
       {
-        "question": "¿Cuáles son las principales características del packaging para el e-commerce?",
+        "question": "*¿Cuáles son las principales características del packaging para el e-commerce?",
         "answers": [
           "Adaptabilidad, usabilidad, protección y eficiencia.",
           "Adaptabilidad, usabilidad y eficiencia.",
@@ -1100,7 +1100,7 @@
         "correctAnswer": "a"
       },
       {
-        "question": "¿Quiénes son los captadores de tendencias?",
+        "question": "*¿Quiénes son los captadores de tendencias?",
         "answers": [
           "Detectives de formas de vida",
           "Personas que crean las tendencias",
