@@ -83,10 +83,16 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
   function selectRandomQuestions() {
-    const shuffled = questions.sort(() => 0.5 - Math.random());
-    selectedQuestions = shuffled.slice(0, 10); // Selecciona 10 preguntas aleatorias
-    console.log("Preguntas seleccionadas:", selectedQuestions); // Depuración
+  // Hacer una copia del array original
+  const questionsCopy = [...questions];
+  // Fisher-Yates shuffle
+  for (let i = questionsCopy.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [questionsCopy[i], questionsCopy[j]] = [questionsCopy[j], questionsCopy[i]];
   }
+  selectedQuestions = questionsCopy.slice(0, 10); // Selecciona 10 preguntas aleatorias
+  console.log("Preguntas seleccionadas:", selectedQuestions); // Depuración
+}
 
   // Actualizar la función loadQuestion para usar escapeHTML
   function loadQuestion() {
