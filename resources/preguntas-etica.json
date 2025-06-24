@@ -1398,6 +1398,16 @@
           "Acuerdo de no competencia."
         ],
         "correctAnswer": "d"
+      },
+      {
+        "question": "La ética de la convicción es...",
+        "answers": [
+          "La de valores políticos y sin conscuencias.",
+          "La de valores absolutos y sin considerar las consecuencias.",
+          "La de valores y consecuencias.",
+          "LA de valores políticos y con consecuencias."
+        ],
+        "correctAnswer": "b"
       }
   ]
   
